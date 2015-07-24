@@ -12,6 +12,6 @@ This post tests comments in the following ways.
 - Comment images
 - Comment videos
 - Author comments
-- Gravatars and default fallbacks
- 
+- [Gravatars and default fallbacks](/Jetpack/tiled-gallery.md)
+
   
