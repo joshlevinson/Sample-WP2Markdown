@@ -1,7 +1,9 @@
 ---
-title: Pingbacks And Trackbacks
-old_url: http://emarsys.dev/?p=151
+title: 'Pingbacks And Trackbacks'
+tags: ''
+old_url: 'http://emarsys.dev/?p=151'
 ---
+
 This post has many pingpacks and trackbacks. There are a few ways to list them.
 
 1. Above the comments

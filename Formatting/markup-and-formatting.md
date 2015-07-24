@@ -1,7 +1,9 @@
 ---
-title: Markup And Formatting
-old_url: http://emarsys.dev/?p=919
+title: 'Markup And Formatting'
+tags: ''
+old_url: 'http://emarsys.dev/?p=919'
 ---
+
 Headings
 --------
 
@@ -71,4 +73,4 @@ HTML Tags
     	line-height: 1.2;
     }
 
- **Quote Tag** <q>Developers, developers, developers...</q> --Steve Ballmer **Strong Tag** This tag shows **bold** text.**** **Subscript Tag** Getting our science styling on with H<sub>2</sub>O, which should push the "2" down. **Superscript Tag** Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which should lift the "2" up. **Teletype Tag** This rarely used tag emulates <tt>teletype text</tt>, which is usually styled like the `` tag. **Variable Tag** This allows you to denote <var>variables</var>.
+ **Quote Tag** <q>Developers, developers, developers...</q> --Steve Ballmer **Strong Tag** This tag shows **bold** text.**** **Subscript Tag** Getting our science styling on with H<sub>2</sub>O, which should push the "2" down. **Superscript Tag** Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which should lift the "2" up. **Teletype Tag** This rarely used tag emulates <tt>teletype text</tt>, which is usually styled like the `` tag. **Variable Tag** This allows you to denote <var>variables</var>.

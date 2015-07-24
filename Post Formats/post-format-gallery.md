@@ -1,7 +1,9 @@
 ---
-title: Post Format: Gallery
-old_url: http://emarsys.dev/?p=555
+title: 'Post Format: Gallery'
+tags: ''
+old_url: 'http://emarsys.dev/?p=555'
 ---
+
 [gallery]  You can use this page to test the Theme's handling of the[gallery] shortcode, including the `columns` parameter, from 1 to 10 columns. Themes are only required to support the default setting (3 columns), so this page is entirely optional.
 
 One Column
