@@ -12,7 +12,7 @@ old_url: 'http://emarsys.dev/suite/online-help/forms-description/'
 
 1. Enter a **Form name**.
 2. Enter a **Form description**. This text is optional.
-3. Click **To Settings** to go to the [General Settings](/olh/working-with-forms.md "Forms â&#128;&#147; General Settings") page, where you can make various settings for the layout of your form.
+3. Click **To Settings** to go to the [General Settings](/olh/working-with-forms.md "Forms – General Settings") page, where you can make various settings for the layout of your form.
 4. Select a **Form** **language**.
 
  Click **Save** to save your settings.
@@ -39,6 +39,6 @@ old_url: 'http://emarsys.dev/suite/online-help/forms-description/'
 - Open empty registration form
 
 
- For more information on this, see: [Login feature](/olh/about-forms.md "Forms â&#128;&#147; About Forms"). Click **Save** to save your settings.
+ For more information on this, see: [Login feature](/olh/about-forms.md "Forms – About Forms"). Click **Save** to save your settings.
 
 **

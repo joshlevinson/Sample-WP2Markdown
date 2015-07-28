@@ -30,7 +30,7 @@ These audiences can be created once and left unchanged, or can be kept dynamical
 
 **Summary:** Custom audiences are a great way to make sure that you are reaching the right people with the right message, just like with email.
 
-##### Â Lookalike audiences
+#####  Lookalike audiences
 
 These are new custom audiences that Facebook creates by itself, based on a custom audience that you provide (which is in turn based on a segment, e.g. Platinum Buyers). Facebook uses its own algorithms to find users who match the contacts in your audience, providing you with a great channel for acquiring new customers who share interests and/or friends with your existing customer base.
 

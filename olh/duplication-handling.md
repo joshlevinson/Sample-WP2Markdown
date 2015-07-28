@@ -10,8 +10,8 @@ old_url: 'http://emarsys.dev/suite/online-help/duplication-handling/'
 
  If there are any doubts that the contacts are identical (same first name, same last name but different email address) the duplicate data in question (also referred to as **suspects**) is lined up on the **Duplication Handling - Overview** page; as an administrator, you can decide whether or not to merge them.
 
-1. Click [![view_details_icon](/assets/images/view_details_icon.png)](/assets/images/view_details_icon.png)Â to access the **Confrontation** field where you can compare the contacts in question.
-2. To merge two records click â&#134;&#146; â&#134;&#144; Â . To define the contacts as being different, click â&#134;&#144;|â&#134;&#146; .
+1. Click [![view_details_icon](/assets/images/view_details_icon.png)](/assets/images/view_details_icon.png) to access the **Confrontation** field where you can compare the contacts in question.
+2. To merge two records click → ←  . To define the contacts as being different, click ←|→ .
 3. Tick **Save settings** to save your changes.
 
 **

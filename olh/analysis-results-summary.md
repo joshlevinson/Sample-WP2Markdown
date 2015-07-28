@@ -35,7 +35,7 @@ old_url: 'http://emarsys.dev/suite/online-help/analysis-results-summary/'
 
 #### Social Networks
 
- Summary of Social Network activities on here, for more detail click on the [Social Network Tracking](/olh/analysis-social-network-tracking.md "Analysis â&#128;&#147; Social Network Tracking") section.
+ Summary of Social Network activities on here, for more detail click on the [Social Network Tracking](/olh/analysis-social-network-tracking.md "Analysis – Social Network Tracking") section.
 
 #### Email Formats
 
@@ -43,6 +43,6 @@ old_url: 'http://emarsys.dev/suite/online-help/analysis-results-summary/'
 
 #### Additional Activity
 
- Breakdown of how many recipients actually performed the action e.g. click a save button in a profile change, or used the unsubscribe feature. These clicks are graphed on the [Individual Link Tracking](/olh/analysis-individual-link-tracking.md "Analysis â&#128;&#147; Individual Link Tracking") page.
+ Breakdown of how many recipients actually performed the action e.g. click a save button in a profile change, or used the unsubscribe feature. These clicks are graphed on the [Individual Link Tracking](/olh/analysis-individual-link-tracking.md "Analysis – Individual Link Tracking") page.
 
 **

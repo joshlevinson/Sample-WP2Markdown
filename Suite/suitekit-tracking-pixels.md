@@ -35,7 +35,7 @@ Tracking Pixels**Campaigns**
  
 <a name="view-code"></a>### 3. Viewing the tracking pixel code
 
- Click theÂ [![view_details_icon](/assets/images/view_details_icon.png)](/assets/images/view_details_icon.png) icon to view the pixel code.
+ Click the [![view_details_icon](/assets/images/view_details_icon.png)](/assets/images/view_details_icon.png) icon to view the pixel code.
 
 <div class="row">[![social-pixel-code](/assets/images/social-pixel-code.png)](/assets/images/social-pixel-code.png)</div> Here you can copy the code and paste it into your target web page, or email it to your web master/agency.<a name="edit"></a>
 

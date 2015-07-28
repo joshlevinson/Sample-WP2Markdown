@@ -20,15 +20,15 @@ old_url: 'http://emarsys.dev/suite/online-help/about-forms/'
 
 #### Contact Us form
 
- This type is used to generate a form for a contact request. If you decide to create a Contact Us form, the Forms tab menu is extended with a Recipients page. On the corresponding page you can create recipients, specify individual responsibilities and provide the corresponding email addresses. On the [Data Fields](/olh/forms-data-fields.md "Forms â&#128;&#147; Data Fields") page you can select an opt-in invitation from another form and include it in the Contact Us. On the [Source Code](/olh/forms-source-code.md "Forms â&#128;&#147; HTML Source Code") page, an individual link is created for every recipient you add. You can copy the link and place it in the source code of your page (e.g. the support page). If a contact clicks the link, they go directly to the form of the designated recipient. In doing this, you avoid having an additional page where the contact must make yet another selection.
+ This type is used to generate a form for a contact request. If you decide to create a Contact Us form, the Forms tab menu is extended with a Recipients page. On the corresponding page you can create recipients, specify individual responsibilities and provide the corresponding email addresses. On the [Data Fields](/olh/forms-data-fields.md "Forms – Data Fields") page you can select an opt-in invitation from another form and include it in the Contact Us. On the [Source Code](/olh/forms-source-code.md "Forms – HTML Source Code") page, an individual link is created for every recipient you add. You can copy the link and place it in the source code of your page (e.g. the support page). If a contact clicks the link, they go directly to the form of the designated recipient. In doing this, you avoid having an additional page where the contact must make yet another selection.
 
 #### Form templates
 
- All form types except Contact Us forms can be created via form templates. To integrate such a form template into your account, you must provide Emarsys with detailed design specifications. For the additional functionalities coming with this feature, see [Form Templates](/olh/form-templates.md "Forms â&#128;&#147; Form Templates"). For more information, please contact your Account Manager.
+ All form types except Contact Us forms can be created via form templates. To integrate such a form template into your account, you must provide Emarsys with detailed design specifications. For the additional functionalities coming with this feature, see [Form Templates](/olh/form-templates.md "Forms – Form Templates"). For more information, please contact your Account Manager.
 
 #### Login feature
 
- The login feature can be activated on the [Form Description](/olh/forms-description.md "Forms â&#128;&#147; Description") page; it assists you in the following:
+ The login feature can be activated on the [Form Description](/olh/forms-description.md "Forms – Description") page; it assists you in the following:
 
 - You can provide registered contacts with an opportunity to update their profiles via your website. A contact's login data is unique; as soon as contacts have been identified they can access the actual form and update their data.
 - If your customer data is incomplete (e.g. there are email addresses missing) you can encourage your customers to provide information via offline promotions. Via a login form on your website each contact is identified by unique criteria; duplicates are avoided.

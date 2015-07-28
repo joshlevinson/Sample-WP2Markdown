@@ -26,7 +26,7 @@ SNCD
 
 <div class="thumb tright"><div class="thumbinner" style="width: 97px;">[![](/assets/images/ListOfAccreditations_Page_3_Image_0004.png)](/assets/images/ListOfAccreditations_Page_3_Image_0004.png)</div><div class="thumbinner" style="width: 97px;"></div>##### What is it?
 
-- Established in 1933, the SNCD is a professional organisation of 140 member companies dedicated to promoting the ethical use of communication channels in marketing, performing research and analysis to maintain market regulation and ensure compliance of itâ&#128;&#153;s members to the code of conduct.
+- Established in 1933, the SNCD is a professional organisation of 140 member companies dedicated to promoting the ethical use of communication channels in marketing, performing research and analysis to maintain market regulation and ensure compliance of it’s members to the code of conduct.
 
 ##### Where does it operate?
 
@@ -96,12 +96,12 @@ Sender Score
 
 - Sender Score do not list their members on their website. Emarsys is partner of Sender Score in order to frequently evaluate our processes.
 
-TÃ&#156;V SÃ&#156;D
----------
+TÜV SÜD
+-------
 
 <div class="thumb tright"><div class="thumbinner" style="width: 92px;">[![ListOfAccreditations Page 5 Image 0004.png](/assets/images/ListOfAccreditations_Page_5_Image_0004.png)](/assets/images/ListOfAccreditations_Page_5_Image_0004.png)</div><div class="thumbinner" style="width: 92px;"></div> </div>##### What is it?
 
-- TÃ&#156;V SÃ&#156;D is a consultancy firm who specialized in solving all manner of issues surrounding IT security, operating in conjunction with many certifications such as the ISO 27001. TÃ&#156;V SÃ&#156;D's experienced auditors possess the expertise and training to conduct audits for information security and other quality management systems.
+- TÜV SÜD is a consultancy firm who specialized in solving all manner of issues surrounding IT security, operating in conjunction with many certifications such as the ISO 27001. TÜV SÜD's experienced auditors possess the expertise and training to conduct audits for information security and other quality management systems.
 
 ##### Where does it operate?
 
@@ -109,7 +109,7 @@ TÃ&#156;V SÃ&#156;D
 
 ##### Where to find Emarsys?
 
-- TÃ&#156;V SÃ&#156;D do not list their members on their website. TÃ&#156;V SÃ&#156;D audits Emarsys with respect to the ISO 27001 accreditation.
+- TÜV SÜD do not list their members on their website. TÜV SÜD audits Emarsys with respect to the ISO 27001 accreditation.
 
 Verisign
 --------

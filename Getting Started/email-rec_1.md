@@ -46,7 +46,7 @@ The Email Recommender widgets can be used in virtually any email. However, this 
 - Enhance the experience with more targeted recommendations.
 - Useful for inventory management.
 
-#### Â Our examples
+####  Our examples
 
 - Our first example is to use the ***Mail Personal** *widget to include between four and eight recommendations in **every marketing email that you send out**, including regular newsletters.
 

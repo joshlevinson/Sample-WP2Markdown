@@ -4,7 +4,7 @@ tags: 'olh, SuiteAdmin'
 old_url: 'http://emarsys.dev/suite/online-help/about-reply-management/'
 ---
 
-**Admin menu ->** Reply Management** Via Reply Management you manage reply mails and react to them. All incoming reply mails are categorized and processed/forwarded as defined by you. This way, **IMPORTANT** reply mails will not get lost among the bulk of **out of office** emails (automatic responses in case of vacation/illness). All reply mails go to the Reply [Inbox](/olh/reply-management-inbox.md "Admin â&#128;&#147; Reply Management â&#128;&#147; Inbox"). **Attention**: For the Reply Management to work properly, [at least one reply email address](/olh/reply-management-actions.md "Admin â&#128;&#147; Reply Management â&#128;&#147; Actions") must be set up.
+**Admin menu ->** Reply Management** Via Reply Management you manage reply mails and react to them. All incoming reply mails are categorized and processed/forwarded as defined by you. This way, **IMPORTANT** reply mails will not get lost among the bulk of **out of office** emails (automatic responses in case of vacation/illness). All reply mails go to the Reply [Inbox](/olh/reply-management-inbox.md "Admin – Reply Management – Inbox"). **Attention**: For the Reply Management to work properly, [at least one reply email address](/olh/reply-management-actions.md "Admin – Reply Management – Actions") must be set up.
 
 #### Reply email categories
 
@@ -20,7 +20,7 @@ These are automated or manual reply emails that indicate that the contact has ch
 
 - **Challenge Response**
 
-These reply emails constitute an anti-spam technique (US only) which sends emails only after senders have authenticated (by clicking a link or sending an email with content that cannot be generated automatically). This way some companies/providers try to avoid (automatically generated) emails from mass email senders. If Â an email inbox server was configured for challenge response, it sends an email to the reply email address of your email; the potential recipient, who wants to receive your emails, does not receive any.
+These reply emails constitute an anti-spam technique (US only) which sends emails only after senders have authenticated (by clicking a link or sending an email with content that cannot be generated automatically). This way some companies/providers try to avoid (automatically generated) emails from mass email senders. If  an email inbox server was configured for challenge response, it sends an email to the reply email address of your email; the potential recipient, who wants to receive your emails, does not receive any.
 
 - **Contact us**
 

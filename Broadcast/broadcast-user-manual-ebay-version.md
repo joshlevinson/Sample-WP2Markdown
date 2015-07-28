@@ -7,7 +7,7 @@ old_url: 'http://emarsys.dev/resources/broadcast-user-manual-ebay-version/'
 Introduction
 ------------
 
- Welcome to Emarsys Broadcast, the email marketing solution for high-volume senders. Emarsys Broadcast can process large amounts of data in record time; you can, for example, import 5 million email addresses in 10 minutes or display the response (open rates, click-throughs, etc.) of a 15 million-email campaign in real time. The current launch speed of 10 million emails per hour can be manually altered to accommodate slower website response times. Emarsys Broadcast is designed for virtually unlimited list sizes. With Emarsys Broadcast, you can personalize and individualize your emails to tailor them to the needs at hand; for each customer, individual images and links can be used. The application and user interface of Emarsys Broadcast were designed by marketers for marketers and do not require any prior IT knowledge. This user guide provides you with detailed information on what you can do with Emarsys Broadcast â&#128;&#147; and how to do it.
+ Welcome to Emarsys Broadcast, the email marketing solution for high-volume senders. Emarsys Broadcast can process large amounts of data in record time; you can, for example, import 5 million email addresses in 10 minutes or display the response (open rates, click-throughs, etc.) of a 15 million-email campaign in real time. The current launch speed of 10 million emails per hour can be manually altered to accommodate slower website response times. Emarsys Broadcast is designed for virtually unlimited list sizes. With Emarsys Broadcast, you can personalize and individualize your emails to tailor them to the needs at hand; for each customer, individual images and links can be used. The application and user interface of Emarsys Broadcast were designed by marketers for marketers and do not require any prior IT knowledge. This user guide provides you with detailed information on what you can do with Emarsys Broadcast – and how to do it.
 
 Campaigns Tab
 -------------
@@ -163,7 +163,7 @@ Campaigns Tab
 
  Go to **From and Reply** and select an email address from the dropdown list. In the outgoing email, this address is displayed as the sender's address; it is the only address a reply email can be sent to.
 
-<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">To define a new reply address, go to the **Administration** tab and select **Senders**. If you need to add a new sender domain, please contactÂ Emarsys Support in order to authenticate it.</td></tr></tbody></table>#### Define a subject line
+<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">To define a new reply address, go to the **Administration** tab and select **Senders**. If you need to add a new sender domain, please contact Emarsys Support in order to authenticate it.</td></tr></tbody></table>#### Define a subject line
 
 1. Go to **Subject Line** and manually enter the subject line text.
 2. If required, you can now personalize the subject line (**1**): 1. Click **Personalization** to insert more detailed recipient data e.g. a title, first name, last name, etc. The variables which will be entered in the **Subject Line** field are the column headers you have matched to the imported data during import; they are prefixed and suffixed with a double dollar sign, e.g. *$$Title$$*, *$$Last_name$$*, etc.
@@ -187,7 +187,7 @@ Campaigns Tab
 2. Go to **Encoding** and select the preferred character encoding.
 3. Click **Upload Content**. The HTML editor will display the code in Source mode.
 
- â&#134;&#146; You can now edit the code in Source mode, or switch to WYSIWYG mode and view or work on it there.
+ → You can now edit the code in Source mode, or switch to WYSIWYG mode and view or work on it there.
 
 ##### Create your own content in the Broadcast HTML Editor
 
@@ -206,10 +206,10 @@ Campaigns Tab
 
  Regardless of whether HTML is uploaded or created in the HTML editor, all image URLs included in the email's HTML version must be a reference to an image placed in a local folder on your computer. Every campaign requires a two-step process to display images correctly in the final version of your email: After uploading or creating the HTML click on "Upload Images" on the top right of the edit campaign screen. You will be prompted to browse your computer and select all image files needed for the campaign. A pop-up window will let you know once the upload is completed.
 
-- Click **Publish Images** â&#134;&#146;The images are transferred from the Emarsys server to eBay's server where they will be hosted for the duration of the campaign.
+- Click **Publish Images** →The images are transferred from the Emarsys server to eBay's server where they will be hosted for the duration of the campaign.
 - As soon as all images are visible in the preview the process is finished.
  
-<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Plan some extra time in your campaign creation process, since syncing between the servers might take up to 30Â minutes for campaigns with many images.</td></tr></tbody></table>#### Create versions
+<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Plan some extra time in your campaign creation process, since syncing between the servers might take up to 30 minutes for campaigns with many images.</td></tr></tbody></table>#### Create versions
 
  You can create different versions of a campaign (**8**) and send them to small percentages of the launch list. Later you can schedule the final campaign with the version which, according to the values displayed for **Uniq.Op./Total** (open rate) and **Uniq.Cl./Total** (click rate) on the **Reports** tab, has performed the best. To create a version, do the following:
 
@@ -234,7 +234,7 @@ Campaigns Tab
 
 - Click **Plus** (**+**) for personalizing the user-defined unsubscribe link.
 
- â&#134;&#146; The selectable fields in the dropdown list are the fields which are assigned to the campaign: [![Brd mnl-050-108.jpg](/assets/images/Brd_mnl-050-108.jpg)](/assets/images/Brd_mnl-050-108.jpg) [![Brd mnl-050-109.jpg](/assets/images/Brd_mnl-050-109.jpg)](/assets/images/Brd_mnl-050-109.jpg)
+ → The selectable fields in the dropdown list are the fields which are assigned to the campaign: [![Brd mnl-050-108.jpg](/assets/images/Brd_mnl-050-108.jpg)](/assets/images/Brd_mnl-050-108.jpg) [![Brd mnl-050-109.jpg](/assets/images/Brd_mnl-050-109.jpg)](/assets/images/Brd_mnl-050-109.jpg)
 
 #### Manage links
 
@@ -263,7 +263,7 @@ Campaigns Tab
 6. Click **Save Configuration**.
 7. Click **Send Approval Request**.
 
- â&#134;&#146; The recipient(s) of your approval request receive an email with the message you entered and a link which leads to the approval log.
+ → The recipient(s) of your approval request receive an email with the message you entered and a link which leads to the approval log.
 
 ### Approval log
 
@@ -354,7 +354,7 @@ Campaigns Tab
 - Enter an ExternalID for the recurrence.
 - Click **Start Import**.
 
-<div class="center"><div class="floatnone">[![BRD Recurring 002.jpg](/assets/images/BRD_Recurring_002.jpg)](/assets/images/BRD_Recurring_002.jpg)</div></div> â&#134;&#146; The manual import is done:
+<div class="center"><div class="floatnone">[![BRD Recurring 002.jpg](/assets/images/BRD_Recurring_002.jpg)](/assets/images/BRD_Recurring_002.jpg)</div></div> → The manual import is done:
 
 <div class="center"><div class="floatnone">[![BRD Recurring 003.jpg](/assets/images/BRD_Recurring_003.jpg)](/assets/images/BRD_Recurring_003.jpg)</div></div>- Click **Switch to Campaign View**.
 
@@ -375,7 +375,7 @@ Campaigns Tab
 <table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">This feature allows you to edit the selected recurrence. All changes made here apply to this recurrence **only** and do not affect the parent campaign.</td> </tr></tbody></table>[![BRD Recurring 001.jpg](/assets/images/BRD_Recurring_001.jpg)](/assets/images/BRD_Recurring_001.jpg)- In the **Campaign View**, click **Clone and edit**.
 - Acknowledge the message.
 
-<div class="center"><div class="floatnone">[![BRD Recurring 006.png](/assets/images/BRD_Recurring_006.png)](/assets/images/BRD_Recurring_006.png)</div></div> â&#134;&#146; The selected recurrence is automatically cloned for you. You can now start to edit it. The **Edit recurring screen** is shown:
+<div class="center"><div class="floatnone">[![BRD Recurring 006.png](/assets/images/BRD_Recurring_006.png)](/assets/images/BRD_Recurring_006.png)</div></div> → The selected recurrence is automatically cloned for you. You can now start to edit it. The **Edit recurring screen** is shown:
 
 <div class="center"><div class="floatnone">[![BRD Recurring 007.jpg](/assets/images/BRD_Recurring_007.jpg)](/assets/images/BRD_Recurring_007.jpg)</div></div>- Edit your recurrence as necessary.
 - Click **Save Content**.
@@ -399,11 +399,11 @@ Campaigns Tab
 
  We have an email-based notification system for import errors. If an import fails, you can use manual import, for example to select failed files and to restart the process.
 
-<fieldset class="bsErrorFieldset"><legend class="bsErrorLegend">Bookshelf - Error</legend><div id="bs-element-1"><div class="bsTagError">The provided source article ("Books:Suite API Technical Reference") does not exist.</div></div></fieldset>###### Automatic import â&#128;&#148; file name convention
+<fieldset class="bsErrorFieldset"><legend class="bsErrorLegend">Bookshelf - Error</legend><div id="bs-element-1"><div class="bsTagError">The provided source article ("Books:Suite API Technical Reference") does not exist.</div></div></fieldset>###### Automatic import — file name convention
 
  For ad-hoc campaigns, the format of the file name should be: `[EXTERNAL_ID]-[CAMPAIGN_NAME]-[PROFILE_NAME]-[CREATED_TIME].csv` For recurring campaigns, the file format will include the recurrence date: `[EXTERNAL_ID]-[CAMPAIGN_NAME]-[PROFILE_NAME]-[CREATED_TIME]-[SCHEDULED_TIME].csv` The different parts of the file name are:
 
-<table align="left" border="1" cellpadding="1" class="wikitable" style="width: 100%;"><caption>Â File Naming convention</caption> <thead><tr><th>Field</th> <th>Description</th> </tr></thead><tbody><tr><td>CAMPAIGN_NAME</td> <td>The campaign ID in our system, seen on the overview screen.</td> </tr><tr><td>PROFILE_NAME</td> <td>The numeric ID or name of the automated import profile, accessible from the Administration tab</td> </tr><tr><td>CREATED_TIME</td> <td>The time the file was created.</td> </tr><tr><td>SCHEDULED_TIME</td> <td>The scheduled launch date of the recurring campaign.</td> </tr><tr><td>EXTERNAL_ID</td> <td>ID chosen by the client</td></tr></tbody></table>  
+<table align="left" border="1" cellpadding="1" class="wikitable" style="width: 100%;"><caption> File Naming convention</caption> <thead><tr><th>Field</th> <th>Description</th> </tr></thead><tbody><tr><td>CAMPAIGN_NAME</td> <td>The campaign ID in our system, seen on the overview screen.</td> </tr><tr><td>PROFILE_NAME</td> <td>The numeric ID or name of the automated import profile, accessible from the Administration tab</td> </tr><tr><td>CREATED_TIME</td> <td>The time the file was created.</td> </tr><tr><td>SCHEDULED_TIME</td> <td>The scheduled launch date of the recurring campaign.</td> </tr><tr><td>EXTERNAL_ID</td> <td>ID chosen by the client</td></tr></tbody></table>  
 
 <table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">For example, the ad-hoc campaign *00000-SignatureTest_20090301* using the import profile *BuyerProfile* would have the file name *00000-SignatureTest_20090301-BuyerProfile-20080323235658.csv*, with the control file *00000-SignatureTest_20090301-BuyerProfile-20080323235658.csv.ctl* created once the transfer was complete.</td> </tr></tbody></table><table cellpadding="1" class="wikitable" style="width: 100%; border: 1px solid #fff;"><tbody><tr><td scope="col" style="text-align: left; border: 1px solid #fff;" width="60px">[![Icon FurtherReading.png](/assets/images/Icon_FurtherReading.png)](/assets/images/Icon_FurtherReading.png)</td> <td scope="col" style="border: 1px solid #fff;">For further information, see document "[Broadcast Recipient Data Import](http://emarsys.bluespice.de/index.php/Recipient_Data_Import "Recipient Data Import")"</td></tr></tbody></table>Conditional Content
 -------------------
@@ -412,7 +412,7 @@ Campaigns Tab
 
 ### Conditional Content screen
 
-[![Brd mnl-022-033.jpg](/assets/images/Brd_mnl-022-033.jpg)](/assets/images/Brd_mnl-022-033.jpg) To use conditional text in the subject line click **Cond. Text** (**1**). To use conditional text in the editor click **Conditional Content** (**2**). In both cases the following screen appears: [![Brd mnl-022-034.jpg](/assets/images/Brd_mnl-022-034.jpg)](/assets/images/Brd_mnl-022-034.jpg) Click **Add** (**1**) to create the condition. [![Brd mnl-022-035.jpg](/assets/images/Brd_mnl-022-035.jpg)](/assets/images/Brd_mnl-022-035.jpg) Name your condition so you can differentiate it from other conditions. The names of conditions can only contain alphanumeric characters (letters and digits). Spaces or special characters (e.g. @#$Â %^&*) are not allowed. Click **Create** (**1**); the condition name will be displayed in the overview screen. [![Brd mnl-023-037.jpg](/assets/images/Brd_mnl-023-037.jpg)](/assets/images/Brd_mnl-023-037.jpg) Click the name of the condition (**1**) to edit it.
+[![Brd mnl-022-033.jpg](/assets/images/Brd_mnl-022-033.jpg)](/assets/images/Brd_mnl-022-033.jpg) To use conditional text in the subject line click **Cond. Text** (**1**). To use conditional text in the editor click **Conditional Content** (**2**). In both cases the following screen appears: [![Brd mnl-022-034.jpg](/assets/images/Brd_mnl-022-034.jpg)](/assets/images/Brd_mnl-022-034.jpg) Click **Add** (**1**) to create the condition. [![Brd mnl-022-035.jpg](/assets/images/Brd_mnl-022-035.jpg)](/assets/images/Brd_mnl-022-035.jpg) Name your condition so you can differentiate it from other conditions. The names of conditions can only contain alphanumeric characters (letters and digits). Spaces or special characters (e.g. @#$ %^&*) are not allowed. Click **Create** (**1**); the condition name will be displayed in the overview screen. [![Brd mnl-023-037.jpg](/assets/images/Brd_mnl-023-037.jpg)](/assets/images/Brd_mnl-023-037.jpg) Click the name of the condition (**1**) to edit it.
 
 ### Working with conditions
 
@@ -525,7 +525,7 @@ Administration Tab
 
 ##### Enabling Two-Factor-Authentication
 
- The feature can be enabled for each account individually: Go to **Administration** â&#134;&#146; **Account Settings** in the Web Application and tick the checkbox. â&#134;&#146; After enabling the feature, each user will be asked to enter a mobile phone number which will be used to send verification codes during the authentication process: [![Brd mnl 2factor-034-063.jpg](/assets/images/Brd_mnl_2factor-034-063.jpg)](/assets/images/Brd_mnl_2factor-034-063.jpg) The last 3 digits of the phone number can be seen under **Administration** â&#134;&#146; **Users**. If no phone number has been confirmed yet this is displayed as ***---: [![Brd mnl 2factor-034-064.jpg](/assets/images/Brd_mnl_2factor-034-064.jpg)](/assets/images/Brd_mnl_2factor-034-064.jpg)
+ The feature can be enabled for each account individually: Go to **Administration** → **Account Settings** in the Web Application and tick the checkbox. → After enabling the feature, each user will be asked to enter a mobile phone number which will be used to send verification codes during the authentication process: [![Brd mnl 2factor-034-063.jpg](/assets/images/Brd_mnl_2factor-034-063.jpg)](/assets/images/Brd_mnl_2factor-034-063.jpg) The last 3 digits of the phone number can be seen under **Administration** → **Users**. If no phone number has been confirmed yet this is displayed as ***---: [![Brd mnl 2factor-034-064.jpg](/assets/images/Brd_mnl_2factor-034-064.jpg)](/assets/images/Brd_mnl_2factor-034-064.jpg)
 
 ##### Logging on
 
@@ -537,7 +537,7 @@ Administration Tab
 - Select **Reset Mobile Phone**.
 - Click **Save**.
 
- â&#134;&#146; The user will be prompted to enter a phone number at the next login. [![Brd mnl 2factor-035-067.jpg](/assets/images/Brd_mnl_2factor-035-067.jpg)](/assets/images/Brd_mnl_2factor-035-067.jpg)
+ → The user will be prompted to enter a phone number at the next login. [![Brd mnl 2factor-035-067.jpg](/assets/images/Brd_mnl_2factor-035-067.jpg)](/assets/images/Brd_mnl_2factor-035-067.jpg)
 
 ### Access profiles
 
@@ -569,7 +569,7 @@ Administration Tab
 
 #### Password Policy
 
- When you create a new user account, or change an existing userâ&#128;&#153;s password, ensure that it complies with the following password policy:
+ When you create a new user account, or change an existing user’s password, ensure that it complies with the following password policy:
 
 - Password length of at least 8 letters
 - Mixed upper and lower case letters, with at least one special character or number
@@ -602,7 +602,7 @@ Administration Tab
 
 ### Seedlist
 
- A seedlist helps you to track the deliverability of your email campaigns or to send a copy of your email campaign to predefined recipients. The seedlist can be imported as a CSV file. A list which enables you to track email deliverability is usually provided by the Emarsys support team; it consists of email addresses which were set up with the most popular Internet Service Providers (ISPs). Each campaign you send is automatically also sent to the addresses in the list. By viewing how individual ISPs handle your mail,Â Emarsys Support monitors the deliverability of your campaigns, and can advise you on how to improve your performance. Click **Seedlist** to display the **Seedlist Manager** screen: [![Brd mnl-039-079.jpg](/assets/images/Brd_mnl-039-079.jpg)](/assets/images/Brd_mnl-039-079.jpg) To upload a seedlist click **Browse**, select the corresponding CSV file and click **Upload**. You are notified if your upload was successful (**1**). If you want to remove the seedlist, i.e. not send campaigns to the email addresses in the list, click **Clear All Values**.
+ A seedlist helps you to track the deliverability of your email campaigns or to send a copy of your email campaign to predefined recipients. The seedlist can be imported as a CSV file. A list which enables you to track email deliverability is usually provided by the Emarsys support team; it consists of email addresses which were set up with the most popular Internet Service Providers (ISPs). Each campaign you send is automatically also sent to the addresses in the list. By viewing how individual ISPs handle your mail, Emarsys Support monitors the deliverability of your campaigns, and can advise you on how to improve your performance. Click **Seedlist** to display the **Seedlist Manager** screen: [![Brd mnl-039-079.jpg](/assets/images/Brd_mnl-039-079.jpg)](/assets/images/Brd_mnl-039-079.jpg) To upload a seedlist click **Browse**, select the corresponding CSV file and click **Upload**. You are notified if your upload was successful (**1**). If you want to remove the seedlist, i.e. not send campaigns to the email addresses in the list, click **Clear All Values**.
 
 ### Test and notification lists
 
@@ -619,7 +619,7 @@ Administration Tab
 - Make your selection from **Available Recipients** and click **<=** to add the entries to the **Recipients in List** field.
 - Click **Save**.
  
-[![Brd mnl-041-083.jpg](/assets/images/Brd_mnl-041-083.jpg)](/assets/images/Brd_mnl-041-083.jpg)<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">To send a campaign to the test list entries, go to the **Campaigns** tab and then to the campaignâ&#128;&#153;s **Testing** screen; select **Existing List** from the dropdown menu (see below) to open the **Add Existing List** dialog box; select a list and click **Copy**. Back on the **Testing** screen, click **Send**.</td> </tr></tbody></table>[![Brd mnl-041-084.jpg](/assets/images/Brd_mnl-041-084.jpg)](/assets/images/Brd_mnl-041-084.jpg)#### Create notification lists
+[![Brd mnl-041-083.jpg](/assets/images/Brd_mnl-041-083.jpg)](/assets/images/Brd_mnl-041-083.jpg)<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">To send a campaign to the test list entries, go to the **Campaigns** tab and then to the campaign’s **Testing** screen; select **Existing List** from the dropdown menu (see below) to open the **Add Existing List** dialog box; select a list and click **Copy**. Back on the **Testing** screen, click **Send**.</td> </tr></tbody></table>[![Brd mnl-041-084.jpg](/assets/images/Brd_mnl-041-084.jpg)](/assets/images/Brd_mnl-041-084.jpg)#### Create notification lists
 
  Notification lists are used as follows: When you perform an import, the recipients included in the notification list are notified about the success and/or failure of the import. The corresponding settings can be made individually for each recipient. To create a notification list, do the following:
 
@@ -685,7 +685,7 @@ Administration Tab
 
 #### Mail headers
 
- A mail header is the link at the very top of a campaign. Usually, the link at the top of a campaign is also the link which is clicked the most; you can personalize this link, and thus optimize its effectiveness. [![Brd mnl-046-099.jpg](/assets/images/Brd_mnl-046-099.jpg)](/assets/images/Brd_mnl-046-099.jpg) You can define individual mail headers for specific recipients based on their personal data. *Examples:* if Birth_date = (today's date) then (display) "Click here to see our birthday present for you!"; if Anniversary_date= (today's date) then (display) "Click here to see our anniversary present for you!"; otherwise (display) "Click here to see our weekâ&#128;&#153;s best offers". Mail headers are created in the same way as regular conditions; for more information, see the **Campaigns tab** documentation.
+ A mail header is the link at the very top of a campaign. Usually, the link at the top of a campaign is also the link which is clicked the most; you can personalize this link, and thus optimize its effectiveness. [![Brd mnl-046-099.jpg](/assets/images/Brd_mnl-046-099.jpg)](/assets/images/Brd_mnl-046-099.jpg) You can define individual mail headers for specific recipients based on their personal data. *Examples:* if Birth_date = (today's date) then (display) "Click here to see our birthday present for you!"; if Anniversary_date= (today's date) then (display) "Click here to see our anniversary present for you!"; otherwise (display) "Click here to see our week’s best offers". Mail headers are created in the same way as regular conditions; for more information, see the **Campaigns tab** documentation.
 
 ### Import logs
 

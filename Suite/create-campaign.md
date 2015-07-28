@@ -9,8 +9,8 @@ When you create a campaign, the first page you see is the **Campaign Settings** 
 <div class="row">[![create campaign](/assets/images/create-campaign.png)](/assets/images/create-campaign.png)</div><table style="width: 100%;"><tbody><tr><th style="text-align: left; width: 80px; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> <td>This is also the page you open when you click the edit icon in the campaigns list.</td></tr></tbody></table> Here you must define the following:
 
 - **Campaign name**
-- **Objective** - this tells Facebook what you want to achieve with this campaign and is referenced by some of the algorithms it uses, for example for the bidding policy.Â  The options are: - Clicks to website - this is purely to drive traffic to your website<span style="color: #ff0000;"> </span>
-- Website conversions - this tells Facebook that a [tracking pixel](/Suite/tracking-pixels.md "Social Ads â&#128;&#147; Tracking Pixels") has been added to the target web page, and will optimize the campaign according to the pixel category.
+- **Objective** - this tells Facebook what you want to achieve with this campaign and is referenced by some of the algorithms it uses, for example for the bidding policy.  The options are: - Clicks to website - this is purely to drive traffic to your website<span style="color: #ff0000;"> </span>
+- Website conversions - this tells Facebook that a [tracking pixel](/Suite/tracking-pixels.md "Social Ads – Tracking Pixels") has been added to the target web page, and will optimize the campaign according to the pixel category.
  
 <table style="width: 100%;"><tbody><tr><th style="text-align: left; width: 80px; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> <td>You cannot change the campaign objective once you have saved the campaign. To do this, you must copy the campaign, change the objective and save it under a new name.</td> </tr></tbody></table>
 - **Audience**

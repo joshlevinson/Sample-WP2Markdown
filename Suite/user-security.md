@@ -8,7 +8,7 @@ Keeping your data safe, and that of your customers, is of paramount importance t
 
 ### Password requirements
 
- All Suite users are required to use a suitably strong password. When entering a new password for the first time, Suite will check its complexity and inform youÂ if it is not complex enough. In addition to this:
+ All Suite users are required to use a suitably strong password. When entering a new password for the first time, Suite will check its complexity and inform you if it is not complex enough. In addition to this:
 
 - Passwords are valid for a maximum of 180 days, after which Suite will require you to change it.
 - You may be requested to change your passwords earlier than that, for example if a new security feature has been enabled for you, or if suspicious activity related to your account is detected.
@@ -22,7 +22,7 @@ Keeping your data safe, and that of your customers, is of paramount importance t
 
 #### Lockout
 
- To prevent brute-force attacks from being successful, users are temporarily locked out if a wrong password is entered multiple times. The default lockout period is 24 hours, but this can vary from account to account.Â After the lockout period expires, the account is automatically unlocked, although Emarsys Technical Support can bypass the expiration period and unlock the account for you if required.
+ To prevent brute-force attacks from being successful, users are temporarily locked out if a wrong password is entered multiple times. The default lockout period is 24 hours, but this can vary from account to account. After the lockout period expires, the account is automatically unlocked, although Emarsys Technical Support can bypass the expiration period and unlock the account for you if required.
 
 ### Two-factor authentication
 
@@ -33,7 +33,7 @@ Keeping your data safe, and that of your customers, is of paramount importance t
 
 ##### Trusted devices
 
- For user convenience, your device(s) can be defined as trusted in Suite by using the â&#128;&#156;Remember this deviceâ&#128;&#157; checkbox on the Suite login page. If a trusted device authenticates successfully, then you will not need to enter any further password or login information. As an extra layer of protection a device can only be remembered for 14 days; after this time, or if the admin password is changed in Suite, you will be prompted to log in again. If a password is compromised (lost or stolen), you should immediately log in and update the two-factor authentication settings in Suite, and also log in again with the trusted device using the new credentials. If a trusted device is lost or stolen, then the Suite password should be changed immediately to prevent the device from being used to log in. A password reset automatically revokes all trust relationships from previously configured devices, and you may re-enable two-factor authentication at any time. **Note:** It is highly risky to enable this feature on public or shared computers, and we do not recommend it.
+ For user convenience, your device(s) can be defined as trusted in Suite by using the “Remember this device” checkbox on the Suite login page. If a trusted device authenticates successfully, then you will not need to enter any further password or login information. As an extra layer of protection a device can only be remembered for 14 days; after this time, or if the admin password is changed in Suite, you will be prompted to log in again. If a password is compromised (lost or stolen), you should immediately log in and update the two-factor authentication settings in Suite, and also log in again with the trusted device using the new credentials. If a trusted device is lost or stolen, then the Suite password should be changed immediately to prevent the device from being used to log in. A password reset automatically revokes all trust relationships from previously configured devices, and you may re-enable two-factor authentication at any time. **Note:** It is highly risky to enable this feature on public or shared computers, and we do not recommend it.
 
 ### IP Whitelisting
 
@@ -45,4 +45,4 @@ Keeping your data safe, and that of your customers, is of paramount importance t
 
 ### Error messages
 
- For a full list of error messages that you might seen after a failed login attempt, and their explanation, click [here](/Resources/login-faq.md "Failed Login â&#128;&#147; FAQ").
+ For a full list of error messages that you might seen after a failed login attempt, and their explanation, click [here](/Resources/login-faq.md "Failed Login – FAQ").

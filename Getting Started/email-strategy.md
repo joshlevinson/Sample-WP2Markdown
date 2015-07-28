@@ -18,4 +18,4 @@ Now that you have looked at out how you will transfer contact data in and out of
 
 - [What are your success metrics?](/Getting%20Started/email-responses.md "Email Responses")
 
- Setting up your first campaigns in Suite is so easy, so make sure you know exactly what your strategy is and you can be sure to get off to a flying start. And of course Emarsys Support will be on hand to make sure youÂ don't makeÂ any mistakes that could cost you time or money.
+ Setting up your first campaigns in Suite is so easy, so make sure you know exactly what your strategy is and you can be sure to get off to a flying start. And of course Emarsys Support will be on hand to make sure you don't make any mistakes that could cost you time or money.

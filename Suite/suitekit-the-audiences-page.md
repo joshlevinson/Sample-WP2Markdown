@@ -55,7 +55,7 @@ This is the number of contacts that Facebook has identified (e.g. because their 
 
 <div class="row">[![social-ac-select-audience](/assets/images/social-ac-select-audience.png)](/assets/images/social-ac-select-audience.png)</div>1. Place the **Remove from audience** node at the point where you want your contacts to leave the audience. This will typically be after a **Wait** node of a few days, or again after a concrete action by the customer such as a purchase.
 
- Once you activate the program, it will begin to add contacts to the audience according to your specifications, and as soon as Facebook has identified 20 user profiles from contacts it will begin to target these people with the [Social Ads campaign](/Suite/about-campaigns.md "Social Ads â&#128;&#147; About Campaigns") that you have launched to target this audience.<a name="new-custom"></a>
+ Once you activate the program, it will begin to add contacts to the audience according to your specifications, and as soon as Facebook has identified 20 user profiles from contacts it will begin to target these people with the [Social Ads campaign](/Suite/about-campaigns.md "Social Ads – About Campaigns") that you have launched to target this audience.<a name="new-custom"></a>
 
 ### 3. Creating a new custom audience from an existing segment
 
@@ -75,7 +75,7 @@ This is the number of contacts that Facebook has identified (e.g. because their 
 
 1. Give the lookalike audience a name
 2. Select the existing audience that you want to base the new one on
-3. Select the country (this refers to the Facebook profile, not your contact properties) **Note:** Facebook will only create a lookalike audience based on a single country.Â  To target prospects in more than one country, you will have to create multiple lookalike audiences based on the same source audience.
+3. Select the country (this refers to the Facebook profile, not your contact properties) **Note:** Facebook will only create a lookalike audience based on a single country.  To target prospects in more than one country, you will have to create multiple lookalike audiences based on the same source audience.
 4. Select the optimization settings Here you decide whether you want to spend your ads budget on fewer, but potentially more valuable, prospects (**Similarity**) , or simply cover a greater number (**Reach**).
 
 <div class="row">[![create-lookalike-audience](/assets/images/create-lookalike-audience.png)](/assets/images/create-lookalike-audience.png)<a name="fb-data"></a></div>### 5. Filter your audiences further with Facebook's own data

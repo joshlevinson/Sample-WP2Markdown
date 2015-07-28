@@ -47,7 +47,7 @@ old_url: 'http://emarsys.dev/web-extend/about/'
 - **Follow up a purchase** with a thank you, or cross-sell related items.
 - Retarget customers on different channels with offers on the **products they just browsed**.
 
- It also provides the data for up-to-the-minute revenue reports that measure the real impact of your marketing campaigns. If you are unsure how to use Web Extend at first, the Emarsys Automation Center includes a range of useful examples under the â&#128;&#156;Website Behaviourâ&#128;&#157; blueprints category which reference these fields and which can easily be applied to a wide range of scenarios.<a name="fit"></a>
+ It also provides the data for up-to-the-minute revenue reports that measure the real impact of your marketing campaigns. If you are unsure how to use Web Extend at first, the Emarsys Automation Center includes a range of useful examples under the “Website Behaviour” blueprints category which reference these fields and which can easily be applied to a wide range of scenarios.<a name="fit"></a>
 
 #### Is your business a good fit for Web Extend?
 

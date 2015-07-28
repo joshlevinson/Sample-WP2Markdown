@@ -38,10 +38,10 @@ Emarsys Predict offers four solutions:
 
  Email recommendations are provided by four widgets, each of which uses your customers' browse and purchase activity to offer different content depending on the purpose of your email campaign:
 
-- **Personal** â&#128;&#147; delivers personalized product recommendations to recipients based on their recent browse activity and purchase history.
-- **Abandoned** â&#128;&#147; delivers the last products abandoned in cart by the recipient, and other product recommendations related to these.
-- **Post_purchase** â&#128;&#147; delivers complementary product recommendations based on the last purchased items.
-- **Category** â&#128;&#147; delivers personalized product recommendations from specific categories.
+- **Personal** – delivers personalized product recommendations to recipients based on their recent browse activity and purchase history.
+- **Abandoned** – delivers the last products abandoned in cart by the recipient, and other product recommendations related to these.
+- **Post_purchase** – delivers complementary product recommendations based on the last purchased items.
+- **Category** – delivers personalized product recommendations from specific categories.
 
  Any kind of email campaign will benefit from intelligent product recommendations, including:
 
@@ -55,9 +55,9 @@ Emarsys Predict offers four solutions:
 
 ### Cart Recovery
 
- Cart Recovery is an email recommendation solution that uses our advanced Predict engine to make compelling, relevant, unique offers â&#128;&#147; right when theyâ&#128;&#153;ll have the greatest effect. By using our Unified Profile identification, we can identify and capture more abandoned carts, faster. Send your customers an email within an hour of abandoning a cart. The email will contain dynamic content, with recommendations and offers tailored directly to them. When used in combination with the Automation Center, you can also trigger a fall-back programme that deploys further emails and Facebook advertising. The result? Lower cart abandonment, higher sales and happier customers. With this solution you can:
+ Cart Recovery is an email recommendation solution that uses our advanced Predict engine to make compelling, relevant, unique offers – right when they’ll have the greatest effect. By using our Unified Profile identification, we can identify and capture more abandoned carts, faster. Send your customers an email within an hour of abandoning a cart. The email will contain dynamic content, with recommendations and offers tailored directly to them. When used in combination with the Automation Center, you can also trigger a fall-back programme that deploys further emails and Facebook advertising. The result? Lower cart abandonment, higher sales and happier customers. With this solution you can:
 
-- Trigger activity from a single â&#128;&#152;add to cartâ&#128;&#153; action.
+- Trigger activity from a single ‘add to cart’ action.
 - Identify more abandoned carts, more accurately and in less time.
 - Bring everything together with an in-depth Unified Profile.
 - Trigger follow-ups within an hour of cart abandonment.

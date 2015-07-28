@@ -4,7 +4,7 @@ tags: 'olh, SuiteAdmin'
 old_url: 'http://emarsys.dev/suite/online-help/bounce-management/'
 ---
 
-**Admin menu -> Bounce Management The **Overview** tab displays a list of Â email addresses which have produced [bounces](/olh/about-bounces.md "Admin â&#128;&#147; About Bounces").
+**Admin menu -> Bounce Management The **Overview** tab displays a list of  email addresses which have produced [bounces](/olh/about-bounces.md "Admin – About Bounces").
 
 #### Filter bounce list
 

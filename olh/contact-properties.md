@@ -14,8 +14,8 @@ old_url: 'http://emarsys.dev/suite/online-help/contact-properties/'
 
  Via the **History** link you can view the changes made to a field. Originally, this was developed to track changes in the opt-in and multi opt-in fields. If a field has been changed, either manually or by an administrator, duplication handling or online via a registration form, the **History** link is displayed next to it. Click the link to see what has changed. **Date/time** shows when changes were made. **Value** shows which entry has replaced the original one. If the box is empty, the previous value was replaced by a zero-entry field. **Source/Admin** shows you how/by whom the change was made:
 
-- **Admin** -Â  Changes were made manually by the Administrator.
-- **Import** -Â  Changes are due to an import.
+- **Admin** -  Changes were made manually by the Administrator.
+- **Import** -  Changes are due to an import.
 - **Duplication Handling** - Changes result from a manual merge via duplication handling.
 - **Form** - Changes are due to a registered contact who subscribed again via one of your registration forms. The source "form" is only displayed if the contact re-registered with the same key data (first, last name and email address) and has thereby changed one field value.
 
@@ -31,6 +31,6 @@ old_url: 'http://emarsys.dev/suite/online-help/contact-properties/'
 
 #### Search for existing contacts
 
- On the **Properties** page, go to the **Search** section at the bottom. Select a suitable search option from the drop-down menu. Enter the contact information and click [![view_details_icon](/assets/images/view_details_icon.png)](/assets/images/view_details_icon.png). You are moved to the [Search Results](/olh/search-results.md "Contacts â&#128;&#147; Add Contact â&#128;&#147; Search Results") page.
+ On the **Properties** page, go to the **Search** section at the bottom. Select a suitable search option from the drop-down menu. Enter the contact information and click [![view_details_icon](/assets/images/view_details_icon.png)](/assets/images/view_details_icon.png). You are moved to the [Search Results](/olh/search-results.md "Contacts – Add Contact – Search Results") page.
 
 **

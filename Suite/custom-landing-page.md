@@ -20,7 +20,7 @@ Ordering Custom Landing Pages
 
 - All fonts, font colors and font sizes must be specified (system fonts).
 - When defining colors, hexcodes must be specified: #RRGGBB (color areas, fonts, frames).
-- Use system elements as form elements where possible. <span style="color: #ff0000;">Click here for templatesÂ»</span>
+- Use system elements as form elements where possible. <span style="color: #ff0000;">Click here for templates»</span>
 - Please try to provide a sensibly laid-out grid to enable easier programming.
 - The expected behavior for all possible scenarios must be accounted for (e.g. error page, mouse-over effects, JavaScript events, etc.).
 

@@ -39,7 +39,7 @@ In addition to this, you can choose from a number of available transfer protocol
 
 #### 2. Updating the Smart Insight database using FTPS
 
- If you have an existing SFTP/FTPS server that you use, then we can link it so that you can transfer files to and from Suite. To use your SFTP/FTPS server you just need to provideÂ Emarsys Support with the following details, and they can then arrange for the facility to be configured for you:
+ If you have an existing SFTP/FTPS server that you use, then we can link it so that you can transfer files to and from Suite. To use your SFTP/FTPS server you just need to provide Emarsys Support with the following details, and they can then arrange for the facility to be configured for you:
 
 - Server name
 - Login

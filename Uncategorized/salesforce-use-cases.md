@@ -32,7 +32,7 @@ Now that your integration is set up, you can begin to work with it. Here are a f
 
 #### Use case 2: Export members of a single campaign from Salesforce to Suite
 
- Once you have your Campaign in Salesforce set up (with Type =Â *emarsys Email*) and added some Leads and/or Contacts, you can proceed by exporting campaign members to Suite. Click the **Create & Add** button in the **Add Campaign Members to Suite** List box:
+ Once you have your Campaign in Salesforce set up (with Type = *emarsys Email*) and added some Leads and/or Contacts, you can proceed by exporting campaign members to Suite. Click the **Create & Add** button in the **Add Campaign Members to Suite** List box:
 
 <div class="row">[![sf-create-add-members](/assets/images/sf-create-add-members.png)](/assets/images/sf-create-add-members.png)</div> A new window will open (make sure you do not have pop-ups blocked):
 
@@ -73,7 +73,7 @@ Now that your integration is set up, you can begin to work with it. Here are a f
 Export Salesforce contacts to Suite and work from there
 -------------------------------------------------------
 
- You can export your Salesforce contacts or leads to Emarsys Suite. All you need to do is to set up a campaign in Salesforce and add contacts or leads (i.e., â&#128;&#156;Campaign Membersâ&#128;&#157;) to it. This campaign can then be exported. A typical workflow could look like this: Content from: https://emarsys.jira.com/wiki/display/DOCU/Suite+Integration+Manual <a name="_Toc336876733"></a>     **Â **
+ You can export your Salesforce contacts or leads to Emarsys Suite. All you need to do is to set up a campaign in Salesforce and add contacts or leads (i.e., “Campaign Members”) to it. This campaign can then be exported. A typical workflow could look like this: Content from: https://emarsys.jira.com/wiki/display/DOCU/Suite+Integration+Manual <a name="_Toc336876733"></a>     ** **
 
 Automatic creation and update contacts/leads in Suite
 -----------------------------------------------------
@@ -82,11 +82,11 @@ Automatic creation and update contacts/leads in Suite
 
 <table><tbody><tr><td width="761"></td></tr></tbody></table>  
 
-<a name="_Toc287085508"></a>1.3Â Â Â Â Â Â Â Â Â  Viewing email responses in Salesforce
----------------------------------------------------------------------------------------
+<a name="_Toc287085508"></a>1.3          Viewing email responses in Salesforce
+------------------------------------------------------------------------------
 
  Once a day Email responses are retrieved from Suite. You can track your campaign's responses by viewing the responses directly from the **EMS Emails** Tab and selecting a specific Email:
 
 <table><tbody><tr><td width="702"></td> </tr><tr><td width="702"></td></tr></tbody></table>  
 
-<table><tbody><tr><td width="702"></td> </tr><tr><td width="702"></td></tr></tbody></table>   **View Response Summary** Click this button in order to have a look at the general Suite Email statistics:     View Email Preview Click this button in order to have a look at the Emailâ&#128;&#153;s content:  
+<table><tbody><tr><td width="702"></td> </tr><tr><td width="702"></td></tr></tbody></table>   **View Response Summary** Click this button in order to have a look at the general Suite Email statistics:     View Email Preview Click this button in order to have a look at the Email’s content:  

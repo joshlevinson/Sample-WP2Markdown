@@ -59,7 +59,7 @@ Emarsys Security Overview
 
 <div class="center"><div class="floatnone">[![Database Cluster: Veritas Cluster Servers with redundancy](/assets/images/Infosec-007-010.jpg)](/assets/images/Infosec-007-010.jpg)</div></div>##### Maintenance and monitoring
 
- All systems are maintained and monitored in accordance with manufacturersâ&#128;&#153; recommendations on a 24/7/365 basis. Monitoring includes:
+ All systems are maintained and monitored in accordance with manufacturers’ recommendations on a 24/7/365 basis. Monitoring includes:
 
 - Ensuring system availability (hardware, services, applications and connectivity)
 - Performing regular log file analysis
@@ -78,7 +78,7 @@ Emarsys Security Overview
 
 ##### **Request validation and authentication**
 
- Escher is a stateless HTTP request-signing specification to provide secure authorization and request validation. It adds an additional security layer and an authentication layer over HTTPS. The algorithm is based on [Amazonâ&#128;&#153;s AWS4 authentication](http://docs.aws.amazon.com/AmazonS3/latest/dev/RESTAuthentication.html). The protocol ensures the requests' integrity, and also provides a solution for pre-signing URLs with expiration time.
+ Escher is a stateless HTTP request-signing specification to provide secure authorization and request validation. It adds an additional security layer and an authentication layer over HTTPS. The algorithm is based on [Amazon’s AWS4 authentication](http://docs.aws.amazon.com/AmazonS3/latest/dev/RESTAuthentication.html). The protocol ensures the requests' integrity, and also provides a solution for pre-signing URLs with expiration time.
 
 ##### Access management
 

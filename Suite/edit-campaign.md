@@ -10,7 +10,7 @@ The Social Ads campaign editor is divided into three sections:
 - [The Editor](#editor)
 - [The Preview Pane](#preview)
  
-<a name="toolbar"></a>### Â 1. The Toolbar
+<a name="toolbar"></a>###  1. The Toolbar
 
 <div class="row">[![toolbar](/assets/images/toolbar.png)](/assets/images/toolbar.png)</div> On the toolbar you can:
 
@@ -22,7 +22,7 @@ The Social Ads campaign editor is divided into three sections:
 
  When you launch a campaign, Facebook will display a summary of the settings you have made:
 
-<div class="row">[![social-launch-confirm](/assets/images/social-launch-confirm.png)](/assets/images/social-launch-confirm.png)</div><a name="editor"></a>### Â 2. The Editor
+<div class="row">[![social-launch-confirm](/assets/images/social-launch-confirm.png)](/assets/images/social-launch-confirm.png)</div><a name="editor"></a>###  2. The Editor
 
 <div class="row">[![social-campaign-editor](/assets/images/social-campaign-editor.png)](/assets/images/social-campaign-editor.png)</div> In the editor you must enter the:
 

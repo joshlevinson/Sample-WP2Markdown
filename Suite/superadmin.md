@@ -17,7 +17,7 @@ Welcome to the Suite Superadmin Guide
 - Managing user accounts and permissions
 - Deleting users
 
- The superadmin is selected when the account is created and is responsible for the overall user managementÂ for that account. This permission can only be transferred to another user by Emarsys Support.
+ The superadmin is selected when the account is created and is responsible for the overall user management for that account. This permission can only be transferred to another user by Emarsys Support.
 
 ### Why do we need a superadmin?
 
@@ -34,7 +34,7 @@ Welcome to the Suite Superadmin Guide
 
 #### 1. Enabling your superadmin user
 
- The first point of contact for any new superadmin is an email that you will receive from Suite. You should follow the instructions in the email and click the link to set your password and validate your profile. You can then log in and begin to invite the rest of the users. When you activate your profile for the first time, you can select your user name and change your regional settings (language and timezone). To ensure the integrity of your account,Â your access role, email address andÂ mobile phone number can only be changed by Emarsys Support. Once you haveÂ entered your settings, you can log directly from this screen into your Suite account.
+ The first point of contact for any new superadmin is an email that you will receive from Suite. You should follow the instructions in the email and click the link to set your password and validate your profile. You can then log in and begin to invite the rest of the users. When you activate your profile for the first time, you can select your user name and change your regional settings (language and timezone). To ensure the integrity of your account, your access role, email address and mobile phone number can only be changed by Emarsys Support. Once you have entered your settings, you can log directly from this screen into your Suite account.
 
 #### 2. Defining the account security settings
 
@@ -56,6 +56,6 @@ Welcome to the Suite Superadmin Guide
  As superadmin, you can invite, disable, enable and delete users, as well as edit their profiles.
 
 - **Inviting existing users** If a user has failed to activate their account in the first 30 days, or has not logged in for 90 days, they must be invited again. To do this, click the [![dot-dot-dot](/assets/images/dot-dot-dot.png)](/assets/images/dot-dot-dot.png) icon and select **Invite**. The entire process for step 2 above will be repeated.
-- **Enabling and disabling users** If you want to block a user account temporarily, you can disable it by clicking theÂ [![dot-dot-dot](/assets/images/dot-dot-dot.png)](/assets/images/dot-dot-dot.png) icon and selecting **Disable**. This user will no longer be able to log in and a message is displayed that their account has been disabled. To enable them again, simple repeat this process and select **Enable**.
+- **Enabling and disabling users** If you want to block a user account temporarily, you can disable it by clicking the [![dot-dot-dot](/assets/images/dot-dot-dot.png)](/assets/images/dot-dot-dot.png) icon and selecting **Disable**. This user will no longer be able to log in and a message is displayed that their account has been disabled. To enable them again, simple repeat this process and select **Enable**.
 - **Deleting users** User accounts can also be permanently deleted. Click [![dot-dot-dot](/assets/images/dot-dot-dot.png)](/assets/images/dot-dot-dot.png) and select **Delete**. You will be prompted to select an existing user who will inherit their assets.
 - **Editing user profiles** Click [![edit-icon](/assets/images/edit-icon.png)](/assets/images/edit-icon.png) to open the profile page for the selected user. The only value here that you can change but the user themselves cannot is the **Access Role**.

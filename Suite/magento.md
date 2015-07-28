@@ -14,7 +14,7 @@ Introduction
 - Set up Magento transactional email templates as triggers for email sending in Emarsys.
 - Automatic export of purchases to Smart Insight.
 
-##### Â Contents:
+#####  Contents:
 
 - [Getting Started with Magento](/Suite/getting-started.md)
 - [Synchronizing Contact Data](/Suite/synchronizing-contacts.md)

@@ -25,7 +25,7 @@ Here we have listed a number of suggestions as to how you can get the most out o
  Full program reporting, including goal definition and success criteria, is only available via the Smart Insight module. However, there are some easy ways to set up some simple reporting for yourself.
 
 - **Using filters** If you add a **Wait** node and a **Filter** to the end of a path, you can measure the success of the path by whatever metrics you like. You can filter for straightforward responses, or measure specific database fields (such as total monthly revenue). For this reason many Blueprints already have filters at the end of their paths.
-- **Using the Trends page** If you assign all the emails in a program to a category unique to that program, you can select that category in the [Trends analysis](/olh/analysis-trends.md "Analysis â&#128;&#147; Trends â&#128;&#147; General") and view the overall responses for the entire program. Since the emails are listed in chronological order according to their first launch, this will give a broad impression of contact participation through the workflow of the program.<a name="txm"></a>
+- **Using the Trends page** If you assign all the emails in a program to a category unique to that program, you can select that category in the [Trends analysis](/olh/analysis-trends.md "Analysis – Trends – General") and view the overall responses for the entire program. Since the emails are listed in chronological order according to their first launch, this will give a broad impression of contact participation through the workflow of the program.<a name="txm"></a>
 
 #### Opt-in for translational emails
 

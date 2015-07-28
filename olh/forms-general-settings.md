@@ -17,11 +17,11 @@ old_url: 'http://emarsys.dev/forms-general-settings/'
 
 #### Insert different banners for different forms
 
- You can assign different banners for Tell-a-friend and Unsubscribe forms. If you want to use one image for all forms, keep the **Default** option selected. Click **Upload** to add the image to the form. You can also use an image from the [Media Database](/olh/media-database.md "Admin â&#128;&#147; Media Database"). To display an image, click **View** **Image**. To remove an image from the form, click **Clear Image**. **Attention**: The width of the image for a Tell-a-friend must not exceed 620 px, that of an Unsubscribe must not exceed 520 px. Click **Save** to apply your settings. Click **Preview** to display a sample form with your settings.
+ You can assign different banners for Tell-a-friend and Unsubscribe forms. If you want to use one image for all forms, keep the **Default** option selected. Click **Upload** to add the image to the form. You can also use an image from the [Media Database](/olh/media-database.md "Admin – Media Database"). To display an image, click **View** **Image**. To remove an image from the form, click **Clear Image**. **Attention**: The width of the image for a Tell-a-friend must not exceed 620 px, that of an Unsubscribe must not exceed 520 px. Click **Save** to apply your settings. Click **Preview** to display a sample form with your settings.
 
 #### Opt-in Invitation And Interests tab
 
- Here you define the opt-in invitation/opt-out request (which you activated [here](/olh/forms-data-fields.md "Forms â&#128;&#147; Data Fields")) in more detail. For this, you do the following:
+ Here you define the opt-in invitation/opt-out request (which you activated [here](/olh/forms-data-fields.md "Forms – Data Fields")) in more detail. For this, you do the following:
 
 1. Select a language.
 2. Enter the desired text in the opt-in invitation field.

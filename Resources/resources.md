@@ -39,7 +39,7 @@ Welcome to the Resources section of this documentation site. Here you can find u
 
 #### Misc. Technical Documentation
 
-- [Web Extend FAQ](/Getting%20Started/faq.md "WE_Web Extend â&#128;&#147; FAQs")
+- [Web Extend FAQ](/Getting%20Started/faq.md "WE_Web Extend – FAQs")
 - [Predict Technology: How it works.](/Predict/technology.md "Predict Technology")
 - [Suite API - Introduction and Use Cases](/Getting%20Started/use-cases.md "API Use Cases")
 - [Emarsys Broadcast User Manual](/Broadcast/broadcast-user-manual.md "Broadcast User Manual")

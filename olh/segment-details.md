@@ -71,6 +71,6 @@ old_url: 'http://emarsys.dev/suite/online-help/segment-details/'
 - **Total contacts** - The number of contacts who fulfil the filter criteria.
 - **Contacts with opt-in** - The number of contacts with opt-in status, i.e. ready to receive an email campaign.
 
- Click **Display Contacts** to show all contacts who have been returned by the filter. You can save this result as [contact list](/olh/contact-lists-overview.md "Contacts â&#128;&#147; Contact Lists â&#128;&#147; Overview"). Note that contacts with no opt-in are also included in the displayed list.
+ Click **Display Contacts** to show all contacts who have been returned by the filter. You can save this result as [contact list](/olh/contact-lists-overview.md "Contacts – Contact Lists – Overview"). Note that contacts with no opt-in are also included in the displayed list.
 
 **

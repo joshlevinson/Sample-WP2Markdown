@@ -56,7 +56,7 @@ If you want to use the same ID that you have in your external database to identi
        "external_id": "789"
     }
 
-**Where...****id** = The external event ID (not the name!). Since these IDs donâ&#128;&#153;t change, you can just use the API demo page to get the ID, and use it in your integration script. **key_id** = The ID of the key field of the contact.Â We are using the key id of the ***externalID*** field you identified during the preparation step. **external_id** = The value of the key field, your 'external ID' in this case.
+**Where...****id** = The external event ID (not the name!). Since these IDs don’t change, you can just use the API demo page to get the ID, and use it in your integration script. **key_id** = The ID of the key field of the contact. We are using the key id of the ***externalID*** field you identified during the preparation step. **external_id** = The value of the key field, your 'external ID' in this case.
 
 <table cellpadding="1" class="wikitable" style="width: 100%; border: 1px solid #fff;"><tbody><tr><td scope="col" style="text-align: left; border: 1px solid #fff;" width="60px">[![Icon FurtherReading.png](/assets/images/Icon_FurtherReading.png)](/assets/images/Icon_FurtherReading.png)</td> <td scope="col" style="border: 1px solid #fff;">- Retrieve external event IDs by querying all external events on the API (see the [Querying External Events](http://dev.emarsys.com/suite/external_events/external_event_list.html) chapter in the Suite API Technical Reference).
 - For further information about triggering external events, see the chapter [Triggering External Events](http://dev.emarsys.com/suite/external_events/external_event_trigger.html) in the Suite API Technical Reference.

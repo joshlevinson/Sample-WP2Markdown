@@ -7,11 +7,11 @@ old_url: 'http://emarsys.dev/resources/deliverability/sender-authentication-guid
 Introduction
 ------------
 
- Sender Authentication refers to the different technologies that are used to make sure email content is legitimate and deliverable. The following instructions will assist you inÂ configuring and successfully deploying the various email authentication methods.Â We provide a number of resources and highlight some common problem areas asÂ identified by the collective experience of hundreds of ourÂ customers.
+ Sender Authentication refers to the different technologies that are used to make sure email content is legitimate and deliverable. The following instructions will assist you in configuring and successfully deploying the various email authentication methods. We provide a number of resources and highlight some common problem areas as identified by the collective experience of hundreds of our customers.
 
 ### Why do I need sender authentication?
 
- If you have no authentication, most freemail accounts refuse to accept emails from you. Emails are easy to spoof and criminals have identified spoofing as a reliable way to exploit user trust in well-known brands. Email recipients are often unable to differentiate between a real message and a faked one, and large freemail providers have to make very difficult (and often guesswork) decisions as to which messages to deliver and which messages to categorize as spam. Sender authentication assists senders, email service providers and ISPs in their cooperation towards ensuring more secure emails, andÂ helps to protect both email recipients and senders from painfully expensive abuse. Our policy is to ensure compliance with all authentication mechanisms, to help eliminate the risk to you by making sure your content is delivered without being flagged as suspicious.
+ If you have no authentication, most freemail accounts refuse to accept emails from you. Emails are easy to spoof and criminals have identified spoofing as a reliable way to exploit user trust in well-known brands. Email recipients are often unable to differentiate between a real message and a faked one, and large freemail providers have to make very difficult (and often guesswork) decisions as to which messages to deliver and which messages to categorize as spam. Sender authentication assists senders, email service providers and ISPs in their cooperation towards ensuring more secure emails, and helps to protect both email recipients and senders from painfully expensive abuse. Our policy is to ensure compliance with all authentication mechanisms, to help eliminate the risk to you by making sure your content is delivered without being flagged as suspicious.
 
 Overview of Sender Authentication Technologies
 ----------------------------------------------
@@ -26,28 +26,28 @@ Overview of Sender Authentication Technologies
 
 ### DomainKeys Identified Mail (DKIM)
 
- DKIM is the successor of DomainKeys (DK), and is quickly gaining popularity amongst a wide variety of freemail providers, e.g. Yahoo! or GMail. While SPF and SenderID authenticate the *path* a message takes, DKIM authenticates each individual *message* â&#128;&#148; no matter where it has travelled. Therefore, it is a way to determine who is responsible for a particular message. This is achieved so by inserting a special signature header into the message itself. The sender of a message (you) is responsible for doing this; contact your email infrastructure provider to see if the software you are using is capable of including DKIM signatures.
+ DKIM is the successor of DomainKeys (DK), and is quickly gaining popularity amongst a wide variety of freemail providers, e.g. Yahoo! or GMail. While SPF and SenderID authenticate the *path* a message takes, DKIM authenticates each individual *message* — no matter where it has travelled. Therefore, it is a way to determine who is responsible for a particular message. This is achieved so by inserting a special signature header into the message itself. The sender of a message (you) is responsible for doing this; contact your email infrastructure provider to see if the software you are using is capable of including DKIM signatures.
 
 <table style="width: 100%;"><tbody><tr><td style="text-align: left; width: 80px; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</td> <td>DK authentication alone is insufficient for sending with Emarsys. If you are still using this method, you should upgrade to DKIM as soon as possible.</td></tr></tbody></table>### Domain-based Message Authentication, Reporting & Conformance (DMARC)
 
- DMARC is an email authentication method created by a group of organizations, among them AOL, Google, Microsoft and Yahoo!. It allows senders to tell ISPs how to handle unsigned (non-authenticated) or failed (broken authentication) emails which use the senderâ&#128;&#153;s domain name. For example, a DMARC record can indicate that such emails should be delivered, flagged as suspicious or deleted. DMARC also provides a way for the ISP to send feedback to the sender about which messages passed and/or failed the tests. It is this reporting capability which make DMARC interesting. Senders can find out how many emails are coming from their domain (or claiming it), where they came from, and whether their SPF and DKIM policies are correctly authenticating them.
+ DMARC is an email authentication method created by a group of organizations, among them AOL, Google, Microsoft and Yahoo!. It allows senders to tell ISPs how to handle unsigned (non-authenticated) or failed (broken authentication) emails which use the sender’s domain name. For example, a DMARC record can indicate that such emails should be delivered, flagged as suspicious or deleted. DMARC also provides a way for the ISP to send feedback to the sender about which messages passed and/or failed the tests. It is this reporting capability which make DMARC interesting. Senders can find out how many emails are coming from their domain (or claiming it), where they came from, and whether their SPF and DKIM policies are correctly authenticating them.
 
 <table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Although the DMARC record is currently only a recommendation for the ISP, we do strongly recommend using it and expect this to become obligatory in the near future. DMARC does not provide reports on how ISPs actually handle the emails in question, but it does offer valuable reports on emails which have been received and which claim to come from the sending domain, along with the results of the SPF and DKIM checks.</td></tr></tbody></table>Implementing email authentication mechanisms
 --------------------------------------------
 
 <table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">In order to enable problem-free sending, we recommend to implement all of the authentication mechanisms described below.</td></tr></tbody></table>### Configure SPF/SenderID
 
- The SPF/SenderID isÂ an explicit list of your domains that you want to configure to be able to send mail from, and is a check that ISPs can use to confirm the legitimacy of your mail.
+ The SPF/SenderID is an explicit list of your domains that you want to configure to be able to send mail from, and is a check that ISPs can use to confirm the legitimacy of your mail.
 
 ### Pre-requisites
 
-- MakeÂ a list of the domain(s) and subdomain(s) that you want to be able to send email on your behalf. For illustrative purposes, our examples below will use reply.example.com as the domain.
-- Find outÂ who controls your DNS (Domain Name System) servers as you will need their help to publish the email authentication records you are about to create.
-- Make sure thatÂ you have access to your domainâ&#128;&#153;s DNS entry, if in doubt ask your ISP to provideÂ the key information and policy entries for your DNS entry.
+- Make a list of the domain(s) and subdomain(s) that you want to be able to send email on your behalf. For illustrative purposes, our examples below will use reply.example.com as the domain.
+- Find out who controls your DNS (Domain Name System) servers as you will need their help to publish the email authentication records you are about to create.
+- Make sure that you have access to your domain’s DNS entry, if in doubt ask your ISP to provide the key information and policy entries for your DNS entry.
 
 ### Sending via Emarsys
 
- Add the following SenderID entry to the TXT record of all your sender and reply domains: `v=spf1 include:emarsys.net include:emsmtp.com ~all` That's it, you have now successfully configured SPF/SenderID for use. PleaseÂ continue to the next authentication mechanism setup.
+ Add the following SenderID entry to the TXT record of all your sender and reply domains: `v=spf1 include:emarsys.net include:emsmtp.com ~all` That's it, you have now successfully configured SPF/SenderID for use. Please continue to the next authentication mechanism setup.
 
 ### Sending via your own infrastructure - Step 1
 
@@ -72,19 +72,19 @@ Overview of Sender Authentication Technologies
 
 - Sendmail Email Relay
 
- sa-test@sendmail.net **Hotmail** Send a testmailÂ to a Hotmail or Windows Live account, log in, view the message and view the header. Look for the "X-SIDResult:" line for the result of their SenderID check. **GMail** <http://gmail.com> Send a testmail to a GMail account, log in, view the message and view the header. Look for the "Received-SPF" line for the result of their SPF check.
+ sa-test@sendmail.net **Hotmail** Send a testmail to a Hotmail or Windows Live account, log in, view the message and view the header. Look for the "X-SIDResult:" line for the result of their SenderID check. **GMail** <http://gmail.com> Send a testmail to a GMail account, log in, view the message and view the header. Look for the "Received-SPF" line for the result of their SPF check.
 
 ### Additional Information
 
-<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">For Microsoft Hotmail and Windows Live Mail, the SenderID will fail if the PTR (Pointer) mechanism is included in the SPF record.</td> </tr></tbody></table><table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Use of the pointer directives '?all' or '+all' is not sufficient to authenticate messages accurately. Emarsys deliverability standards do not require, but strongly encourage you to use the 'â&#128;&#147;all' directive whenever possible.</td></tr></tbody></table>### Configuring DKIM
+<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">For Microsoft Hotmail and Windows Live Mail, the SenderID will fail if the PTR (Pointer) mechanism is included in the SPF record.</td> </tr></tbody></table><table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Use of the pointer directives '?all' or '+all' is not sufficient to authenticate messages accurately. Emarsys deliverability standards do not require, but strongly encourage you to use the '–all' directive whenever possible.</td></tr></tbody></table>### Configuring DKIM
 
-<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">If you are hosting your own email servers, follow these steps to configure DKIM.</td></tr></tbody></table> DKIM authenticates your content on a message level, which means that every singleÂ email can be tracked to theÂ point of originÂ using information in the email header.
+<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">If you are hosting your own email servers, follow these steps to configure DKIM.</td></tr></tbody></table> DKIM authenticates your content on a message level, which means that every single email can be tracked to the point of origin using information in the email header.
 
 ### Prerequisites
 
 - Make a list of *all* the domain(s) and subdomain(s) that you want to be able to send email on your behalf. For illustrative purposes, our examples below will use `reply.example.com`.
-- Find outÂ who controls your DNS (Domain Name System) servers as you will need their help to publish the email authentication records you are about to create.
-- Make sure you that have access to your domainâ&#128;&#153;s DNS entry. Ask your ISP to provide you the key information and policy entries for your DNS entry.
+- Find out who controls your DNS (Domain Name System) servers as you will need their help to publish the email authentication records you are about to create.
+- Make sure you that have access to your domain’s DNS entry. Ask your ISP to provide you the key information and policy entries for your DNS entry.
 
 ### Configuring DKIM Step 1
 
@@ -103,32 +103,32 @@ Overview of Sender Authentication Technologies
 
 ### Configuring DKIM Step 2
 
- Create DNS text records that include DKIM information forÂ everyÂ domain. These will be inserted in your public-facing DNS record for each of the sending domains.
+ Create DNS text records that include DKIM information for every domain. These will be inserted in your public-facing DNS record for each of the sending domains.
 
 ### Configuring DKIM Step 3
 
- Once you are ready, askÂ Emarsys Support to add your domains for signing to the Emarsys email servers.
+ Once you are ready, ask Emarsys Support to add your domains for signing to the Emarsys email servers.
 
 ### Configure DMARC
 
- DMARC is a framework that ISPs use to help them know how to handle emails without authentication, or broken authentication, being sent fromÂ a specificÂ domain.
+ DMARC is a framework that ISPs use to help them know how to handle emails without authentication, or broken authentication, being sent from a specific domain.
 
 #### Prerequisites
 
  For illustration purposes, our examples below will use example.com.
 
-- Ensure you have access to your domainâ&#128;&#153;s DNS entry. Ask your Domain Registrar / ISP to provide you the key information and policy entries for your DNS entry.
+- Ensure you have access to your domain’s DNS entry. Ask your Domain Registrar / ISP to provide you the key information and policy entries for your DNS entry.
 - An email address to which to send the feedback and information reports.
 
  Please note: Not every Domain Registrar interface is able to set the DNS entry required for DMARC, so you might need to contact their support for further assistance.
 
 #### <span class="mw-headline" id="c50e589fe419a6f3e6d63d72536b247c">Configuring DMARC Step 1<a name="bs-ue-jumpmark-3bfd32307fc87e6c2c92da0760b4a10d"></a></span>
 
- The DMARC record is a special subdomain to your domain called _dmarc, for example "_dmarc.example.com". Add the following DMARC entry to the TXT record of all your sendingÂ domains: `_dmarc.example.com IN TXT "v=DMARC1; p=reject; adkim=s; aspf=r; pct=100;"` This tells receiving email servers to drop all emails from this domain in case of authentication failure.
+ The DMARC record is a special subdomain to your domain called _dmarc, for example "_dmarc.example.com". Add the following DMARC entry to the TXT record of all your sending domains: `_dmarc.example.com IN TXT "v=DMARC1; p=reject; adkim=s; aspf=r; pct=100;"` This tells receiving email servers to drop all emails from this domain in case of authentication failure.
 
 #### Configuring DMARC Step 2
 
-**Enable feedback** You can receive DMARC feedback reports, choosing to receive aggregated reports (using the rua= switch) or forensic reports (using the ruf= switch), or both, as follows: `_dmarc.example.com IN TXT "v=DMARC1; p=reject; adkim=s; aspf=r; pct=100; <i>rua=<a class="external free" href="mailto:dmarc-feedback@example.com" rel="nofollow" target="_blank">mailto:dmarc-feedback@example.com</a>; ruf=<a class="external free" href="mailto:dmarc-forensic@example.com" rel="nofollow" target="_blank">mailto:dmarc-forensic@example.com</a>; rf=afrf;</i> "` The above exampleÂ tells theÂ receiving email servers to drop all emails from this domain, *and* to send you an abuse report to theÂ nominated email addresses.
+**Enable feedback** You can receive DMARC feedback reports, choosing to receive aggregated reports (using the rua= switch) or forensic reports (using the ruf= switch), or both, as follows: `_dmarc.example.com IN TXT "v=DMARC1; p=reject; adkim=s; aspf=r; pct=100; <i>rua=<a class="external free" href="mailto:dmarc-feedback@example.com" rel="nofollow" target="_blank">mailto:dmarc-feedback@example.com</a>; ruf=<a class="external free" href="mailto:dmarc-forensic@example.com" rel="nofollow" target="_blank">mailto:dmarc-forensic@example.com</a>; rf=afrf;</i> "` The above example tells the receiving email servers to drop all emails from this domain, *and* to send you an abuse report to the nominated email addresses.
 
 #### Understanding the DMARC components
 

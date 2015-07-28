@@ -43,7 +43,7 @@ Emarsys Predict is a predictive recommendation engine which uses machine learnin
  
 [Email recommendations](/Getting%20Started/email-rec.md):
 
-- Â [Abandoned Cart campaigns](/Getting%20Started/email-abandoned.md)
+-  [Abandoned Cart campaigns](/Getting%20Started/email-abandoned.md)
 - [Post-Purchase campaigns](/Getting%20Started/email-purchase.md)
 - [Abandoned Browse campaigns](/Getting%20Started/email-personal.md)
 
@@ -71,6 +71,6 @@ Emarsys Predict is a predictive recommendation engine which uses machine learnin
 
 - [Predict Technology](/Predict/technology.md)
 - [Data Security in Predict](/Resources/predict-security.md)
-- [Predict â&#128;&#147; FAQ](/WP%20Stuff/faq.md)
+- [Predict – FAQ](/WP%20Stuff/faq.md)
 
  [/column] [column width="six" place="second" ]   [/column]

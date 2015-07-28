@@ -29,6 +29,6 @@ old_url: 'http://emarsys.dev/suite/online-help/email-archive/'
 3. Select an **email language**.
 4. For **Design**, keep the **Default** option, which lists all selected emails. For other options to be available, you need an archive template; contact your Account Manager for more information.
 5. Click **Create Archive** to generate the corresponding link.
-6. The **Auto-archive links** section displays the link you have just created, as well as the link to the latest email in the archive. With the [RSS feed](/olh/email-archive.md "Admin â&#128;&#147; Email Archive Overview") option you can feed your email archive using your own archive template (PHP or ASP).
+6. The **Auto-archive links** section displays the link you have just created, as well as the link to the latest email in the archive. With the [RSS feed](/olh/email-archive.md "Admin – Email Archive Overview") option you can feed your email archive using your own archive template (PHP or ASP).
 
 **

@@ -25,7 +25,7 @@ The Delivery Watch Toolkit
 
  The Campaign Module provides an ISP tracking service, which works by testing the deliverability of an email campaign against the various major ISPs around the world, using a series of test-mailboxes set up with each ISP. The results from these mailboxes for the campaign can then be used to calculate the expected inbox delivery rates for the ISPs based on the test results. These test-mailboxes are referred to as the **seedlist**, and Delivery Watch monitors the deliverability outcome of test campaigns by categorizing the outcome as "pass", "spam" or "blocked/missing" for each ISP. The seedlist is grouped by region (North America, DACH, etc.) and Delivery Watch displays the results by region, where you can drill down by country to individual ISP mailboxes. The tracking process starts when a copy of the campaign mail (referred to as the "trigger email") is sent to a Delivery Watch mailbox, which is also part of the seedlist. The trigger email tells Delivery Watch that a new campaign has been sent and is waiting processing. The ISP tracking service compares the content of the trigger email with its counterparts from the seedlist mailboxes.
 
-<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Two campaigns are considered *identical* if the content is the same and arrives within 24Â hours, but are considered *different* if they arrive more than 24Â hours apart even if the content is the same.</td></tr></tbody></table> It is possible to avoid this behavior by ensuring a unique header is added to each campaign, which then enables campaign matching based using the header as the identifier. Campaign Module URL: [[1]](https://www.deliverywatch.net/campaign/listCampaigns.do)
+<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Two campaigns are considered *identical* if the content is the same and arrives within 24 hours, but are considered *different* if they arrive more than 24 hours apart even if the content is the same.</td></tr></tbody></table> It is possible to avoid this behavior by ensuring a unique header is added to each campaign, which then enables campaign matching based using the header as the identifier. Campaign Module URL: [[1]](https://www.deliverywatch.net/campaign/listCampaigns.do)
 
 ### The Spamfilter Module
 
@@ -52,10 +52,10 @@ The Delivery Watch Toolkit
 - Confirm a valid DNS entry exists
 - Verify the domain name is correct
 - Confirm the sender is not an "Open Relay"
-- Confirm senderâ&#128;&#153;s IP address is not in a Dial-In IP range
-- Confirm senderâ&#128;&#153;s IP address is not in a known dynamic IP range
+- Confirm sender’s IP address is not in a Dial-In IP range
+- Confirm sender’s IP address is not in a known dynamic IP range
 
- If all five of these checks are successful then the status is â&#128;&#156;OKâ&#128;&#157;, but if any one of these fails then the overall status for the Mail Server Configuration will be â&#128;&#156;Faultâ&#128;&#157;. You can drill down to find out more details on which check failed, along with a verbose description of the results of all of the configuration checks run for the respective mail server IP-address.
+ If all five of these checks are successful then the status is “OK”, but if any one of these fails then the overall status for the Mail Server Configuration will be “Fault”. You can drill down to find out more details on which check failed, along with a verbose description of the results of all of the configuration checks run for the respective mail server IP-address.
 
 ##### Confirm a valid DNS entry exists
 
@@ -65,7 +65,7 @@ The Delivery Watch Toolkit
 
  When the header of the campaign is examined to confirm a valid DNS exists, the domain name of the mail server is also identified. The domain name from the DNS entry is compared with the domain name in the header to ensure it matches. Any discrepancy between the domain entry information from the DNS entry and the information contained in the header, leads to a potential decrease in inbox delivery rates.
 
-##### Confirm the sender is not an â&#128;&#156;Open Relayâ&#128;&#157;
+##### Confirm the sender is not an “Open Relay”
 
  A so-called 'Open Relay' is a mail server that does not require any authentication, or has no restrictions (e.g. IP restrictions) for allowing other hosts to send email through it. Open Relays are generally regarded as a likely source of spam, and if a mail server is flagged as one, then a potential result is a decrease in inbox delivery rates. When this check is performed, it simply sends a test mail to the server to see if it can be forwarded or not.
 
@@ -97,7 +97,7 @@ Working with Delivery Watch
 <table class="wikitable"><thead><tr><th>Customer Type</th> <th>Delivery Watch Account</th> </tr></thead><tbody><tr><td>A Key Gold</td> <td>- Dedicated account set up for customer
 - Can have multiple accounts if needed
  
-</td> </tr><tr><td>B C</td> <td>- Emarsys SupportÂ account used
+</td> </tr><tr><td>B C</td> <td>- Emarsys Support account used
  
 </td></tr></tbody></table>### Setting up a Delivery Watch account
 
@@ -108,11 +108,11 @@ Working with Delivery Watch
 - Customer Type
 - Name of Emarsys Support representative
 
- Emarsys Support is responsible for monitoring the customerâ&#128;&#153;s deliverability results in Delivery Watch. If a customer ends its contract with Emarsys,Â Emarsys Support must report this information to Delivery Watch support so that the account can be closed. If customers have been granted access to their Delivery Watch account (e.g. A, Gold, Key), thenÂ Emarsys Support must maintain administrator access, and provide the customer with user-level access only. More detailed information on how to do this is available in a separate document which is available from either 2<sup>nd</sup> level support, or Delivery Watch support itself.
+ Emarsys Support is responsible for monitoring the customer’s deliverability results in Delivery Watch. If a customer ends its contract with Emarsys, Emarsys Support must report this information to Delivery Watch support so that the account can be closed. If customers have been granted access to their Delivery Watch account (e.g. A, Gold, Key), then Emarsys Support must maintain administrator access, and provide the customer with user-level access only. More detailed information on how to do this is available in a separate document which is available from either 2<sup>nd</sup> level support, or Delivery Watch support itself.
 
 ### Providing Delivery Watch Support
 
- For Delivery Watch support,Â Emarsys Support acts as the initial point of contact for Emarsys customers; all other customers contact Delivery Watch support directly. It is always worth checking the available documentation if you have any queries or issues before contacting support. If you are unable to resolve the issue yourself, please escalate to Delivery Watch support with as much information as possible, including the account name and office location. Delivery Watch provides Emarsys with a dedicated email support service for all Delivery Watch customers on: [[7]](mailto:support@deliverywatch.com).
+ For Delivery Watch support, Emarsys Support acts as the initial point of contact for Emarsys customers; all other customers contact Delivery Watch support directly. It is always worth checking the available documentation if you have any queries or issues before contacting support. If you are unable to resolve the issue yourself, please escalate to Delivery Watch support with as much information as possible, including the account name and office location. Delivery Watch provides Emarsys with a dedicated email support service for all Delivery Watch customers on: [[7]](mailto:support@deliverywatch.com).
 
 ### Using the Web Service-API (WS-API)
 

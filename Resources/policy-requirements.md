@@ -4,13 +4,13 @@ tags: Deliverability
 old_url: 'http://emarsys.dev/resources/deliverability/policy-requirements/'
 ---
 
-Emarsys clients benefit from the highest standards in email marketing: state-of-the-art infrastructure, the fastest available mail servers and reliable applications. We set the standards for security in email marketing and have achieved the highest level of security accreditation â&#128;&#147; the ISO 27001 certification. Our Deliverability team ensures optimal results for all our clients by actively managing thousands of IP addresses, which are grouped for optimal performance and deliverability. In short, we take care of almost every aspect of email marketing which can facilitate the success of our clients. However, there are still some aspects which will always require additional cooperation from the clients themselves. To facilitate this we have prepared these guidelines which all our clients must follow in order to be allowed to send via our infrastructure and applications. It also describes the best practices which help our clients to achieve perfect deliverability results, right from the start.
+Emarsys clients benefit from the highest standards in email marketing: state-of-the-art infrastructure, the fastest available mail servers and reliable applications. We set the standards for security in email marketing and have achieved the highest level of security accreditation – the ISO 27001 certification. Our Deliverability team ensures optimal results for all our clients by actively managing thousands of IP addresses, which are grouped for optimal performance and deliverability. In short, we take care of almost every aspect of email marketing which can facilitate the success of our clients. However, there are still some aspects which will always require additional cooperation from the clients themselves. To facilitate this we have prepared these guidelines which all our clients must follow in order to be allowed to send via our infrastructure and applications. It also describes the best practices which help our clients to achieve perfect deliverability results, right from the start.
 
 <table style="width: 100%;"><tbody><tr><td style="text-align: left; width: 110px; border-color: #fff; background-color: #fff; color: #eb5a19;">**Important Note:**</td> <td>Our excellent sending reputation is a result of **all** our clients satisfying our high quality standards. It is therefore vital that every single account complies with these guidelines in order for everyone to benefit.</td></tr></tbody></table>##### Contents
 
 - [Permission to Send / User Registration](#permission)
 - [List Hygiene](#hygiene)
-- [Sender Authentication â&#128;&#147; Domain Configurations](#sender)
+- [Sender Authentication – Domain Configurations](#sender)
 - [Content Policy Compliance](#content)
 - [Best Practice Recommendations](#best)
  
@@ -19,9 +19,9 @@ Emarsys clients benefit from the highest standards in email marketing: state-of-
 
 #### 1.1 Registration Compliance
 
-**Permission â&#128;&#147; Registration â&#128;&#147; Website ** It is imperative that our clients do not send emails to recipients unless those recipients have actively and explicitly agreed to receive them. **The single, most important requirement is that you only send to recipients who have given you their prior, explicit and verifiable permission to send that specific type of material (i.e. opt-in).** The only exception to this rule is if there is a pre-existing business relationship between sender and recipient. In this case, content or promotions can be sent as long as the content is similar to a previous purchase. However, not all countries accept these kinds of relationships as valid reasons not to have an opt-in, which can translate to risks to your brand and reputation.
+**Permission – Registration – Website ** It is imperative that our clients do not send emails to recipients unless those recipients have actively and explicitly agreed to receive them. **The single, most important requirement is that you only send to recipients who have given you their prior, explicit and verifiable permission to send that specific type of material (i.e. opt-in).** The only exception to this rule is if there is a pre-existing business relationship between sender and recipient. In this case, content or promotions can be sent as long as the content is similar to a previous purchase. However, not all countries accept these kinds of relationships as valid reasons not to have an opt-in, which can translate to risks to your brand and reputation.
 
-<table style="width: 100%;"><tbody><tr><td style="text-align: left; width: 80px; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</td> <td>â&#128;&#152;Similarâ&#128;&#153; is open to interpretation, which can cause unintended issues, so we recommend that you only send to contacts who have opted in. Sending content that is not related to similar products purchased is not compliant with our sending policy and is likely to result in your account being blocked.</td></tr></tbody></table> The Emarsys basic standard is the 'confirmed opt-in', where a confirmation email is sent to the registering contact with a highly visible and easy-to-use unsubscribe option. For optimal list hygiene, we highly recommend adopting our gold standard of using a double opt-in, where the recipient is sent an email with an opt-in confirmation link to make sure they are serious about receiving your content. To comply with current legal requirements, and our own [Anti-Spam Policy](/Resources/anti-spam-policy.md "Anti-Spam Policy"), your website must have a privacy policy, which must contain the following elements:
+<table style="width: 100%;"><tbody><tr><td style="text-align: left; width: 80px; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</td> <td>‘Similar’ is open to interpretation, which can cause unintended issues, so we recommend that you only send to contacts who have opted in. Sending content that is not related to similar products purchased is not compliant with our sending policy and is likely to result in your account being blocked.</td></tr></tbody></table> The Emarsys basic standard is the 'confirmed opt-in', where a confirmation email is sent to the registering contact with a highly visible and easy-to-use unsubscribe option. For optimal list hygiene, we highly recommend adopting our gold standard of using a double opt-in, where the recipient is sent an email with an opt-in confirmation link to make sure they are serious about receiving your content. To comply with current legal requirements, and our own [Anti-Spam Policy](/Resources/anti-spam-policy.md "Anti-Spam Policy"), your website must have a privacy policy, which must contain the following elements:
 
 - The privacy policy must be clearly visible and displayed to the registering person, who must read and confirm that they accept the terms before they grant you permission to send them content by using an opt-in checkbox (for website registrations only). This checkbox should **not** be pre-checked.
 - The privacy policy must contain information on the services provided and types of emails to be sent following the registration; Emarsys does not allow the sending of 3rd-party emails.
@@ -59,15 +59,15 @@ Emarsys clients benefit from the highest standards in email marketing: state-of-
 - Hard bounce
 - Unsubscribe request
  
-<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Soft bounces do not have an immediate impact on your deliverability; however, we recommend to remove the corresponding addresses after 2-4 bounces.</td> </tr></tbody></table><a name="sender"></a>3. Sender Authentication â&#128;&#147; Domain Configurations
---------------------------------------------------
+<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Soft bounces do not have an immediate impact on your deliverability; however, we recommend to remove the corresponding addresses after 2-4 bounces.</td> </tr></tbody></table><a name="sender"></a>3. Sender Authentication – Domain Configurations
+------------------------------------------------
 
  Emarsys meets all industry standard requirements regarding sender authentication and domain configuration, and as such all our client domains are configured with valid records for:
 
-- **SPF** â&#128;&#147; configured for the return path/envelope by Emarsys.
-- **SenderID** â&#128;&#147; configured in the DNS of the client domains.
-- **MX** â&#128;&#147; a valid MX record is required in order to receive reply mails and/or complaints. In addition, a postmaster@ and abuse@ address for every sender domain have to be available as these addresses are necessary for receiving confirmation emails from Yahoo! to ensure Y! Feedback Loop compliance.
-- **DKIM** â&#128;&#147; configured in the DNS of the client domains and our MTAs
+- **SPF** – configured for the return path/envelope by Emarsys.
+- **SenderID** – configured in the DNS of the client domains.
+- **MX** – a valid MX record is required in order to receive reply mails and/or complaints. In addition, a postmaster@ and abuse@ address for every sender domain have to be available as these addresses are necessary for receiving confirmation emails from Yahoo! to ensure Y! Feedback Loop compliance.
+- **DKIM** – configured in the DNS of the client domains and our MTAs
 - **DMARC** - The "p" switch must be set to "reject", as this allows senders to bypass certain spam filters at major ISPs.
 
  In addition to the sender authentication requirements, a valid CNAME that points to the respective environment and application is required for all trackable link domain(s). Information regarding CNAME is provided during the account setup process.<a name="content"></a>
@@ -86,7 +86,7 @@ Emarsys clients benefit from the highest standards in email marketing: state-of-
 - No advertising is used in the form
 
 
-1. All emails must contain a link to the privacy policy on the clientâ&#128;&#153;s website.
+1. All emails must contain a link to the privacy policy on the client’s website.
 2. All emails must contain the physical, summonable address of the client company.
  
 <table style="width: 100%;"><tbody><tr><td style="text-align: left; width: 80px; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</td> <td>Offering the unsubscribe functionality via email ('mailto: unsubscribe@example.com') or telephone is not a substitute for the one-click process. We do recommend that you provide these channels as additional unsubscribe options, but they are not a valid substitute.</td> </tr></tbody></table><a name="best"></a>5. Best Practice Recommendations
@@ -94,7 +94,7 @@ Emarsys clients benefit from the highest standards in email marketing: state-of-
 
  Only customers who follow all best practice recommendations can expect perfect deliverability. Even if you are an existing customer, please take a moment to see how many of the following practices you currently follow. These are the easiest ways for you to ensure stable deliverability, and have been divided into recommendations for email campaigns and for list hygiene. **Campaign-specific Recommendations** The following tips and tricks might seem obvious, but can significantly improve your deliverability rates and customer engagement.
 
-- Include a request to â&#128;&#152;add the sender to the address book or safe sender list'. This enables the image content of your email to be automatically displayed the next time they receive an email from you. This easily and drastically increases your open rates, reputation and subsequently deliverability performance.
+- Include a request to ‘add the sender to the address book or safe sender list'. This enables the image content of your email to be automatically displayed the next time they receive an email from you. This easily and drastically increases your open rates, reputation and subsequently deliverability performance.
 - Place the unsubscribe link at the top of the email. Avoid low contrast combinations, e.g. light grey text on dark grey background, so that the link is visible and accessible to all recipients. The more accessible the unsubscribe link is, the more your recipients will trust you (knowing they can opt out at any time) and the **fewer** complaints and unsubscribes you will receive.
 - Use Personalization. This is an easy and effective way to engage with your recipients, increasing their trust, response rates and as a consequence your reputation and deliverability.
 - Balance your Text and HTML/Image content ratio. Aim for your email to be comprised of 50% text and 50% HTML/images, but the more text content you have the better.

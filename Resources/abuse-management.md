@@ -7,7 +7,7 @@ old_url: 'http://emarsys.dev/resources/deliverability/abuse-management/'
 Emarsys Deliverability Abuse Management
 ---------------------------------------
 
- Emarsys is the engine behind some of the worldâ&#128;&#153;s smartest customer engagement solutions, with over 1200 clients in 140 countries using our technology, including industry leaders such as eBay, ToysRUs, Canon, Zalando Lounge, Sky and A.S. Watson. We segment and analyze 1 billion customer records and send more than 7 billion personalized emails every month. With such high traffic, abuse complaints do occasionally arise. Although we strive to prevent this, when they do happen we deal with them as quickly and efficiently as possible. Ensuring that only permission-based content is sent is our highest priority. This is why we work so hard to make sure that only the right content is sent to contacts who are happy to receive this content.
+ Emarsys is the engine behind some of the world’s smartest customer engagement solutions, with over 1200 clients in 140 countries using our technology, including industry leaders such as eBay, ToysRUs, Canon, Zalando Lounge, Sky and A.S. Watson. We segment and analyze 1 billion customer records and send more than 7 billion personalized emails every month. With such high traffic, abuse complaints do occasionally arise. Although we strive to prevent this, when they do happen we deal with them as quickly and efficiently as possible. Ensuring that only permission-based content is sent is our highest priority. This is why we work so hard to make sure that only the right content is sent to contacts who are happy to receive this content.
 
 Filing an Abuse Report
 ----------------------

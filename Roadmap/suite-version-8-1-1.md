@@ -13,6 +13,6 @@ Suite version 8.1.1##### December, 2014
 
 - Dynamic filtering of available campaigns by time period
 - More metrics including mobile responses
-- Export ofÂ  the analysis
+- Export of  the analysis
 
  For full details, read the user guide [here](/Roadmap/suite-version-8-1-1.md "Suite Version 8.1.1"). [![trend_reporting_8.1.1](/assets/images/trend_reporting_8.1.1-1024x531.png)](/assets/images/trend_reporting_8.1.1.png)

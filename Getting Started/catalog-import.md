@@ -10,7 +10,7 @@ Once you have [prepared your product catalog](/Getting%20Started/prepare-catalog
 
  In your Suite account, open the **Predict** menu, **Product Catalog** tab. [![Product_catalogue_settings](/assets/images/Product_catalogue_settings-300x173.png)](/assets/images/Product_catalogue_settings.png)
 
-<div style="text-align: center;">**Figure:** The **Product Catalog** tab in Suite. Note that the Merchant ID is displayed below the menu on the left.</div> In the **Catalog Upload** field, browse for the catalog. Before you upload it you should validate it, which will tell you whether the syntax of your .CSV file is correct. In case of validation errors please check your syntax again and contactÂ Emarsys Support if problems persist. Then click **Submit** to import the file.
+<div style="text-align: center;">**Figure:** The **Product Catalog** tab in Suite. Note that the Merchant ID is displayed below the menu on the left.</div> In the **Catalog Upload** field, browse for the catalog. Before you upload it you should validate it, which will tell you whether the syntax of your .CSV file is correct. In case of validation errors please check your syntax again and contact Emarsys Support if problems persist. Then click **Submit** to import the file.
 
 ### <span class="mw-headline" id="Scheduling_Automated_Product_Catalogue_Imports">Scheduling Automated Product Catalog Imports<a name="bs-ue-jumpmark-0a18db5162bb2906f7e500168fdc23e1"></a></span>
 

@@ -18,7 +18,7 @@ old_url: 'http://emarsys.dev/suite/online-help/administrators-description/'
 
 <div> <table><tbody><tr><td>**Important**:</td> <td>Emarsys does everything it can to protect your login credentials, such as preventing browsers from saving passwords. However, some browser versions override this and will store credentials unless the user explicitly switches off this setting. Please bear this in mind when considering login security for users of your account.</td></tr></tbody></table></div>1. Assign an **Access level**.
 2. Select **Interface Language**; this specifies the interface (GUI) language for the user.
-3. With the **Default language for forms** option, you assign the default language for creating [forms](/olh/forms-overview.md "Forms â&#128;&#147; Overview"), [fields](/olh/forms-data-fields.md "Forms â&#128;&#147; Data Fields") and [users](/olh/administrators-overview.md "Admin â&#128;&#147; Administrators Overview").
+3. With the **Default language for forms** option, you assign the default language for creating [forms](/olh/forms-overview.md "Forms – Overview"), [fields](/olh/forms-data-fields.md "Forms – Data Fields") and [users](/olh/administrators-overview.md "Admin – Administrators Overview").
 
  Please note that for emails, the language will still have to be selected each time an email is created.
 
@@ -31,6 +31,6 @@ old_url: 'http://emarsys.dev/suite/online-help/administrators-description/'
 3. Enter a **Last name**.
 4. Enter the **job position**.
  
-**Note**: The **Mobile Phone** field is read-only and shows the mobile phone number Â which is used for SMS authentication, if Â this feature is enabled. Click **Save** to save your settings. Click **Back** to return to the [Overview](/olh/administrators-overview.md "Admin â&#128;&#147; Administrators Overview") page.
+**Note**: The **Mobile Phone** field is read-only and shows the mobile phone number  which is used for SMS authentication, if  this feature is enabled. Click **Save** to save your settings. Click **Back** to return to the [Overview](/olh/administrators-overview.md "Admin – Administrators Overview") page.
 
 **

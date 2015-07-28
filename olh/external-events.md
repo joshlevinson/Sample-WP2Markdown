@@ -4,7 +4,7 @@ tags: 'olh, SuiteAdmin'
 old_url: 'http://emarsys.dev/suite/online-help/external-events/'
 ---
 
-**Admin menu ->** External Events** On the **Overview** page, you can see all the external events which are available for use as entry points in the [Automation Center](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview"). Each external event can be linked to an API call to add contacts to programs.
+**Admin menu ->** External Events** On the **Overview** page, you can see all the external events which are available for use as entry points in the [Automation Center](/olh/ac-overview.md "Campaigns – Automation Center – Overview"). Each external event can be linked to an API call to add contacts to programs.
 
 #### Using external events in programs
 

@@ -33,6 +33,6 @@ old_url: 'http://emarsys.dev/suite/online-help/forms-source-code/'
 
 #### Use background registration
 
- Use the code from this field if your existing forms are connected to your own database and you want to have the contact information transferred to the Emarsys eMarketing Suite database as well. For this, you have to compare the registration variables (name, last name, email) in your existing form with the ones available in your Emarsys eMarketing Suite account. Fields which do not exist in your account [must be created](/olh/forms-data-fields.md "Forms â&#128;&#147; Data Fields"). For more information, please contact Emarsys support.
+ Use the code from this field if your existing forms are connected to your own database and you want to have the contact information transferred to the Emarsys eMarketing Suite database as well. For this, you have to compare the registration variables (name, last name, email) in your existing form with the ones available in your Emarsys eMarketing Suite account. Fields which do not exist in your account [must be created](/olh/forms-data-fields.md "Forms – Data Fields"). For more information, please contact Emarsys support.
 
 **

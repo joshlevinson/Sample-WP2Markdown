@@ -31,7 +31,7 @@ The Web Recommender widgets can be placed in any page on your website. They can 
 - Provides advice and insights, like an experienced shop assistant.
 - Improves the experience, enhances loyalty.
 
-##### Â Cart
+#####  Cart
 
  Similar to **Also_Bought**, this widget takes the recommendations one level deeper by analyzing the *entire content of the cart* before offering complementary items.
 
@@ -51,7 +51,7 @@ The Web Recommender widgets can be placed in any page on your website. They can 
 
  Not surprisingly, most of our examples focus on the **browse** stage of the customer journey, since this is where your customers spend most of their time.
 
-- On your **Home and Category** pages, use the [*Personal*Â widget](/Getting%20Started/web-personal.md "Example 1: Using the Personal Widget")Â to make an immediate, personal impact on each returning visitor.
-- On your **Product pages**, use the [*Related* widget](/Predict/web-related.md "Example 2: Using the Related Widget")Â to offer cross- and up-sell suggestions.
-- Additionally on **Product pages**, use the [*Also-Bought* widget](/Getting%20Started/web-also.md "Example 3: Using the Also-Bought Widget")Â to give real examples of what other customers also bought.
+- On your **Home and Category** pages, use the [*Personal* widget](/Getting%20Started/web-personal.md "Example 1: Using the Personal Widget") to make an immediate, personal impact on each returning visitor.
+- On your **Product pages**, use the [*Related* widget](/Predict/web-related.md "Example 2: Using the Related Widget") to offer cross- and up-sell suggestions.
+- Additionally on **Product pages**, use the [*Also-Bought* widget](/Getting%20Started/web-also.md "Example 3: Using the Also-Bought Widget") to give real examples of what other customers also bought.
 - On the **Checkout page**, use the [*Cart* widget](/Getting%20Started/web-cart.md "Example 4: Using the Cart Widget") on the checkout page to maximize the value of the order as it is being carried out, and reduce cart abandonment.

@@ -15,7 +15,7 @@ old_url: 'http://emarsys.dev/suite/online-help/export-data-changes/'
 3. For **Additional options**, decide to export changes to existing contacts, new registrations or both.
 4. Set a time range; only changes which occurred within the range are exported.
 
- For the other settings on this page, see: [Define settings for a manual export of contact lists](/olh/export-contact-list.md "Contacts â&#128;&#147; Data Export â&#128;&#147; Contact List").
+ For the other settings on this page, see: [Define settings for a manual export of contact lists](/olh/export-contact-list.md "Contacts – Data Export – Contact List").
 
 #### Schedule automatic export of data changes
 

@@ -26,10 +26,10 @@ old_url: 'http://emarsys.dev/suite/online-help/campaign-scheduling/'
 - **Opt-in false** - Tells you how many of the contacts do not have an opt-in.
 - **Invalid** - Tells you how many of the contacts have invalid email addresses.
 - **Opt-in false and invalid** - Tells you how many contacts neither have opt-in nor a valid email address.
-- **Excluded** - Tells you how many contacts have been removed from the launch list by the [Exclude on send](/olh/email-settings.md "Campaigns â&#128;&#147; Email Settings") feature.
+- **Excluded** - Tells you how many contacts have been removed from the launch list by the [Exclude on send](/olh/email-settings.md "Campaigns – Email Settings") feature.
 - **Estimated** **recipients** - The total of contacts the email campaign will be sent to.
 
- Click the number for **Presumed** **Launch** to go to the appropriate list of contacts. Click the number of invalid email addresses to go to [Bounce Management](/olh/bounce-management-settings.md "Admin â&#128;&#147; Bounce Management Overview"), where the corresponding contacts are listed. Re-click **Generate** **Launch** **List** to have the system update the selected recipient source and create another launch list. The table to the right contains more information on the email campaign, such as the launch type, starting time, planned mailing volume and mail format.
+ Click the number for **Presumed** **Launch** to go to the appropriate list of contacts. Click the number of invalid email addresses to go to [Bounce Management](/olh/bounce-management-settings.md "Admin – Bounce Management Overview"), where the corresponding contacts are listed. Re-click **Generate** **Launch** **List** to have the system update the selected recipient source and create another launch list. The table to the right contains more information on the email campaign, such as the launch type, starting time, planned mailing volume and mail format.
 
 #### Define launch type
 
@@ -47,7 +47,7 @@ old_url: 'http://emarsys.dev/suite/online-help/campaign-scheduling/'
 
 #### Set schedule
 
- You can define at which time to launch the email campaign, either immediately or on a certain day at a particular time. **Note**: If you try to schedule a launch for a date/time in the past, you are notified and prompted to enter a date/time in the future. You can also assign a specific time zone (e.g. the time zone of the target country). In this case, the launch takes place at the specified local time of that time zone, and this launch time is displayed with that time zoneâ&#128;&#153;s GMT offset. When scheduling a launch in the future, you can instruct the system to update the launch list (i.e. recipient source) before launching. This option is activated by default. **Please note**: If you schedule an email to launch over more than one day, be careful if you are using the [Frequency Cap](/olh/frequency-cap.md "Admin â&#128;&#147; Frequency Cap Overview"), since all the contacts on the launch list will be counted as having received the email on every day that a launch takes place.
+ You can define at which time to launch the email campaign, either immediately or on a certain day at a particular time. **Note**: If you try to schedule a launch for a date/time in the past, you are notified and prompted to enter a date/time in the future. You can also assign a specific time zone (e.g. the time zone of the target country). In this case, the launch takes place at the specified local time of that time zone, and this launch time is displayed with that time zone’s GMT offset. When scheduling a launch in the future, you can instruct the system to update the launch list (i.e. recipient source) before launching. This option is activated by default. **Please note**: If you schedule an email to launch over more than one day, be careful if you are using the [Frequency Cap](/olh/frequency-cap.md "Admin – Frequency Cap Overview"), since all the contacts on the launch list will be counted as having received the email on every day that a launch takes place.
 
 #### Check personalization
 

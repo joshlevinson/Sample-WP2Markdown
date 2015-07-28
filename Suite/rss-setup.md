@@ -16,7 +16,7 @@ Below you can find all the information you need to set up and activate RSS feeds
 
  In order to get RSS set up there are a few simple steps to perform, after which the RSS campaign is ready to use and will run automatically until deactivated:
 
-1. ContactÂ Emarsys Support with an RSS template creation request, providing a screenshot of a current template - or a design proposal for a new template.
+1. Contact Emarsys Support with an RSS template creation request, providing a screenshot of a current template - or a design proposal for a new template.
 2. Provide them with the URL for the RSS feed you want to use and let us know if you would also like the subject line to be configured to auto-populate
 3. Emarsys will then create the template for you in Suite, making sure that the format is correct and matches your requirements
 4. Emarsys sets up the recurring URL for the defined groups (and subject line if desired)
@@ -53,7 +53,7 @@ Below you can find all the information you need to set up and activate RSS feeds
 
  Subject lines can be automated for RSS campaigns, but this requires configuration changes to be made before it will work.
 
-1. Emarsys SupportÂ needs to arrange for configuration changes to enable the subject line automation
+1. Emarsys Support needs to arrange for configuration changes to enable the subject line automation
 2. You need to edit the parent campaign as follows:
  
 <dl><dd>- Make sure there is one section in the pre-header group that is empty

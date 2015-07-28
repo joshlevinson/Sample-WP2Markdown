@@ -8,15 +8,15 @@ old_url: 'http://emarsys.dev/suite/online-help/working-with-the-ac/'
 
 #### Automation Center - What you can do:
 
-- [Create a program](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview")
-- [Schedule a program](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview")
-- [Activate a program](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview")
-- [Make settings for contact ](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview")
-- [Save a program](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview")
-- [Validate a program](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview")
-- [Test a program](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview")
-- [Test individual paths in a program](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview")
-- [Edit a program](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview")
-- [Delete a program](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview")
+- [Create a program](/olh/ac-overview.md "Campaigns – Automation Center – Overview")
+- [Schedule a program](/olh/ac-overview.md "Campaigns – Automation Center – Overview")
+- [Activate a program](/olh/ac-overview.md "Campaigns – Automation Center – Overview")
+- [Make settings for contact ](/olh/ac-overview.md "Campaigns – Automation Center – Overview")
+- [Save a program](/olh/ac-overview.md "Campaigns – Automation Center – Overview")
+- [Validate a program](/olh/ac-overview.md "Campaigns – Automation Center – Overview")
+- [Test a program](/olh/ac-overview.md "Campaigns – Automation Center – Overview")
+- [Test individual paths in a program](/olh/ac-overview.md "Campaigns – Automation Center – Overview")
+- [Edit a program](/olh/ac-overview.md "Campaigns – Automation Center – Overview")
+- [Delete a program](/olh/ac-overview.md "Campaigns – Automation Center – Overview")
 
 **

@@ -30,9 +30,9 @@ Prerequisites and Parameters
  You can collect new registrations from Facebook by integrating a Suite General Registration form. The other Suite forms (Newsletter registration, Tell-a-Friend and Contact Us) are also available if they better suit your objectives. To integrate a Suite form, proceed as follows:
 
 1. Log in to Suite and then go to the **Forms** section, and locate the form that you wish to use in Facebook.
-2. Click the formâ&#128;&#153;s **edit** icon ([![edit-icon](/assets/images/edit-icon.png)](/assets/images/edit-icon.png))
+2. Click the form’s **edit** icon ([![edit-icon](/assets/images/edit-icon.png)](/assets/images/edit-icon.png))
 3. Click **Source Code** in the menu on the left
-4. In the **Hyperlink** section â&#128;&#147; copy the URL as follows:
+4. In the **Hyperlink** section – copy the URL as follows:
 
 <div class="floatnone" style="padding-bottom: 10px; padding-top: 10px;">[![facebook-forms-url](/assets/images/facebook-forms-url-300x28.png)](/assets/images/facebook-forms-url.png)</div>1. Change link.sampledomain.com with your suite environment link; see below for an example.
 
@@ -54,13 +54,13 @@ App Setup Process
 
 1. Test to make sure that the form looks correct by pasting the Full URL into your browser.
 2. Log in to the Facebook developer page <https://developers.facebook.com>
-3. Click **MyÂ Apps** in the top leftÂ corner and then select **Add a New App**.
+3. Click **My Apps** in the top left corner and then select **Add a New App**.
 4. Select **Facebook Canvas** in the pop-up.
 5. Name your new app and choose a category for your application.
 
-<div class="floatnone" style="padding-bottom: 10px; padding-top: 10px;">Â [![create-new-app-id](/assets/images/create-new-app-id-300x162.png)](/assets/images/create-new-app-id.png)</div>1. Click **Create App ID **to proceed with the creation, and then select the appropriate objects in security check.
+<div class="floatnone" style="padding-bottom: 10px; padding-top: 10px;"> [![create-new-app-id](/assets/images/create-new-app-id-300x162.png)](/assets/images/create-new-app-id.png)</div>1. Click **Create App ID **to proceed with the creation, and then select the appropriate objects in security check.
 2. You will be redirected to your application dashboard. Click **Settings** in the left panel.
-3. In the **Contact Email **field, enter the email address of your Emarsys SuccessÂ Manager or your email address.
+3. In the **Contact Email **field, enter the email address of your Emarsys Success Manager or your email address.
 4. In the **App Domains **field, enter your Domain URL.
 
 <div class="floatnone" style="padding-bottom: 10px; padding-top: 10px;">[![contact-email-and-app-domain](/assets/images/contact-email-and-app-domain-300x135.png)](/assets/images/contact-email-and-app-domain.png)</div>1. Click **Add Platform** and choose **Facebook Canvas**.
@@ -68,7 +68,7 @@ App Setup Process
 
 <div class="floatnone" style="padding-bottom: 10px; padding-top: 10px;">[![facebook-canvas](/assets/images/facebook-canvas-300x155.png)](/assets/images/facebook-canvas.png)</div>1. Click **Add Platform** again and choose **Page Tab**.
 2. In the **Secure Page Tab URL** field, enter the form's full URL.
-3. In the **Page Tab Name** field, enterÂ a name for the tab which will be displayed in your Facebook page.
+3. In the **Page Tab Name** field, enter a name for the tab which will be displayed in your Facebook page.
 4. In the **Page Tab Image**, click to upload an image for your tab.
 5. Double-check all settings and then click **Save Changes**.
 6. Go to the dashboard by clicking **Dashboard** on the left panel which will then display the App ID. Make a note of this ID.

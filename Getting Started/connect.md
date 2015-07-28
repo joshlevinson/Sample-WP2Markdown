@@ -20,9 +20,9 @@ Emarsys Connect is a family of products which offer out-of-the-box integrations 
 
 #### Gigya
 
-- This integration is handled entirely by Gigya;Â Emarsys Support will provide them with the necessary account details.
+- This integration is handled entirely by Gigya; Emarsys Support will provide them with the necessary account details.
 
- If you are using one of the applications listed here, but have not yet integrated it with Suite, please contactÂ Emarsys Support for more information. Some integrations offer a test facility, or sandbox, which you can use for testing purposes before linking the live integration with Suite. This is indicated by a checkbox which you must activate before setting up the integration. **Please Note:** in order for these integrations to work, you must have API access (which Emarsys Support will create for you) and a field in your Suite DB called **externalId**, which you must create yourself.
+ If you are using one of the applications listed here, but have not yet integrated it with Suite, please contact Emarsys Support for more information. Some integrations offer a test facility, or sandbox, which you can use for testing purposes before linking the live integration with Suite. This is indicated by a checkbox which you must activate before setting up the integration. **Please Note:** in order for these integrations to work, you must have API access (which Emarsys Support will create for you) and a field in your Suite DB called **externalId**, which you must create yourself.
 
 ### Smart Insight
 

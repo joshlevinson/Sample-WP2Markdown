@@ -4,7 +4,7 @@ tags: 'DataManagement, Getting Started, GettingStarted_Suite'
 old_url: 'http://emarsys.dev/getstarted/contact-data/data-transfer/'
 ---
 
-There are a number of ways to transfer data in and out of Suite. Click the links below to find out more (they are listed inÂ order of complexity):
+There are a number of ways to transfer data in and out of Suite. Click the links below to find out more (they are listed in order of complexity):
 
 - [Importing data](/Getting%20Started/import-data.md "Importing Data into Suite") via the Suite interface
 - [Exporting data](/Getting%20Started/export-data.md "Exporting Data from Suite") via the Suite interface

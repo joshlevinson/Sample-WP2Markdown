@@ -17,4 +17,4 @@ ISPs need to know that Emarsys is sending legitimate messages on your behalf and
 
 #### Further reading
 
-- [Deliverability at Emarsys](/Getting%20Started/deliverability.md "Deliverability â&#128;&#147; Overview")
+- [Deliverability at Emarsys](/Getting%20Started/deliverability.md "Deliverability – Overview")

@@ -16,16 +16,16 @@ Introduction
 Preview Pane Elements
 ---------------------
 
- You have a key area of 2-3 inches (5-8 cm). In this very limited space, the added value, your corporate branding and editorial/personalization should be visible, even without the images being displayed. If nothing valuable is shown here, try to improve the design. Have a look at some best-practice examples if you need ideas. For very large emails, you should consider using a table of contents (TOC). Ask the Emarsys Consultants to explain how this can affect templateâ&#128;&#153;s behavior. For language versions, translation must be included:
+ You have a key area of 2-3 inches (5-8 cm). In this very limited space, the added value, your corporate branding and editorial/personalization should be visible, even without the images being displayed. If nothing valuable is shown here, try to improve the design. Have a look at some best-practice examples if you need ideas. For very large emails, you should consider using a table of contents (TOC). Ask the Emarsys Consultants to explain how this can affect template’s behavior. For language versions, translation must be included:
 
 - Please specify clearly which texts need to be translated.
 - In addition to the creative artwork files, please also send us a table with all the translated strings.
 
 ### PSD File for Template Setup Requirements
 
- So that we can create your new CMS template we recommend that you create a mock-up in Photoshop, and then sendÂ Emarsys Support the .PSD file. It is important that you do not rasterize any fonts or shapes, or merge/flatten any layers in the .PSD file. The following information is required in addition to the .PSD file itself:
+ So that we can create your new CMS template we recommend that you create a mock-up in Photoshop, and then send Emarsys Support the .PSD file. It is important that you do not rasterize any fonts or shapes, or merge/flatten any layers in the .PSD file. The following information is required in addition to the .PSD file itself:
 
-- Total width of the design (not exceeding 600 â&#128;&#147; 650px)
+- Total width of the design (not exceeding 600 – 650px)
 - Desired vertical and horizontal line spacing (in pixels) between: - Lines
 - Images
 - Texts
@@ -77,7 +77,7 @@ Preview Pane Elements
 
 <div class="center"><div class="floatnone">[![CMS tmpl Page 08 Image 0002.png](/assets/images/CMS_tmpl_Page_08_Image_0002.png)](/assets/images/CMS_tmpl_Page_08_Image_0002.png)</div> </div><table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">When using mobile templates, the spacing between the individual elements needs to be > 2px, since floating tables are used.When using borders in multi-column groups:The groups are independent of each other, so minimal heights have to be used. Consider the line spacing and spacing between the elements.</td></tr></tbody></table>#### 1/3 and 2/3 Groups
 
- We recommend avoiding combinations of â&#133;&#147; and â&#133;&#148; content layouts, instead group content with a symmetric width, e.g. 50% each in a two-column layout. â&#133;&#148; groups are not flexible and need to be hard-coded into the template and have their position defined, e.g. at the top or bottom of a template. Sections with varying width cannot be used as flexibly as those with an equal width, and also cannot be defined on a group basis. The same applies to the Main Content and Side Section, or groups where the framework has to be hard-coded into the template.
+ We recommend avoiding combinations of ⅓ and ⅔ content layouts, instead group content with a symmetric width, e.g. 50% each in a two-column layout. ⅔ groups are not flexible and need to be hard-coded into the template and have their position defined, e.g. at the top or bottom of a template. Sections with varying width cannot be used as flexibly as those with an equal width, and also cannot be defined on a group basis. The same applies to the Main Content and Side Section, or groups where the framework has to be hard-coded into the template.
 
 Requirements for Sending Emails via Emarsys
 -------------------------------------------
@@ -115,7 +115,7 @@ Requirements for Sending Emails via Emarsys
 
  The high level of deliverability which you enjoy with Emarsys is partly due to our reputation as an email sender, which in turn reflects the behavior of all our customers. Therefore, even though you are not obliged to follow the Emarsys standards, we strongly advise you to implement them as they will not only improve you click and open rates, but help to maintain the Emarsys reputation as well. Consider adding a line like "Add sender to address book". This will ensure that images will be displayed, but will also increase open rates. Also, this information is tracked by email providers, so Emarsys' reputation will increase with this provider. Include a brief editorial and use personalization where possible, for example, mention the recipient's name, have short greeting line, etc. Explain to your recipients why they are receiving this message, how often you send it, and allow them to change their settings for receiving messages from you). Have a look at your image-to-text ratio, i.e., how many pictures are included in the HTML version, compared to text? If this is too high, your campaign might be considered as spam by the email providers. Here is a brief overview of items to check:
 
-- Font size between 11 px â&#128;&#147; 19 px (8 pt - 14 pt)
+- Font size between 11 px – 19 px (8 pt - 14 pt)
 - No Flash or Rich Media embedded
 - Minimal use of red fonts (even if CI is red!)
 - No JavaScript used
@@ -124,7 +124,7 @@ Requirements for Sending Emails via Emarsys
 Addons, Forms & User-Generated Content
 --------------------------------------
 
- Addon texts are hardcoded into the template, and will not change when switching the email language; these would require a separate template for each language. The Addons "Contact Us" and "Change Profile" can only be used when a contact form has been created. Please discuss withÂ Emarsys Support if the Emarsys social network sharing functionality should be used â&#128;&#147; if so, certain placeholders need to be included in the design. You will also need to specify if Emarsys standard icons shall be used, or if you will provide your own icon set. When discussing the design, all possible icon placements (template, sections) should be discussed.
+ Addon texts are hardcoded into the template, and will not change when switching the email language; these would require a separate template for each language. The Addons "Contact Us" and "Change Profile" can only be used when a contact form has been created. Please discuss with Emarsys Support if the Emarsys social network sharing functionality should be used – if so, certain placeholders need to be included in the design. You will also need to specify if Emarsys standard icons shall be used, or if you will provide your own icon set. When discussing the design, all possible icon placements (template, sections) should be discussed.
 
 ### Links
 
@@ -132,7 +132,7 @@ Addons, Forms & User-Generated Content
 
 <table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">In Advanced Mode we recommend not to use images in the link design, as this limits the possibilities for linking text (the image will disrupt the text block). Be careful with link formatting, since they might not appear as intended with some email clients (e.g., Outlook).</td></tr></tbody></table> The link to the right shows how Outlook would format it:
 
-<div class="center"><div class="floatnone">[![CMS tmpl Page 10 Image 0002.png](/assets/images/CMS_tmpl_Page_10_Image_0002.png)](/assets/images/CMS_tmpl_Page_10_Image_0002.png)</div></div> "View online version" links: If the default link and default text is used for the online version, changing the email language will change the language of the links. If the online link is hardcoded into the template, this cannot be changed. Also keep in mind that links which are hardcoded into the template cannot always be tracked. ContactÂ Emarsys Support if you have any questions in this regard.
+<div class="center"><div class="floatnone">[![CMS tmpl Page 10 Image 0002.png](/assets/images/CMS_tmpl_Page_10_Image_0002.png)](/assets/images/CMS_tmpl_Page_10_Image_0002.png)</div></div> "View online version" links: If the default link and default text is used for the online version, changing the email language will change the language of the links. If the online link is hardcoded into the template, this cannot be changed. Also keep in mind that links which are hardcoded into the template cannot always be tracked. Contact Emarsys Support if you have any questions in this regard.
 
 Ecommerce (if applicable)
 -------------------------
@@ -154,7 +154,7 @@ Suite-Specific Template Requirements
 
 ### Standard Mode
 
- The Suite templates are constructed to enable you to create new email campaigns with the minimum of effort. The functionality available in Standard mode is based on the idea that no sections have more than one image, one link and no more than one form link. For body text, only one font style is possible (e.g., Verdana, Regular, black, 12pt). Use the Standard Mode to specifyâ&#128;¦
+ The Suite templates are constructed to enable you to create new email campaigns with the minimum of effort. The functionality available in Standard mode is based on the idea that no sections have more than one image, one link and no more than one form link. For body text, only one font style is possible (e.g., Verdana, Regular, black, 12pt). Use the Standard Mode to specify…
 
 - Section Heading
 - Body text
@@ -166,7 +166,7 @@ Suite-Specific Template Requirements
 
 <table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Emarsys cannot guarantee that changes made in the Advanced Mode are displayed correctly in all email clients, even if "Browse Preview" looks fine.Since the Advanced Mode splits the source code into two versions (HTML/Text), you need to make all changes *twice*, once in HTML, and once more in the Text tab.</td></tr></tbody></table>- Click **Advanced Mode** in Standard Mode to switch editing modes:
 
-<div class="center"><div class="floatnone" style="padding-top: 20px;">[![CMS tmpl Page 12 Image 0002.png](/assets/images/CMS_tmpl_Page_12_Image_0002.png)](/assets/images/CMS_tmpl_Page_12_Image_0002.png)</div></div> Use the Advanced Mode to specifyâ&#128;¦
+<div class="center"><div class="floatnone" style="padding-top: 20px;">[![CMS tmpl Page 12 Image 0002.png](/assets/images/CMS_tmpl_Page_12_Image_0002.png)](/assets/images/CMS_tmpl_Page_12_Image_0002.png)</div></div> Use the Advanced Mode to specify…
 
 - Section Heading
 - Body text
@@ -174,4 +174,4 @@ Suite-Specific Template Requirements
 - Multiple links
 - Form Links
 
-<div class="center"><div class="floatnone">[![CMS tmpl Page 12 Image 0003.png](/assets/images/CMS_tmpl_Page_12_Image_0003.png)](/assets/images/CMS_tmpl_Page_12_Image_0003.png)</div></div> Please be aware that line breaks entered in Advanced Mode are encoded via "Shift+Enter". If you start new *paragraphs* (pressing Enter), your layout will break. Different headings must be separated by "Ç&#128;" (pipe character), e.g. Heading1Ç&#128;Heading2Ç&#128;Heading3Ç&#128;â&#128;¦ . Ensure that you do not use more than one URL per section.
+<div class="center"><div class="floatnone">[![CMS tmpl Page 12 Image 0003.png](/assets/images/CMS_tmpl_Page_12_Image_0003.png)](/assets/images/CMS_tmpl_Page_12_Image_0003.png)</div></div> Please be aware that line breaks entered in Advanced Mode are encoded via "Shift+Enter". If you start new *paragraphs* (pressing Enter), your layout will break. Different headings must be separated by "ǀ" (pipe character), e.g. Heading1ǀHeading2ǀHeading3ǀ… . Ensure that you do not use more than one URL per section.

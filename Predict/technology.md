@@ -13,7 +13,7 @@ The Technology Behind Emarsys Predict
 
 #### Behind the Scenes
 
- Our state-of-the-art machine learning software processes diverse behavioral data including page views, checkouts, add-to-cart events and search queries. Millions of customer interactions with thousands of products can be processed in real time, giving up-to-the-minute, individual recommendations with every page refresh. Our ongoing research provides a constant feed of new science thatâ&#128;&#153;s tested and built right into the core product, giving you a living, evolving and continually improving platform.
+ Our state-of-the-art machine learning software processes diverse behavioral data including page views, checkouts, add-to-cart events and search queries. Millions of customer interactions with thousands of products can be processed in real time, giving up-to-the-minute, individual recommendations with every page refresh. Our ongoing research provides a constant feed of new science that’s tested and built right into the core product, giving you a living, evolving and continually improving platform.
 
 #### Understanding the Buying Process
 
@@ -21,11 +21,11 @@ The Technology Behind Emarsys Predict
 
 #### Data Cleansing
 
- Predict has a built-in mechanism that filters out traffic noise and irregular online behavior from the learning algorithms, making sure we capture genuine crowd behavior. In other words, non-human visitors (internet robots) and institutional buyers donâ&#128;&#153;t affect us.
+ Predict has a built-in mechanism that filters out traffic noise and irregular online behavior from the learning algorithms, making sure we capture genuine crowd behavior. In other words, non-human visitors (internet robots) and institutional buyers don’t affect us.
 
 #### Feature Attractor Model
 
- We have an advanced algorithm for dealing with long-tail items with little or no behavioral traffic. Thanks to this model, clients with large or frequently changing catalogues donâ&#128;&#153;t have to suffer from the â&#128;&#156;cold-startâ&#128;&#157; problem, and new visitors can get meaningful recommendations right from day one.
+ We have an advanced algorithm for dealing with long-tail items with little or no behavioral traffic. Thanks to this model, clients with large or frequently changing catalogues don’t have to suffer from the “cold-start” problem, and new visitors can get meaningful recommendations right from day one.
 
 #### Unified Profile
 

@@ -4,7 +4,7 @@ tags: SuiteContent
 old_url: 'http://emarsys.dev/suite/content/cms/cms/'
 ---
 
-In this section you can see where Mobile Sense appears in the Suite UI and what controls are available to you to fine-tune your emailâ&#128;&#153;s mobile display.
+In this section you can see where Mobile Sense appears in the Suite UI and what controls are available to you to fine-tune your email’s mobile display.
 
 ### Show / Hide Sections
 
@@ -16,7 +16,7 @@ In this section you can see where Mobile Sense appears in the Suite UI and what 
 
 <div class="row">[![mobile-sense-section-image](/assets/images/mobile-sense-section-image.png)](/assets/images/mobile-sense-section-image.png)</div> Here are a few reasons why dedicated mobile images may be beneficial:
 
-- You can show dedicated mobile content such as â&#128;&#156;download our app from the appstoreâ&#128;&#157; image, only to the mobile users.
+- You can show dedicated mobile content such as “download our app from the appstore” image, only to the mobile users.
 - You may wish to upload an image that is smaller in terms of KB to make it easier for some mobile clients to render and handle
 - You might want to play with different proportions of the image to optimize real-estate on the mobile; for example, make the banner image taller and with bigger fonts.
 
@@ -32,16 +32,16 @@ In this section you can see where Mobile Sense appears in the Suite UI and what 
 
 If the Navigation bar is programmed as a section, it should be hidden for mobile users - they don't need it.
 
-- **If you canâ&#128;&#153;t seeâ&#128;¦Pre-header**
+- **If you can’t see…Pre-header**
 
-â&#128;&#156;If you canâ&#128;&#153;t see this email click hereâ&#128;¦â&#128;&#157; You don't really want this line of text to take your best 20% of screen real estate, and this rather defeats the object of Mobile Sense, so your responsive design should remove this sentence for mobiles readers (iPhones will anyway download all the images by default so this sentence is unnecessary for them). Other smartphone users should already know where to press to download the images in an email instead of having to go online.
+“If you can’t see this email click here…” You don't really want this line of text to take your best 20% of screen real estate, and this rather defeats the object of Mobile Sense, so your responsive design should remove this sentence for mobiles readers (iPhones will anyway download all the images by default so this sentence is unnecessary for them). Other smartphone users should already know where to press to download the images in an email instead of having to go online.
 
 However, when using a pre-header that has a summary or a call to action, it is highly recommended **not** to hide it for mobile users.
 
-- **Remove â&#128;&#152;Decorativeâ&#128;&#153; images**
+- **Remove ‘Decorative’ images**
 
-For desktop users, an image is sometimes just a nice decoration to compliment a paragraph, but for mobile content small images donâ&#128;&#153;t work. If you decide to put an image in there for a mobile user it should cover the entire screen. Therefore if it is just for decoration or to fill a space, then remember that text and calls to action are more important.
+For desktop users, an image is sometimes just a nice decoration to compliment a paragraph, but for mobile content small images don’t work. If you decide to put an image in there for a mobile user it should cover the entire screen. Therefore if it is just for decoration or to fill a space, then remember that text and calls to action are more important.
 
 - **Mobile-optimized landing pages**
 
-Now that you can send a responsive email that is optimized both for desktops and for mobiles, you will undoubtedly get better click-through-rates. But in order to get better conversions, donâ&#128;&#153;t forget to make a mobile landing page on your website, or better yet a fully responsive website, so that your mobile web content matches your high-quality mobile mail content. Your web provider should be able to help you achieve this.
+Now that you can send a responsive email that is optimized both for desktops and for mobiles, you will undoubtedly get better click-through-rates. But in order to get better conversions, don’t forget to make a mobile landing page on your website, or better yet a fully responsive website, so that your mobile web content matches your high-quality mobile mail content. Your web provider should be able to help you achieve this.

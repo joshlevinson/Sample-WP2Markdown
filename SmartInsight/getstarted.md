@@ -40,7 +40,7 @@ Introduction
 
 #### Data Retention
 
- Every three months, the Smart Insight database is purged of all eCommerce data older than two years. If you want to access data over a longer period than this, you can specify a different timeframe during the setup process â&#128;&#147; but please note that additional costs may be incurred.
+ Every three months, the Smart Insight database is purged of all eCommerce data older than two years. If you want to access data over a longer period than this, you can specify a different timeframe during the setup process – but please note that additional costs may be incurred.
 
 <table cellpadding="1" class="wikitable" style="width: 100%;border: 0px solid #999"><tbody><tr><td scope="col" style="text-align: left;border: 0px solid #999;vertical-align: top" width="60px">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999;vertical-align: top;color: #555555">The age of the data is defined by the value in the order date field rather than import date. This is a mandatory field for all eCommerce data imports.</td></tr></tbody></table>Getting Started with Smart Insight
 ----------------------------------
@@ -52,9 +52,9 @@ Introduction
  Every Smart Insight implementation starts with the Setup. This involves two important steps which will lay the foundation for your future customer engagement strategy.
 
 - Data migration All the relevant data from your web shop (sales items and product catalogue), your Suite account and any other external sources is imported into Smart Insight in a one-off, manual import. After the initial import of the historical data, updates should be performed automatically on a daily basis. The product catalogue import is a complete import of all the data and the sales items import should only comprise the delta (i.e. only the orders happened that day).
-- Configuration In cooperation withÂ Emarsys Support and the Emarsys Customer Intelligence Consultants, you decide which parameters to use to ensure that the Smart Insight screens and dashboard fit your business model. This includes laying down the framework for your customer lifecycle (e.g. deciding after how many days a lead becomes â&#128;&#152;coldâ&#128;&#153;) as well as operational aspects such as setting up the automated import mechanism. The configuration is largely determined by the recommendations made by the Smart Insight profiler report.
+- Configuration In cooperation with Emarsys Support and the Emarsys Customer Intelligence Consultants, you decide which parameters to use to ensure that the Smart Insight screens and dashboard fit your business model. This includes laying down the framework for your customer lifecycle (e.g. deciding after how many days a lead becomes ‘cold’) as well as operational aspects such as setting up the automated import mechanism. The configuration is largely determined by the recommendations made by the Smart Insight profiler report.
  
-<table cellpadding="1" class="wikitable" style="width: 100%;border: 0px"><tbody><tr><td scope="col" style="text-align: left;border: 0px solid #999;vertical-align: top" width="60px">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999;vertical-align: top;color: #555555">In order for the data that you import from different sources to match and give you actionable intelligence on your customers, you must make sure that the unique identifier that you use for your web shop customers matches the external key used in Suite. This is best done by making use of the Suite **externalID** field.</td></tr></tbody></table> Smart Insight has a standard deployment which includes two modules, the **Customer Lifecycle Module** and the **Product Affinity Module** (described in more detail below). Should you feel that the standard screens do not fully match your business case, you can contactÂ Emarsys Support to discuss the possibility of designing further, custom screens. Please note that additional costs may be incurred for additional custom development.
+<table cellpadding="1" class="wikitable" style="width: 100%;border: 0px"><tbody><tr><td scope="col" style="text-align: left;border: 0px solid #999;vertical-align: top" width="60px">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999;vertical-align: top;color: #555555">In order for the data that you import from different sources to match and give you actionable intelligence on your customers, you must make sure that the unique identifier that you use for your web shop customers matches the external key used in Suite. This is best done by making use of the Suite **externalID** field.</td></tr></tbody></table> Smart Insight has a standard deployment which includes two modules, the **Customer Lifecycle Module** and the **Product Affinity Module** (described in more detail below). Should you feel that the standard screens do not fully match your business case, you can contact Emarsys Support to discuss the possibility of designing further, custom screens. Please note that additional costs may be incurred for additional custom development.
 
 ### Layout and Controls
 
@@ -124,7 +124,7 @@ Introduction
 
 - **Total spent** (over the last two years, by all the contacts in this lifecycle stage)
 - **Average spent** (over the last two years, per contact in each lifecycle stage)
-- **Number of contacts** (todayâ&#128;&#153;s figure for this lifecycle stage)
+- **Number of contacts** (today’s figure for this lifecycle stage)
  
 <table cellpadding="1" class="wikitable" style="width: 100%;border: 0px solid #999"><tbody><tr><td scope="col" style="text-align: left;border: 0px solid #999;vertical-align: top" width="60px">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999;vertical-align: top;color: #555555">- You can use this screen to analyze the experience your web shop offers customers. For example, high numbers of defecting first-time buyers might indicate problems in your shipping or billing processes that put customers off making a second purchase.
 - You can also segment your contact by source and see which acquisition channels are performing better and which need investment.
@@ -165,7 +165,7 @@ Introduction
 
 <table cellpadding="1" class="wikitable" style="width: 100%;border: 0px solid #999"><tbody><tr><td scope="col" style="text-align: left;border: 0px solid #999;vertical-align: top" width="60px">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999;vertical-align: top;color: #555555">You can use this screen to make your emails more relevant, for example by saving a segment of contacts who have already bought a product, and excluding it from promotional campaign for that product. You can also schedule reminder campaigns for products which require refills or maintenance.</td></tr></tbody></table>### Affinity Screen
 
- The **Affinity Screen** gives a breakdown of the top product categories that your contacts are interested in based on their website behaviour. Smart Insightâ&#128;&#153;s machine learning algorithms score all categories per contact and the displays the top 3 categories per customer. [![The Affinity screen](/assets/images/Smart_Insight_EUG_Page_15_Image_0003.png)](/assets/images/Smart_Insight_EUG_Page_15_Image_0003.png) The **Affinity screen** is based on the data that is automatically captured from the website, using the Emarsys **Web Extend** collection script.
+ The **Affinity Screen** gives a breakdown of the top product categories that your contacts are interested in based on their website behaviour. Smart Insight’s machine learning algorithms score all categories per contact and the displays the top 3 categories per customer. [![The Affinity screen](/assets/images/Smart_Insight_EUG_Page_15_Image_0003.png)](/assets/images/Smart_Insight_EUG_Page_15_Image_0003.png) The **Affinity screen** is based on the data that is automatically captured from the website, using the Emarsys **Web Extend** collection script.
 
 #### Last Website Visit Date
 
@@ -224,7 +224,7 @@ The Smart Insight Scoring Model
 
 ### eRFM Scoring
 
- The eRFM model categorises contacts by four aspects of their behaviour and allows Smart Insight to decide whether an individual is, for example, a cold lead, active buyer or defecting gold customer. The categorisation is done by matching the contactâ&#128;&#153;s behaviour to the parameters defined during setup, and is based on the analysis provided by the Smart Insight profiler. The graphic below illustrates how these parameters might look in a typical Smart Insight account. [![An example of an eRFM scoring model](/assets/images/Smart_Insight_EUG_Page_19_Image_0002.png)](/assets/images/Smart_Insight_EUG_Page_19_Image_0002.png)
+ The eRFM model categorises contacts by four aspects of their behaviour and allows Smart Insight to decide whether an individual is, for example, a cold lead, active buyer or defecting gold customer. The categorisation is done by matching the contact’s behaviour to the parameters defined during setup, and is based on the analysis provided by the Smart Insight profiler. The graphic below illustrates how these parameters might look in a typical Smart Insight account. [![An example of an eRFM scoring model](/assets/images/Smart_Insight_EUG_Page_19_Image_0002.png)](/assets/images/Smart_Insight_EUG_Page_19_Image_0002.png)
 
 ### Customer Lifecycle Terminology
 
@@ -241,13 +241,13 @@ The Smart Insight Scoring Model
 
 <table class="wikitable"><thead><tr><th>1<sup>st</sup> time buyer</th> <td>Only one purchase ever, made in the last 90 days</td> </tr><tr><th>Active buyer</th> <td>Made a purchase in the last 90 days and has made more than one purchase in total</td> </tr><tr><th>Defecting buyer</th> <td>Has not made a purchase in the last 90 days but has made at least one purchase in the past</td> </tr><tr><th>Inactive buyer</th> <td>Has not made a purchase in the last 365 days but has made at least one purchase in the past</td></tr></thead></table>#### Buying Status
 
- The **Buying Status** categorizes customers based on their spending levels using the last two yearsâ&#128;&#153; worth of historical data. The actual amounts for each threshold are defined during Smart Insight Setup.
+ The **Buying Status** categorizes customers based on their spending levels using the last two years’ worth of historical data. The actual amounts for each threshold are defined during Smart Insight Setup.
 
-<table class="wikitable"><thead><tr><th>Low spender</th> <td>e.g. up to â&#130;¬50</td> </tr><tr><th>Normal</th> <td>e.g. up to â&#130;¬200</td> </tr><tr><th>Silver</th> <td>e.g. up to â&#130;¬500</td> </tr><tr><th>Gold</th> <td>e.g. up to â&#130;¬1000</td> </tr><tr><th>Platinum</th> <td>e.g. more than â&#130;¬1,000</td></tr></thead></table>### Preparing your Reports
+<table class="wikitable"><thead><tr><th>Low spender</th> <td>e.g. up to €50</td> </tr><tr><th>Normal</th> <td>e.g. up to €200</td> </tr><tr><th>Silver</th> <td>e.g. up to €500</td> </tr><tr><th>Gold</th> <td>e.g. up to €1000</td> </tr><tr><th>Platinum</th> <td>e.g. more than €1,000</td></tr></thead></table>### Preparing your Reports
 
  During Smart Insight setup you will be presented with Smart Insight Profiler reports and recommendations based on an analysis of your data. You will then define, with Emarsys Support, the parameters, scale and terminology that will determine the scope of your reports. The following variables must be defined:
 
-- eRFM parameters For example, a cut-off point for Recency could be <45 days instead of <30, for Monetary could be > â&#130;¬5,000 instead of > â&#130;¬1,000, etc.
+- eRFM parameters For example, a cut-off point for Recency could be <45 days instead of <30, for Monetary could be > €5,000 instead of > €1,000, etc.
 - Terminology Which terms to use, e.g. *Small spender* instead of *Low spender*, etc.
 - Number and types of filters per screen Up to six filters can be defined per screen in the standard configuration, and any field from the defined fields or tables can be used.
 

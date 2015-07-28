@@ -20,7 +20,7 @@ old_url: 'http://emarsys.dev/suite/magento/getting-started/'
 - Create two custom fields in Suite called: - **Magento Customer ID**
 - **Magento Subscriber ID**
 
-Please note that these field names are case-sensitive (e.g. ***Magento customer id*** wonâ&#128;&#153;t work).
+Please note that these field names are case-sensitive (e.g. ***Magento customer id*** won’t work).
 
 - Contact Emarsys Support to have these custom fields indexed internally in the account database.
 - If you are using Smart Insight, ask Emarsys Support for the FTPS credentials. Also, make sure that your Magento hosting provider allows outgoing connections to the address ***exchange.si.emarsys.net*** over the ports ***TCP21*** and ***TCP32000-32500**.*
@@ -32,7 +32,7 @@ Please note that these field names are case-sensitive (e.g. ***Magento customer 
 
  You can obtain the **Emarsys for Magento **installation package from Emarsys Support (it is also available from the Magento marketplace but that will simply direct you back to Emarsys). Once you own the package, you should install it in your Magento shop as following:
 
-1. Â Log in your Magento back-end (admin) and navigate to **System > Magento Connect > Magento Connect Manager**. Here you will be asked to enter your login credentials again.
+1.  Log in your Magento back-end (admin) and navigate to **System > Magento Connect > Magento Connect Manager**. Here you will be asked to enter your login credentials again.
 2. Under **Direct package file upload**, browse to the latest Emarsys for Magento package (a *.tgz* file) provided by Emarsys Support and upload it:
  
 [![magento_install_1](/assets/images/magento_install_1-300x184.png)](/assets/images/magento_install_1.png)1. After successfully uploading the file, return to the Magento admin module and navigate to **System / Cache Management** and flush the **Magento Cache** and the **Cache Storage**. After this you must log out and then log in again.

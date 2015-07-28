@@ -8,7 +8,7 @@ old_url: 'http://emarsys.dev/suite/online-help/segments-overview/'
 
 #### Edit segments
 
- ClickÂ [![refresh-icon](/assets/images/refresh-icon.png)](/assets/images/refresh-icon.png) to refresh a segment; clickÂ [![edit-icon](/assets/images/edit-icon.png)](/assets/images/edit-icon.png) to edit the conditions of the segment or **X**Â  to delete the segment.
+ Click [![refresh-icon](/assets/images/refresh-icon.png)](/assets/images/refresh-icon.png) to refresh a segment; click [![edit-icon](/assets/images/edit-icon.png)](/assets/images/edit-icon.png) to edit the conditions of the segment or **X**  to delete the segment.
 
 #### Create segment
 

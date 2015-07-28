@@ -70,7 +70,7 @@ Data Security
 
 ### Importing to Broadcasting Databases
 
- During the import process the CSV data is decrypted and copied to the Broadcasting Databases (DBs). These DBs are part of Broadcast's backend which is located in a different subnet and access is only possible through a firewall. Each Recipient Import process copies the data to a newly created DB table. This guarantees that Recipient Data from one email campaign is clearly separated from other campaigns and thus also from other customerâ&#128;&#153;s data.
+ During the import process the CSV data is decrypted and copied to the Broadcasting Databases (DBs). These DBs are part of Broadcast's backend which is located in a different subnet and access is only possible through a firewall. Each Recipient Import process copies the data to a newly created DB table. This guarantees that Recipient Data from one email campaign is clearly separated from other campaigns and thus also from other customer’s data.
 
 ### Generation and sending of emails
 
@@ -82,11 +82,11 @@ Data Security
 
 ### Export of Response Data
 
- The Response Data is saved as CSV files to the customerâ&#128;&#153;s Export folder on the File Exchange and is only accessible through the customer's user account. As with the Data Import, the exported data can optionally be encrypted using PGP.
+ The Response Data is saved as CSV files to the customer’s Export folder on the File Exchange and is only accessible through the customer's user account. As with the Data Import, the exported data can optionally be encrypted using PGP.
 
 ### Data Retention Period
 
- The data stored on the File Exchange is automatically deleted by Broadcastâ&#128;&#153;s Maintenance Process after a pre-defined retention time (configurable per customer account, done during setup). The maintenance process takes place every five minutes, where a check is run to identify data needing deletion. By default the data retention periods are
+ The data stored on the File Exchange is automatically deleted by Broadcast’s Maintenance Process after a pre-defined retention time (configurable per customer account, done during setup). The maintenance process takes place every five minutes, where a check is run to identify data needing deletion. By default the data retention periods are
 
 - 2 days for the *Incoming* folder
 - 1 day for the *Finished* folder

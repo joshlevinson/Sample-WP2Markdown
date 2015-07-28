@@ -13,7 +13,7 @@ old_url: 'http://emarsys.dev/suite/online-help/testing-emails/'
 - If you are using template-based emails, the version number is displayed next to the campaign name at the top. You can create, edit and delete versions by clicking the Version icon on the toolbar.
 - If you are using your own HTML code, click the plus sign icon in the top right corner to activate the A/B testing feature.
  
-**Please note**: This feature is not available for on-event and recurring emails. To test these mails you should use the A/B Splitter node in the [Automation Center](/olh/ac-overview.md "Campaigns â&#128;&#147; Automation Center â&#128;&#147; Overview").
+**Please note**: This feature is not available for on-event and recurring emails. To test these mails you should use the A/B Splitter node in the [Automation Center](/olh/ac-overview.md "Campaigns – Automation Center – Overview").
 
 #### Full Email Preview
 
@@ -21,11 +21,11 @@ old_url: 'http://emarsys.dev/suite/online-help/testing-emails/'
 
 #### Inbox Preview
 
- On this page, you can test an email campaign to see how it will be displayed in the inboxes of the most popular email and webmail clients. If tests have already been run for an email campaign, the thumbnails of the most recent test are displayed. You can display the thumbnails from previous tests by selecting the test in the drop-down box. If no test has been run, you see a series of dummy thumbnails. For more details, see: [Inbox Preview](/olh/inbox-preview.md "Campaigns â&#128;&#147; Inbox Preview").
+ On this page, you can test an email campaign to see how it will be displayed in the inboxes of the most popular email and webmail clients. If tests have already been run for an email campaign, the thumbnails of the most recent test are displayed. You can display the thumbnails from previous tests by selecting the test in the drop-down box. If no test has been run, you see a series of dummy thumbnails. For more details, see: [Inbox Preview](/olh/inbox-preview.md "Campaigns – Inbox Preview").
 
 #### Send Testmail
 
- Prior to launching an email campaign, we recommend sending a test email. These test emails are not recorded as part of the launch and no contact responses (opens, clicks etc.) are displayed in the [Email Analysis](/olh/analysis-emails-overview.md "Analysis â&#128;&#147; Emails â&#128;&#147; Overview"). Scheduling, launch list or A/B version tests are not affected by test emails. To send a testmail, proceed as follows:
+ Prior to launching an email campaign, we recommend sending a test email. These test emails are not recorded as part of the launch and no contact responses (opens, clicks etc.) are displayed in the [Email Analysis](/olh/analysis-emails-overview.md "Analysis – Emails – Overview"). Scheduling, launch list or A/B version tests are not affected by test emails. To send a testmail, proceed as follows:
 
 1. Select a **Mail** **type** using the dropdown, choosing from:
 

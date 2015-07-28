@@ -22,6 +22,6 @@ This will ensure that you don't include customers who did return and complete th
 
 [![predict_last_purchase_date_in_last_4_days](/assets/images/predict_last_purchase_date_in_last_4_days-300x32.png)](/assets/images/predict_last_purchase_date_in_last_4_days.png)- Last purchase date was in the last 6 days
 
-Â Although the node says 'in the last 5 days', we also need to include the first day as well as today, so the filter must include one extra day.
+ Although the node says 'in the last 5 days', we also need to include the first day as well as today, so the filter must include one extra day.
 
 [![predict_last_purchase_date_in_last_6_days](/assets/images/predict_last_purchase_date_in_last_6_days-300x112.png)](/assets/images/predict_last_purchase_date_in_last_6_days.png)

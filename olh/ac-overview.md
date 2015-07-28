@@ -16,7 +16,7 @@ old_url: 'http://emarsys.dev/suite/online-help/ac-overview/'
 - Use the Blueprint category menu to filter all the available preconfigured blueprints, e.g. based on Customer Lifecycle segment.
 - Choose from a selection of blueprints; selecting one displays it in the Preview pane below
 
- Select the option you want and click **Create** to open the workspace. Here you have a menu on the left which contains all available [workspace nodes](/olh/workspace-nodes.md "Campaigns â&#128;&#147; Workspace Nodes"), plus a title and action bar at the top. Hover the mouse over the icons to get more information on what they do.
+ Select the option you want and click **Create** to open the workspace. Here you have a menu on the left which contains all available [workspace nodes](/olh/workspace-nodes.md "Campaigns – Workspace Nodes"), plus a title and action bar at the top. Hover the mouse over the icons to get more information on what they do.
 
 #### Name your program
 
@@ -37,7 +37,7 @@ old_url: 'http://emarsys.dev/suite/online-help/ac-overview/'
 - **Only once ever** - Contacts can never enter this program twice.
 - **At any time but only x days and x hours after exiting** - This builds in a delay so that contacts can only re-enter the program after a certain number of days or hours.
 
- The participation settings you define will also apply to the program when it is in testing. **Note**: One-time batch programs cannot have participation settings enabled due to their automated nature. **Attention**: â&#128;&#152;Contactâ&#128;&#153; here means unique contact ID. If an existing person is re-registered with the same email address but with a new ID they will not be excluded and could enter the program more than once.<a name="save"></a>
+ The participation settings you define will also apply to the program when it is in testing. **Note**: One-time batch programs cannot have participation settings enabled due to their automated nature. **Attention**: ‘Contact’ here means unique contact ID. If an existing person is re-registered with the same email address but with a new ID they will not be excluded and could enter the program more than once.<a name="save"></a>
 
 #### Save a program
 
@@ -53,11 +53,11 @@ old_url: 'http://emarsys.dev/suite/online-help/ac-overview/'
 
 #### Test individual paths in a program
 
- You can test individual paths in a program by using the **Split Path** node. With this feature you can split any path and assign each of the test paths a % value. Contacts proceeding along the main path will be randomly distributed along the test paths according to these % values. You can add new paths and change the % value of existing paths at any time. However, you cannot delete a test path once contacts have passed along it. Once enough contacts have participated in your test and you are confident that you have an optimal choice, simply reduce the % values of the other paths to 0 and all future contacts will proceed along the remaining path. **Note**: There is no automated selection of success criteria for test paths. You should use filters or the [trends analysis](/olh/analysis-trends.md "Analysis â&#128;&#147; Trends â&#128;&#147; General") to determine which path is providing the best results for your program. To test different emails you must create a new email for each path. You cannot test different versions of the same email.<a name="edit"></a>
+ You can test individual paths in a program by using the **Split Path** node. With this feature you can split any path and assign each of the test paths a % value. Contacts proceeding along the main path will be randomly distributed along the test paths according to these % values. You can add new paths and change the % value of existing paths at any time. However, you cannot delete a test path once contacts have passed along it. Once enough contacts have participated in your test and you are confident that you have an optimal choice, simply reduce the % values of the other paths to 0 and all future contacts will proceed along the remaining path. **Note**: There is no automated selection of success criteria for test paths. You should use filters or the [trends analysis](/olh/analysis-trends.md "Analysis – Trends – General") to determine which path is providing the best results for your program. To test different emails you must create a new email for each path. You cannot test different versions of the same email.<a name="edit"></a>
 
 #### Edit programs
 
- Once a program has been activated, the degree to which it can be edited is reduced according to its state, but to edit just click the edit Â icon.
+ Once a program has been activated, the degree to which it can be edited is reduced according to its state, but to edit just click the edit  icon.
 
 #### Editing active programs
 
@@ -95,7 +95,7 @@ old_url: 'http://emarsys.dev/suite/online-help/ac-overview/'
 
 #### Activate a program
 
- Clicking **Launch** in the **Program Status** drop-down starts the program, unless a start date in the future has been entered. Provided all validation checks have been passed, the program is now live and contacts can enter and progress along it as expected. Once a program is active, there are a number of [other actions](/olh/about-the-ac.md "Campaigns â&#128;&#147; About the Automation Center") you can perform in the **Program Status** drop-down.<a name="delete"></a>
+ Clicking **Launch** in the **Program Status** drop-down starts the program, unless a start date in the future has been entered. Provided all validation checks have been passed, the program is now live and contacts can enter and progress along it as expected. Once a program is active, there are a number of [other actions](/olh/about-the-ac.md "Campaigns – About the Automation Center") you can perform in the **Program Status** drop-down.<a name="delete"></a>
 
 #### Delete a program
 
@@ -105,6 +105,6 @@ old_url: 'http://emarsys.dev/suite/online-help/ac-overview/'
 - Before saving you have the option to discard all changes, but this cannot be undone if you accidentally save unwanted changes.
 - If your program has responses, then selecting another email will render the response invalid and a new one must be manually selected.
 
- To see a summary of a program click on the view [![view_details_icon](/assets/images/view_details_icon.png)](/assets/images/view_details_icon.png) icon to get to the [Program Summary](/olh/program-reporting.md "Campaigns â&#128;&#147; Program Reporting") section.
+ To see a summary of a program click on the view [![view_details_icon](/assets/images/view_details_icon.png)](/assets/images/view_details_icon.png) icon to get to the [Program Summary](/olh/program-reporting.md "Campaigns – Program Reporting") section.
 
 **

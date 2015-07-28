@@ -24,7 +24,7 @@ old_url: 'http://emarsys.dev/suite/magento/synchronizing-contacts/'
 - For Magento **customers**, all the fields defined in the **Field Mapping** above will be exported, along with the **Opt-in** and **Customer ID** fields.
 - For Magento **subscribers**, only the **First name**, **Last name**, **Email address**, **Opt-in** and **Subscriber ID** are exported.
 
- To start the synchronization, click the appropriate **Exportâ&#128;¦** button. The first export will start at the next multiple of five minutes.
+ To start the synchronization, click the appropriate **Export…** button. The first export will start at the next multiple of five minutes.
 
 ### Synchronization mode
 

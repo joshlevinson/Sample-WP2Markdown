@@ -4,7 +4,7 @@ tags: 'olh, SuiteAdmin'
 old_url: 'http://emarsys.dev/media-database/'
 ---
 
-**Admin menu ->** Media Database** With the Emarsys eMarketing Suite **Media Database**, you manage files (images, MS Word, HTML, PDF, etc.). You can store all files in folders Â you can create and name, thus having your own free online document archive hosted on Emarsys servers. Executable files (.exe) cannot be uploaded to the Media Database. Please consider that image files may have a maximum file size of 50 KB; other file formats may have 4 MB.
+**Admin menu ->** Media Database** With the Emarsys eMarketing Suite **Media Database**, you manage files (images, MS Word, HTML, PDF, etc.). You can store all files in folders  you can create and name, thus having your own free online document archive hosted on Emarsys servers. Executable files (.exe) cannot be uploaded to the Media Database. Please consider that image files may have a maximum file size of 50 KB; other file formats may have 4 MB.
 
 #### Search for files
 
@@ -12,7 +12,7 @@ old_url: 'http://emarsys.dev/media-database/'
 
 #### Upload files
 
- Suite will normally rename all uploaded images, so that you do not run the risk of accidentally overwriting an existing image. If you want to preserve the original file name, activate the checkboxÂ **Keep original file name**. If you upload an image in this way, a link will appear in the columnÂ **Original file name**Â which will open the image in your browser. From there you can copy the file path and use this in your HTML code. **Note**: Images should only be uploaded in the following formats, as they are supported by all standard email clients: .bmp, .gif, .jpg, .jpeg, .png, .tif,Â .tiff.
+ Suite will normally rename all uploaded images, so that you do not run the risk of accidentally overwriting an existing image. If you want to preserve the original file name, activate the checkbox **Keep original file name**. If you upload an image in this way, a link will appear in the column **Original file name** which will open the image in your browser. From there you can copy the file path and use this in your HTML code. **Note**: Images should only be uploaded in the following formats, as they are supported by all standard email clients: .bmp, .gif, .jpg, .jpeg, .png, .tif, .tiff.
 
 #### Manage files
 
@@ -20,6 +20,6 @@ old_url: 'http://emarsys.dev/media-database/'
 
 #### Add images
 
- The **Add To Page** button is active (indicated by the orange background color) if you enter the Media Database from an area where you can insert documents (e.g. [Forms](/olh/forms-overview.md "Forms â&#128;&#147; Overview"), [Section Editor](/Suite/section-editor.md "CMS Templates: The section editor")) and if you have a document selected. Once you have selected an image and clicked **Add To Page**, you can resize the image to fit your email/form. Emarsys eMarketing Suite keeps image proportions automatically. The image inserted this way is a copy of the original one. This way, the accidental erasure of the original image from the Media Database does not affect the display in an email or form.
+ The **Add To Page** button is active (indicated by the orange background color) if you enter the Media Database from an area where you can insert documents (e.g. [Forms](/olh/forms-overview.md "Forms – Overview"), [Section Editor](/Suite/section-editor.md "CMS Templates: The section editor")) and if you have a document selected. Once you have selected an image and clicked **Add To Page**, you can resize the image to fit your email/form. Emarsys eMarketing Suite keeps image proportions automatically. The image inserted this way is a copy of the original one. This way, the accidental erasure of the original image from the Media Database does not affect the display in an email or form.
 
 **

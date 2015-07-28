@@ -22,7 +22,7 @@ System fields were predefined by Emarsys; typical system fields are *Salutation,
 
 - **Voucher fields**
 
-Voucher fields are specific fields which you create via [Voucher Management](/olh/voucher-management.md "Admin â&#128;&#147; Voucher Management Overview"). Basically, these fields are assigned to individual coupon pools which enable you to send vouchers with your emails.
+Voucher fields are specific fields which you create via [Voucher Management](/olh/voucher-management.md "Admin – Voucher Management Overview"). Basically, these fields are assigned to individual coupon pools which enable you to send vouchers with your emails.
 
 #### Field formats
 

@@ -40,7 +40,7 @@ Setting up your Suite Salesforce integration is simple and requires no actions i
 5. Select which users should have access to the App
 6. You can now proceed to the configuration steps described below
  
-<table style="width: 100%"><tbody><tr><td style="text-align: left;width: 80px;border-color: #fff;background-color: #fff;color: #eb5a19">**Please Note:**</td> <td>The App contains a â&#128;&#156;Permission Setâ&#128;&#157; which can be applied to individual users. Therefore it is not a problem if you are not sure to whom to give access during installation, as you can grant access later on as well.</td> </tr></tbody></table><a name="config-sf"></a>3. Configuring the Integration in Salesforce
+<table style="width: 100%"><tbody><tr><td style="text-align: left;width: 80px;border-color: #fff;background-color: #fff;color: #eb5a19">**Please Note:**</td> <td>The App contains a “Permission Set” which can be applied to individual users. Therefore it is not a problem if you are not sure to whom to give access during installation, as you can grant access later on as well.</td> </tr></tbody></table><a name="config-sf"></a>3. Configuring the Integration in Salesforce
 --------------------------------------------
 
  Before you use the App for the first time, you will need to configure a few settings as follows: In Salesforce, open the **Setup **menu.
@@ -60,7 +60,7 @@ Setting up your Suite Salesforce integration is simple and requires no actions i
 - Link URL
 
 
-1. Go toÂ **Customize/Leads/Page Layouts**
+1. Go to **Customize/Leads/Page Layouts**
 2. Add the related list *EMS Email Responses *to your layout
 3. Click **Edi****t** and add the following fields:
 

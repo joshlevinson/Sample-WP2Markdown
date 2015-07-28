@@ -12,7 +12,7 @@ eMarketing Suite users fall into two broad categories:
 
 - **Operators**
 
- These cannot create system users, but can work with as many other features as their access package dictates. Within these two categories, you can define the activities of each user however you like. For example, you may want some users to be allowed to create and edit email campaigns, but not launch them; or others may need to import contacts and perform duplication handling, but do not need access to the Suite CMS. Speak toÂ Emarsys Support for a list of the available access packages.
+ These cannot create system users, but can work with as many other features as their access package dictates. Within these two categories, you can define the activities of each user however you like. For example, you may want some users to be allowed to create and edit email campaigns, but not launch them; or others may need to import contacts and perform duplication handling, but do not need access to the Suite CMS. Speak to Emarsys Support for a list of the available access packages.
 
 ### <span class="mw-headline" id="Creating_users_in_Suite">Creating users in Suite<a name="bs-ue-jumpmark-bfc18dcccca95a11952a34112b2bb6a4"></a></span>
 
@@ -33,6 +33,6 @@ eMarketing Suite users fall into two broad categories:
 
  Only an administrator can delete other users. Before you do this, you must select another existing user to take over the rights and activities of the deleted user. All forms, fields and emails created by the deleted user will be inherited by the person you choose.
 
-### Â The Superadmin feature
+###  The Superadmin feature
 
  We currently have a pilot project to test a new user management system for Suite. [Click here for details](/Suite/superadmin.md "The Superadmin Feature").

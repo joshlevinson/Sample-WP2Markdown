@@ -16,6 +16,6 @@ old_url: 'http://emarsys.dev/suite/online-help/data-import/'
 
 #### Manual Imports
 
- Click Import to start the new [Import Wizard](/olh/import-wizard.md "Contacts â&#128;&#147; Data Import â&#128;&#147; Import Wizard"), which will guide you through the import preparation with on-screen prompts. Please note: Before you start an import, make sure that the fields in the import file all exist in the database â&#128;&#147; if not you can use the **Field Mapping** feature to map them to existing fields, or use the [Field Editor](/olh/field-editor.md "Admin â&#128;&#147; Field Editor Overview") to create them.
+ Click Import to start the new [Import Wizard](/olh/import-wizard.md "Contacts – Data Import – Import Wizard"), which will guide you through the import preparation with on-screen prompts. Please note: Before you start an import, make sure that the fields in the import file all exist in the database – if not you can use the **Field Mapping** feature to map them to existing fields, or use the [Field Editor](/olh/field-editor.md "Admin – Field Editor Overview") to create them.
 
 **

@@ -9,7 +9,7 @@ Introduction
 
  SMS sending is generally limited by the behavior of the local carriers who actually deliver the message to the device, as well as the handset used by the recipient. It may be that certain carriers or devices do not support some features, such as numeric/alphanumeric **From names**. Emarsys maintains a **Reach Table** which lists the geographical idiosyncrasies that you can expect when sending to different parts of the world; this table is available from Emarsys Support. Below you can find more general guidelines to help you when selecting the right content for your SMS campaigns, to ensure the best possible deliverability, as well as best practice guidelines on how to manage your SMS subscriptions. In short, all SMS messages sent using Emarsys must include the following elements:
 
-- Your SMS marketing messages must include aÂ single opt-out process that immediately discontinues sales and marketing SMS messages to a subscriber.
+- Your SMS marketing messages must include a single opt-out process that immediately discontinues sales and marketing SMS messages to a subscriber.
 - All opt-ins must be collected by you
 
 ### **General Content guidelines**
@@ -37,7 +37,7 @@ Introduction
 - Associated data rates and/or costs (if no costs, you must explicitly state this)*
 - A legally compliant SMS Opt-in message
 
-*Also mandatory in France the USA. The following phrase must be included exactly as is, since it is mandatory for any SMS message content being sent by businesses: **â&#128;&#156;Msg&Data rates may applyâ&#128;&#157;**.
+*Also mandatory in France the USA. The following phrase must be included exactly as is, since it is mandatory for any SMS message content being sent by businesses: **“Msg&Data rates may apply”**.
 
 ### Managing Opt-outs (Unsubscribes)
 
@@ -45,13 +45,13 @@ Introduction
 
 - **Using an SMS Unsubscribe link**
 
-Our recommended option is to place a unique unsubscribe link in your SMS message. The link is provided by Emarsys in the form of a short URL. Clicking the unsubscribe link will cause the contactâ&#128;&#153;s SMS opt-in to be set to FALSE without further action needed by you, and at no cost to the contact.
+Our recommended option is to place a unique unsubscribe link in your SMS message. The link is provided by Emarsys in the form of a short URL. Clicking the unsubscribe link will cause the contact’s SMS opt-in to be set to FALSE without further action needed by you, and at no cost to the contact.
 
 **Please note:** The link will reduce the total size of the message by around 22 characters.
 
 - **Using STOP Words (mandatory in France and the USA) **
 
-A contact can reply to an SMS using one of the common STOP keywords, for example STOP, EXIT, QUIT, UNSUB, etc. Suite can analyze and identify a variety of such words, which it then uses to change the senderâ&#128;&#153;s opt-in status to FALSE (i.e. they are flagged as having opted out).
+A contact can reply to an SMS using one of the common STOP keywords, for example STOP, EXIT, QUIT, UNSUB, etc. Suite can analyze and identify a variety of such words, which it then uses to change the sender’s opt-in status to FALSE (i.e. they are flagged as having opted out).
 
 To enable this, you will need to request your own dedicated number from Emarsys. However, we do not recommend this method except where it is mandatory, since purchasing a dedicated number per country is time-consuming and expensive.
 
@@ -87,6 +87,6 @@ Contacts can also make a request to unsubscribe via another channel such as tele
 - [MMA Mobile Marketing Best Practice](http://mmaglobal.com/education/bestpractice)
 - [MMA U.S. Consumer Best Practices for Messaging](http://mmaglobal.com/files/Best_Practices_for_Messaging_Version_7.0%5B1%5D.pdf)
 
-The CTIA also publishesÂ [voluntary guidelines](http://www.ctia.org/policy-initiatives/voluntary-guidelines "CTIA Voluntary Guidelines")Â regarding SMS regulations and best practices for use by those involved in mobile messaging activities.
+The CTIA also publishes [voluntary guidelines](http://www.ctia.org/policy-initiatives/voluntary-guidelines "CTIA Voluntary Guidelines") regarding SMS regulations and best practices for use by those involved in mobile messaging activities.
 
  See our own [FAQs](/Suite/sms-faq.md) for more information.

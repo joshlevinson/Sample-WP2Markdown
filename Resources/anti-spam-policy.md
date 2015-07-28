@@ -7,7 +7,7 @@ old_url: 'http://emarsys.dev/resources/deliverability/anti-spam-policy/'
 Introduction
 ------------
 
- Emarsys provides theÂ software and infrastructure for the delivery of permission-based electronic messages as part of our Customer Engagement Platform. WeÂ understand ourÂ responsibility towards the recipients of such messages and have a zero-tolerance spam policy, and only supports permission-based marketing practices. IfÂ any of ourÂ customers are found to be usingÂ our infrastructure or applications to send spam then they will be immediately excluded from the use of our products. If you know of or suspect any violations, please notify us immediately at [abuse-report@emarsys.com](mailto:abuse-report@emarsys.com).
+ Emarsys provides the software and infrastructure for the delivery of permission-based electronic messages as part of our Customer Engagement Platform. We understand our responsibility towards the recipients of such messages and have a zero-tolerance spam policy, and only supports permission-based marketing practices. If any of our customers are found to be using our infrastructure or applications to send spam then they will be immediately excluded from the use of our products. If you know of or suspect any violations, please notify us immediately at [abuse-report@emarsys.com](mailto:abuse-report@emarsys.com).
 
 What is spam?
 -------------
@@ -21,16 +21,16 @@ What is spam?
 Legal requirements
 ------------------
 
- Emarsys requires all its clients to comply with the current legal requirements regarding spam, commercial electronic messages and the collection and protection of personal information, as they exist in both the clientâ&#128;&#153;s country of residence and the clientâ&#128;&#153;s geographical area of operation (i.e. where the clientâ&#128;&#153;s recipients are based). These legal requirements include:
+ Emarsys requires all its clients to comply with the current legal requirements regarding spam, commercial electronic messages and the collection and protection of personal information, as they exist in both the client’s country of residence and the client’s geographical area of operation (i.e. where the client’s recipients are based). These legal requirements include:
 
 - The CAN SPAM Act of 2003 (Controlling the Assault of Non-Solicited Pornography and Marketing Act),
 - The Directive on Electronic Commerce (2000/31/EC) of the European Parliament and Council of 8 June 2000, on legal aspects of information society services, in particular, electronic commerce in the Internal Market
-- The Directive on Privacy and Electronic Communications (2002/58/EC) of the European Parliament and Council of 12Â JulyÂ 2002, concerning the processing of personal data and the protection of privacy in the electronic communications sector.
+- The Directive on Privacy and Electronic Communications (2002/58/EC) of the European Parliament and Council of 12 July 2002, concerning the processing of personal data and the protection of privacy in the electronic communications sector.
 
 Emarsys member agreement
 ------------------------
 
- As part of the contractual Terms of Service, Emarsys clients agree to use Emarsys applications and the Emarsys infrastructure exclusively for sending emails â&#128;&#147; or other electronic messages â&#128;&#147; to customers and prospects who have explicitly consented (opted-in) to receive emails from them, and that they refrain from sending unsolicited emails (=spam).
+ As part of the contractual Terms of Service, Emarsys clients agree to use Emarsys applications and the Emarsys infrastructure exclusively for sending emails – or other electronic messages – to customers and prospects who have explicitly consented (opted-in) to receive emails from them, and that they refrain from sending unsolicited emails (=spam).
 
 <table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: middle; color: #555555;">Any Emarsys client sending spam via our applications and infrastructure is subjected to immediate contract and service termination and potential legal action. In addition, Emarsys does not buy or sell mailing lists nor endorses the use of purchased, rented or harvested mailing lists by any of our clients.</td></tr></tbody></table>Mandatory unsubscribe option
 ----------------------------
@@ -54,7 +54,7 @@ Anti-Spam-Organisations
  Emarsys supports the activities of the following anti-spam organizations:
 
 - MAAWG - <http://www.maawg.org/home>
-- TrendMicroâ&#128;&#153;s MAPS (Mail Abuse Prevention System) - <https://ers.trendmicro.com/>
+- TrendMicro’s MAPS (Mail Abuse Prevention System) - <https://ers.trendmicro.com/>
 - Coalition Against Unsolicited Commercial Email (CAUCE) - <http://www.cauce.org>
 - Boycott Internet Spam - <http://spam.abuse.net>
 - Spamhaus - <http://www.spamhaus.org/>
