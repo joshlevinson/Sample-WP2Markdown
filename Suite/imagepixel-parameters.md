@@ -1,0 +1,9 @@
+---
+title: 'Image Pixel - Parameters Explained'
+tags: Suite
+old_url: 'http://emarsys.dev/suite/reporting/imagepixel-parameters/'
+---
+
+##### <span class="mw-headline" id="Image_pixel_parameters_explained">Image pixel parameters explained<a name="bs-ue-jumpmark-9a1befba41483124cfc0a0299d459586"></a></span>
+
+ Below is a breakdown of the elements used in the image pixel method, and what parameters can be removed to customise tracking in the same way as with the JavaScript tracking method: <table align="left" border="1" cellpadding="1" class="wikitable" style="width: 100%;"><thead><tr><th>Variable</th> <th>Function</th> </tr></thead><tbody><tr><td>`ems_customer`</td> <td>The emarsys customer ID. Ask Emarsys Support for this.</td> </tr><tr><td>`ems_visitor`</td> <td>The contact ID</td> </tr><tr><td>`ems_session`</td> <td>The session ID of the contact</td> </tr><tr><td>`ems_campaign`</td> <td>The emst parameter passed in the URL on looking up the web shop</td> </tr><tr><td>`ems_action`</td> <td>constant value: purchase</td> </tr><tr><td>`total`</td> <td>Total value of the order</td> </tr><tr><td>`tax`</td> <td>The tax included in the order (if no parameter is specified, = 0)</td> </tr><tr><td>`shipping`</td> <td>Shipping costs in the order (if no parameter is specified, = 0)</td> </tr></tbody><thead><tr><th>Optional parameters</th> <th></th> </tr></thead><tbody><tr><td>`city`</td> <td>City where the contact is located</td> </tr><tr><td>`Country`</td> <td>Country where the contact is located</td> </tr><tr><td>`code[]`</td> <td>The internal product ID in the web shop</td> </tr><tr><td>`category[]`</td> <td>The corresponding category in the web shop</td> </tr><tr><td>`productname[]`</td> <td>The name of the product</td> </tr><tr><td>`price[]`</td> <td>The unit price of the product</td> </tr><tr><td>`quantity[]`</td> <td>The quantity of the product ordered by the contact</td> </tr></tbody></table>

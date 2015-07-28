@@ -1,0 +1,7 @@
+---
+title: 'Smart Insight - Dashboard Screen'
+tags: SmartInsight
+old_url: 'http://emarsys.dev/smart-insight/the-smart-insight-interface/smart-insight-dashboard-screen/'
+---
+
+<here we document the SI Dashboard>
