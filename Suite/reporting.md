@@ -1,6 +1,6 @@
 ---
 title: 'SMS Campaign Reporting'
-tags: SuiteSMS
+subject: SuiteSMS
 old_url: 'http://emarsys.dev/suite/sms/reporting/'
 ---
 

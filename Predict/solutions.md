@@ -1,6 +1,6 @@
 ---
 title: 'Predict Solutions'
-tags: Predict
+subject: Predict
 old_url: 'http://emarsys.dev/predict/solutions/'
 ---
 

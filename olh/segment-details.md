@@ -1,6 +1,6 @@
 ---
 title: 'Contacts - Segments - Segment Details'
-tags: 'olh, SuiteContacts'
+subject: 'olh, SuiteContacts'
 old_url: 'http://emarsys.dev/suite/online-help/segment-details/'
 ---
 

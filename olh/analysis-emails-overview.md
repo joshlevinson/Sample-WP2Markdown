@@ -1,6 +1,6 @@
 ---
 title: 'Analysis - Emails - Overview'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/analysis-emails-overview/'
 ---
 

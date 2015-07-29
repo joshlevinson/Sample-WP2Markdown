@@ -1,6 +1,6 @@
 ---
 title: 'Contacts - Data Export - Contact Response'
-tags: 'olh, SuiteContacts'
+subject: 'olh, SuiteContacts'
 old_url: 'http://emarsys.dev/suite/online-help/export-contact-response/'
 ---
 

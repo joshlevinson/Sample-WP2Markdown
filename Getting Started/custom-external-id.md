@@ -1,6 +1,6 @@
 ---
 title: 'API Use Case 2: Using a custom external ID as key'
-tags: 'Getting Started, SuiteAPI'
+subject: 'Getting Started, SuiteAPI'
 old_url: 'http://emarsys.dev/suite-api/custom-external-id/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'SSL Certification'
-tags: 'Resources, Security'
+subject: 'Resources, Security'
 old_url: 'http://emarsys.dev/resources/data-security/ssl-certificates/'
 ---
 

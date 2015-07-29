@@ -1,6 +1,6 @@
 ---
 title: 'Analysis - Social Network Tracking'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/analysis-social-network-tracking/'
 ---
 

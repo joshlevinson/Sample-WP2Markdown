@@ -1,6 +1,6 @@
 ---
 title: 'Admin - Internal Blacklist - Domain'
-tags: 'olh, SuiteAdmin'
+subject: 'olh, SuiteAdmin'
 old_url: 'http://emarsys.dev/suite/online-help/blacklist-domain/'
 ---
 

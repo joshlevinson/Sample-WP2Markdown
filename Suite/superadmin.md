@@ -1,6 +1,6 @@
 ---
 title: 'The Superadmin Feature'
-tags: SuiteAdmin
+subject: SuiteAdmin
 old_url: 'http://emarsys.dev/suite/users/superadmin/'
 ---
 

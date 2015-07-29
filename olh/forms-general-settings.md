@@ -1,6 +1,6 @@
 ---
 title: 'Forms - General Settings'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/forms-general-settings/'
 ---
 

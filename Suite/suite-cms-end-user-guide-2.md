@@ -1,6 +1,6 @@
 ---
 title: 'Suite CMS End-user Guide'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/ebene2-2/suite-cms-end-user-guide-2/'
 ---
 

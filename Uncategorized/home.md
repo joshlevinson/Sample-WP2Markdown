@@ -1,6 +1,6 @@
 ---
 title: 'Welcome to the home of Emarsys documentation'
-tags: Uncategorized
+subject: Uncategorized
 old_url: 'http://emarsys.dev/'
 ---
 

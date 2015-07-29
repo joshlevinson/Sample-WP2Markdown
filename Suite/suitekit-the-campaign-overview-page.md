@@ -1,6 +1,6 @@
 ---
 title: 'SuiteKit - the Campaign Overview page'
-tags: SuiteKit
+subject: SuiteKit
 old_url: 'http://emarsys.dev/suite/suitekit/suitekit-the-campaign-overview-page/'
 ---
 

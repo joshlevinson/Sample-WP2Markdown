@@ -1,6 +1,6 @@
 ---
 title: 'Social Ads - About Facebook Audiences'
-tags: SuiteSocial
+subject: SuiteSocial
 old_url: 'http://emarsys.dev/suite/social-ads/about-audiences/'
 ---
 

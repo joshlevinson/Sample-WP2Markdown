@@ -1,6 +1,6 @@
 ---
 title: 'Single-choice Fields and their Values'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/resources/data-transfer/single-choice-fields/'
 ---
 

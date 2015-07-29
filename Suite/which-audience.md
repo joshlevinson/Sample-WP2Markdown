@@ -1,6 +1,6 @@
 ---
 title: 'Which Audience Should I Use?'
-tags: SuiteSocial
+subject: SuiteSocial
 old_url: 'http://emarsys.dev/suite/social-ads/which-audience/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Deliverability Compliance'
-tags: 'Deliverability, Getting Started'
+subject: 'Deliverability, Getting Started'
 old_url: 'http://emarsys.dev/getstarted/first-steps/deliverability/'
 ---
 

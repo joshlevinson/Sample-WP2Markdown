@@ -1,6 +1,6 @@
 ---
 title: 'Adding SMS Campaigns to the Automation Center'
-tags: SuiteSMS
+subject: SuiteSMS
 old_url: 'http://emarsys.dev/suite/sms/automation-center/'
 ---
 

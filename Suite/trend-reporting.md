@@ -1,6 +1,6 @@
 ---
 title: 'Trend Reporting'
-tags: SuiteReporting
+subject: SuiteReporting
 old_url: 'http://emarsys.dev/suite/reporting/trend-reporting/'
 ---
 

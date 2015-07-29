@@ -1,6 +1,6 @@
 ---
 title: 'Campaigns - Inbox Preview'
-tags: 'olh, SuiteCampaigns'
+subject: 'olh, SuiteCampaigns'
 old_url: 'http://emarsys.dev/suite/online-help/inbox-preview/'
 ---
 

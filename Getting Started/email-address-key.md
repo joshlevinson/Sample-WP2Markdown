@@ -1,6 +1,6 @@
 ---
 title: 'API Use Case 1: Using the email address as key'
-tags: 'Getting Started, SuiteAPI'
+subject: 'Getting Started, SuiteAPI'
 old_url: 'http://emarsys.dev/suite-api/email-address-key/'
 ---
 

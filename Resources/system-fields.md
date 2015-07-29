@@ -1,6 +1,6 @@
 ---
 title: 'The Suite System Fields'
-tags: 'DataManagement, Resources, Suite'
+subject: 'DataManagement, Resources, Suite'
 old_url: 'http://emarsys.dev/suite/contacts/system-fields/'
 ---
 

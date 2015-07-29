@@ -1,6 +1,6 @@
 ---
 title: 'SuiteKit - About Facebook Audiences'
-tags: SuiteKit
+subject: SuiteKit
 old_url: 'http://emarsys.dev/suite/suitekit/suitekit-about-facebook-audiences/'
 ---
 

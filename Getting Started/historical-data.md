@@ -1,6 +1,6 @@
 ---
 title: 'Historical Sales Data'
-tags: 'Getting Started, WebExtend'
+subject: 'Getting Started, WebExtend'
 old_url: 'http://emarsys.dev/web-extend/implementation/historical-data/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Campaigns - About Emails'
-tags: 'olh, SuiteCampaigns'
+subject: 'olh, SuiteCampaigns'
 old_url: 'http://emarsys.dev/suite/online-help/campaigns-about-emails/'
 ---
 

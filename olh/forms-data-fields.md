@@ -1,6 +1,6 @@
 ---
 title: 'Forms - Data Fields'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/forms-data-fields/'
 ---
 

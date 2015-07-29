@@ -1,6 +1,6 @@
 ---
 title: 'Implementing Ecommerce Tracking using JavaScript'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/reporting/ecommerce-tracking-using-javascript/'
 ---
 

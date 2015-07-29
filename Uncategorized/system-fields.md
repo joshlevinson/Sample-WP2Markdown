@@ -1,6 +1,6 @@
 ---
 title: 'Suite System Fields Reference'
-tags: Uncategorized
+subject: Uncategorized
 old_url: 'http://emarsys.dev/resources/data-transfer/system-fields/'
 ---
 

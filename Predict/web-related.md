@@ -1,6 +1,6 @@
 ---
 title: 'Example 2: Using the Related Widget'
-tags: Predict
+subject: Predict
 old_url: 'http://emarsys.dev/predict/use-cases/web-related/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Mobile Sense - Supported Clients'
-tags: SuiteContent
+subject: SuiteContent
 old_url: 'http://emarsys.dev/suite/content/cms/supported-clients/'
 ---
 

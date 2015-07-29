@@ -1,6 +1,6 @@
 ---
 title: 'SuiteKit - Which Audience Should I Use?'
-tags: SuiteKit
+subject: SuiteKit
 old_url: 'http://emarsys.dev/suite/suitekit/which-audience-should-i-use/'
 ---
 

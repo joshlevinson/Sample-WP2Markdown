@@ -1,6 +1,6 @@
 ---
 title: 'API Use Case 5: Keeping contacts up to date'
-tags: 'Getting Started, SuiteAPI'
+subject: 'Getting Started, SuiteAPI'
 old_url: 'http://emarsys.dev/suite-api/update-contacts/'
 ---
 

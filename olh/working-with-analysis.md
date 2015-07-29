@@ -1,6 +1,6 @@
 ---
 title: 'Analysis - Working with Analysis'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/working-with-analysis/'
 ---
 

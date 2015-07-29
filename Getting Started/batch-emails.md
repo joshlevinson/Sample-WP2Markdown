@@ -1,6 +1,6 @@
 ---
 title: 'API Use Case 4: Sending batch emails'
-tags: 'Getting Started, SuiteAPI'
+subject: 'Getting Started, SuiteAPI'
 old_url: 'http://emarsys.dev/suite-api/batch-emails/'
 ---
 

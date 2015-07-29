@@ -1,6 +1,6 @@
 ---
 title: Resources
-tags: Resources
+subject: Resources
 old_url: 'http://emarsys.dev/resources/'
 ---
 

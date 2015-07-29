@@ -1,6 +1,6 @@
 ---
 title: 'SMS Content Compliance and Opt-in'
-tags: SuiteSMS
+subject: SuiteSMS
 old_url: 'http://emarsys.dev/suite/sms/compliance/'
 ---
 

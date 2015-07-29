@@ -1,6 +1,6 @@
 ---
 title: 'Admin - Domain Setup for Reply Management'
-tags: 'olh, SuiteAdmin'
+subject: 'olh, SuiteAdmin'
 old_url: 'http://emarsys.dev/suite/online-help/reply-domains/'
 ---
 

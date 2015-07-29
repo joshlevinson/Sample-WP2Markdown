@@ -1,6 +1,6 @@
 ---
 title: 'Using HTTPS Feeds in Suite'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/contacts/http-feeds/'
 ---
 

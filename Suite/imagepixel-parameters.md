@@ -1,6 +1,6 @@
 ---
 title: 'Image Pixel - Parameters Explained'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/reporting/imagepixel-parameters/'
 ---
 

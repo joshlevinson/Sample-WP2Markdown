@@ -1,6 +1,6 @@
 ---
 title: 'Forms - About Forms'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/about-forms/'
 ---
 

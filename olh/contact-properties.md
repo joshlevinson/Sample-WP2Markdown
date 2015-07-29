@@ -1,6 +1,6 @@
 ---
 title: 'Contacts - Add Contact - Properties'
-tags: 'olh, SuiteContacts'
+subject: 'olh, SuiteContacts'
 old_url: 'http://emarsys.dev/suite/online-help/contact-properties/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Analysis - Click Rate Over Time'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/analysis-click-rate-over-time/'
 ---
 

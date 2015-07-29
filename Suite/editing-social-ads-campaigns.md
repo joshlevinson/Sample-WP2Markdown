@@ -1,6 +1,6 @@
 ---
 title: 'Editing SuiteKit Campaigns'
-tags: SuiteKit
+subject: SuiteKit
 old_url: 'http://emarsys.dev/suite/suitekit/editing-social-ads-campaigns/'
 ---
 

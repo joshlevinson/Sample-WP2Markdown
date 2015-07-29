@@ -1,6 +1,6 @@
 ---
 title: 'The Statistics Page'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/predict/user-guide/statistics/'
 ---
 

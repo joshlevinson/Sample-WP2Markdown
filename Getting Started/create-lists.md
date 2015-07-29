@@ -1,6 +1,6 @@
 ---
 title: 'Creating Launch Lists'
-tags: 'Getting Started'
+subject: 'Getting Started'
 old_url: 'http://emarsys.dev/getstarted/email-strategy/create-lists/'
 ---
 

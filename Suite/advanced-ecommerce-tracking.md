@@ -1,6 +1,6 @@
 ---
 title: 'Using Advanced Ecommerce Tracking'
-tags: 'Suite, SuiteReporting'
+subject: 'Suite, SuiteReporting'
 old_url: 'http://emarsys.dev/suite/reporting/advanced-ecommerce-tracking/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Email Widget Designer'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/predict/user-guide/widget-designer/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'CMS Template Requirements'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/content/cms/template-requirements/'
 ---
 

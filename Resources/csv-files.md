@@ -1,6 +1,6 @@
 ---
 title: 'CSV Guidelines'
-tags: 'DataManagement, Resources'
+subject: 'DataManagement, Resources'
 old_url: 'http://emarsys.dev/resources/data-transfer/csv-files/'
 ---
 

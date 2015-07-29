@@ -1,6 +1,6 @@
 ---
 title: 'Using Web Forms to Import Data'
-tags: 'Getting Started'
+subject: 'Getting Started'
 old_url: 'http://emarsys.dev/getstarted/contact-data/web-forms/'
 ---
 

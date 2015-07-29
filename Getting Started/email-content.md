@@ -1,6 +1,6 @@
 ---
 title: 'Email Content'
-tags: 'Getting Started'
+subject: 'Getting Started'
 old_url: 'http://emarsys.dev/getstarted/email-strategy/email-content/'
 ---
 

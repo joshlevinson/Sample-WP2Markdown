@@ -1,6 +1,6 @@
 ---
 title: 'The End...'
-tags: 'Getting Started'
+subject: 'Getting Started'
 old_url: 'http://emarsys.dev/getstarted/fin/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'About Suite Users'
-tags: 'Security, Suite, SuiteAdmin'
+subject: 'Security, Suite, SuiteAdmin'
 old_url: 'http://emarsys.dev/suite/users/'
 ---
 

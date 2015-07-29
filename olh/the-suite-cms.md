@@ -1,6 +1,6 @@
 ---
 title: 'Campaigns - The Suite CMS'
-tags: 'olh, SuiteCampaigns'
+subject: 'olh, SuiteCampaigns'
 old_url: 'http://emarsys.dev/suite/online-help/the-suite-cms/'
 ---
 

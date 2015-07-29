@@ -1,6 +1,6 @@
 ---
 title: 'Campaign Reporting'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/suite/reporting/'
 ---
 

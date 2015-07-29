@@ -1,6 +1,6 @@
 ---
 title: 'Data Exchange Quick Reference Guide'
-tags: SmartInsight
+subject: SmartInsight
 old_url: 'http://emarsys.dev/resources/data-transfer/data-quick-ref/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Delivery Watch Basic Concepts and FAQ'
-tags: DeliveryWatch
+subject: DeliveryWatch
 old_url: 'http://emarsys.dev/ebene2-2/delivery-watch-basic-concepts-and-faq/'
 ---
 

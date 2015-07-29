@@ -1,6 +1,6 @@
 ---
 title: 'The Suite Email Campaign Manager'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/content/campaign-manager/'
 ---
 

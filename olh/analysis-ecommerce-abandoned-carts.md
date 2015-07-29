@@ -1,6 +1,6 @@
 ---
 title: 'Analysis - Abandoned Shopping Carts'
-tags: 'olh, SuiteReporting'
+subject: 'olh, SuiteReporting'
 old_url: 'http://emarsys.dev/suite/online-help/analysis-ecommerce-abandoned-carts/'
 ---
 

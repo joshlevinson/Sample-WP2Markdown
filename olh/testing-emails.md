@@ -1,6 +1,6 @@
 ---
 title: 'Campaigns - Testing the Email'
-tags: 'olh, SuiteCampaigns'
+subject: 'olh, SuiteCampaigns'
 old_url: 'http://emarsys.dev/suite/online-help/testing-emails/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'What''s next for Suite?'
-tags: Roadmap
+subject: Roadmap
 old_url: 'http://emarsys.dev/development/next-version/'
 ---
 

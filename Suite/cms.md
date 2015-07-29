@@ -1,6 +1,6 @@
 ---
 title: 'Mobile Sense in the Suite CMS'
-tags: SuiteContent
+subject: SuiteContent
 old_url: 'http://emarsys.dev/suite/content/cms/cms/'
 ---
 

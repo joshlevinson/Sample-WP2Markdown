@@ -1,6 +1,6 @@
 ---
 title: 'Salesforce Integration: Use cases and examples'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/suite/connect/salesforce-use-cases/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Campaigns - About Social Networks'
-tags: 'olh, SuiteCampaigns'
+subject: 'olh, SuiteCampaigns'
 old_url: 'http://emarsys.dev/suite/online-help/about-social-networks/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Campaigns - Personalisation and Conditional Text'
-tags: 'olh, SuiteCampaigns'
+subject: 'olh, SuiteCampaigns'
 old_url: 'http://emarsys.dev/suite/online-help/personalization/'
 ---
 

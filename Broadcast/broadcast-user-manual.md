@@ -1,6 +1,6 @@
 ---
 title: 'Broadcast User Manual'
-tags: Broadcast
+subject: Broadcast
 old_url: 'http://emarsys.dev/resources/broadcast-user-manual/'
 ---
 

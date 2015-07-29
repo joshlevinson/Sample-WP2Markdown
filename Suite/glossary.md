@@ -1,6 +1,6 @@
 ---
 title: 'Suite API - Glossary'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite-api/glossary/'
 ---
 

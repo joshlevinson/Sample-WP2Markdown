@@ -1,6 +1,6 @@
 ---
 title: 'Analysis - Registrations - Per Contact Source'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/analysis-registrations-per-contact-source/'
 ---
 

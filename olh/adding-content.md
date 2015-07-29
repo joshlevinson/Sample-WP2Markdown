@@ -1,6 +1,6 @@
 ---
 title: 'Campaigns - Adding and Changing Content'
-tags: 'olh, SuiteCampaigns'
+subject: 'olh, SuiteCampaigns'
 old_url: 'http://emarsys.dev/suite/online-help/adding-content/'
 ---
 

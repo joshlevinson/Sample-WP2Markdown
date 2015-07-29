@@ -1,6 +1,6 @@
 ---
 title: 'Smart Insight - Account Settings'
-tags: SmartInsight
+subject: SmartInsight
 old_url: 'http://emarsys.dev/smart-insight/the-smart-insight-interface/smart-insight-account-settings/'
 ---
 

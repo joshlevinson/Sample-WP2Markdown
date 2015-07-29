@@ -1,6 +1,6 @@
 ---
 title: 'Custom Landing Page Checklist'
-tags: 'SuiteContent, SuiteCustomIntegrations'
+subject: 'SuiteContent, SuiteCustomIntegrations'
 old_url: 'http://emarsys.dev/ebene2-2/custom-landing-page/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Importing the Product Catalog'
-tags: 'Getting Started, WebExtend'
+subject: 'Getting Started, WebExtend'
 old_url: 'http://emarsys.dev/web-extend/implementation/catalog-import/'
 ---
 

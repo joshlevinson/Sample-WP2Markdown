@@ -1,6 +1,6 @@
 ---
 title: 'Automating Content with RSS Feeds'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/content/rss-intro/'
 ---
 

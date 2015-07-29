@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started with Smart Insight'
-tags: 'GettingStarted_SmartInsight, SmartInsight'
+subject: 'GettingStarted_SmartInsight, SmartInsight'
 old_url: 'http://emarsys.dev/smart-insight/getstarted/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Data Transfer'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/resources/data-transfer/'
 ---
 

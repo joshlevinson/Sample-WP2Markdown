@@ -1,6 +1,6 @@
 ---
 title: 'Campaigns  - Tips &amp; Hints'
-tags: 'olh, SuiteCampaigns'
+subject: 'olh, SuiteCampaigns'
 old_url: 'http://emarsys.dev/suite/online-help/ac-tips-hints/'
 ---
 

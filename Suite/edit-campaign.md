@@ -1,6 +1,6 @@
 ---
 title: 'Editing Social Ads Campaigns'
-tags: SuiteSocial
+subject: SuiteSocial
 old_url: 'http://emarsys.dev/suite/social-ads/edit-campaign/'
 ---
 

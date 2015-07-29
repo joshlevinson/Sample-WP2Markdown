@@ -1,6 +1,6 @@
 ---
 title: 'Adding New Contacts in Suite'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/contacts/contacts/'
 ---
 

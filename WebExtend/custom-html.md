@@ -1,6 +1,6 @@
 ---
 title: 'Mobile-optimized Custom HTML'
-tags: 'SuiteContent, WebExtend'
+subject: 'SuiteContent, WebExtend'
 old_url: 'http://emarsys.dev/suite/content/cms/custom-html/'
 ---
 

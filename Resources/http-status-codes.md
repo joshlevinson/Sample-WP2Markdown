@@ -1,6 +1,6 @@
 ---
 title: 'HTTP Status Codes'
-tags: 'DataManagement, Resources'
+subject: 'DataManagement, Resources'
 old_url: 'http://emarsys.dev/resources/data-transfer/http-status-codes/'
 ---
 

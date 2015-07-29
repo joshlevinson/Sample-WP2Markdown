@@ -1,6 +1,6 @@
 ---
 title: 'Creating and Editing Content'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/suite/content/'
 ---
 

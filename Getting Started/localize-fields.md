@@ -1,6 +1,6 @@
 ---
 title: 'Localizing the Web Extend Fields'
-tags: 'Getting Started, GettingStarted_Suite, WebExtend'
+subject: 'Getting Started, GettingStarted_Suite, WebExtend'
 old_url: 'http://emarsys.dev/web-extend/implementation/localize-fields/'
 ---
 

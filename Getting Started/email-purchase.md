@@ -1,6 +1,6 @@
 ---
 title: 'Example 2: Post-Purchase Campaign'
-tags: 'Getting Started, GettingStarted_Predict, Predict'
+subject: 'Getting Started, GettingStarted_Predict, Predict'
 old_url: 'http://emarsys.dev/predict/use-cases/email-purchase/'
 ---
 

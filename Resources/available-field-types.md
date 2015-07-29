@@ -1,6 +1,6 @@
 ---
 title: 'Available Field Types'
-tags: 'DataManagement, Resources'
+subject: 'DataManagement, Resources'
 old_url: 'http://emarsys.dev/resources/data-transfer/available-field-types/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Contacts - Working With Contacts'
-tags: 'olh, SuiteContacts'
+subject: 'olh, SuiteContacts'
 old_url: 'http://emarsys.dev/suite/online-help/working-with-contacts/'
 ---
 

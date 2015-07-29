@@ -1,6 +1,6 @@
 ---
 title: 'Understanding DMARC'
-tags: Deliverability
+subject: Deliverability
 old_url: 'http://emarsys.dev/resources/deliverability/dmarc/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Creating Custom Fields'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/contacts/custom-fields/'
 ---
 

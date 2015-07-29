@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started with Social Ads'
-tags: SuiteSocial
+subject: SuiteSocial
 old_url: 'http://emarsys.dev/suite/social-ads/getstarted/'
 ---
 

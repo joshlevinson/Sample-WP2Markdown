@@ -1,6 +1,6 @@
 ---
 title: 'Launching the Email'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/campaigns/launching-emails/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Transactional Email Placeholders'
-tags: 'SuiteIntegrations, SuiteMagento'
+subject: 'SuiteIntegrations, SuiteMagento'
 old_url: 'http://emarsys.dev/suite/magento/placeholders/'
 ---
 

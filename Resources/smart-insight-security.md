@@ -1,6 +1,6 @@
 ---
 title: 'Data Security in Smart Insight'
-tags: 'Resources, Security, SmartInsight'
+subject: 'Resources, Security, SmartInsight'
 old_url: 'http://emarsys.dev/resources/data-security/smart-insight-security/'
 ---
 

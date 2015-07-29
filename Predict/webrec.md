@@ -1,6 +1,6 @@
 ---
 title: 'Web Recommender: Use Cases and Examples'
-tags: 'GettingStarted_Predict, Predict'
+subject: 'GettingStarted_Predict, Predict'
 old_url: 'http://emarsys.dev/predict/use-cases/webrec/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'User Security in Suite'
-tags: 'Security, SuiteAdmin'
+subject: 'Security, SuiteAdmin'
 old_url: 'http://emarsys.dev/resources/data-security/user-security/'
 ---
 

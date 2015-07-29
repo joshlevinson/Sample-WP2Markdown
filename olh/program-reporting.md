@@ -1,6 +1,6 @@
 ---
 title: 'Campaigns - Program Reporting'
-tags: 'olh, SuiteCampaigns'
+subject: 'olh, SuiteCampaigns'
 old_url: 'http://emarsys.dev/suite/online-help/program-reporting/'
 ---
 

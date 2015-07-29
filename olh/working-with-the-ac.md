@@ -1,6 +1,6 @@
 ---
 title: 'Campaigns - Working with the Automation Center'
-tags: 'olh, SuiteCampaigns'
+subject: 'olh, SuiteCampaigns'
 old_url: 'http://emarsys.dev/suite/online-help/working-with-the-ac/'
 ---
 

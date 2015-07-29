@@ -1,6 +1,6 @@
 ---
 title: 'Data Security in eMarketing Suite'
-tags: 'Resources, Security'
+subject: 'Resources, Security'
 old_url: 'http://emarsys.dev/resources/data-security/suite-security/'
 ---
 

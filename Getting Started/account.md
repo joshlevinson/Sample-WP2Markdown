@@ -1,6 +1,6 @@
 ---
 title: 'Setting Up Your Account'
-tags: 'Getting Started, GettingStarted_Suite'
+subject: 'Getting Started, GettingStarted_Suite'
 old_url: 'http://emarsys.dev/getstarted/account/'
 ---
 

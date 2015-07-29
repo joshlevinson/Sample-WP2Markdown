@@ -1,6 +1,6 @@
 ---
 title: 'Suite Version 8.0'
-tags: Roadmap
+subject: Roadmap
 old_url: 'http://emarsys.dev/development/suite-version-8-0/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started with Predict'
-tags: 'GettingStarted_Predict, Predict'
+subject: 'GettingStarted_Predict, Predict'
 old_url: 'http://emarsys.dev/predict/getstarted/'
 ---
 

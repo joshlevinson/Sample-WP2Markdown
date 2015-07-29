@@ -1,6 +1,6 @@
 ---
 title: 'Admin - About Fields'
-tags: 'olh, SuiteAdmin'
+subject: 'olh, SuiteAdmin'
 old_url: 'http://emarsys.dev/suite/online-help/about-fields/'
 ---
 

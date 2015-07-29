@@ -1,6 +1,6 @@
 ---
 title: 'Spam Traps'
-tags: Deliverability
+subject: Deliverability
 old_url: 'http://emarsys.dev/resources/deliverability/spam-traps/'
 ---
 

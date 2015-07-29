@@ -1,6 +1,6 @@
 ---
 title: 'Setting up RSS Feeds'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/content/rss-intro/rss-setup/'
 ---
 

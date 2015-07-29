@@ -1,6 +1,6 @@
 ---
 title: 'Live Validator'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/web-extend/validation/live-validator/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'SuiteKit - the Configuration page'
-tags: SuiteKit
+subject: SuiteKit
 old_url: 'http://emarsys.dev/suite/suitekit/social-ads-the-configuration-page/'
 ---
 

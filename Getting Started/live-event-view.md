@@ -1,6 +1,6 @@
 ---
 title: 'Live Event View'
-tags: 'Getting Started, WebExtend'
+subject: 'Getting Started, WebExtend'
 old_url: 'http://emarsys.dev/web-extend/validation/live-event-view/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Emarsys for Magento'
-tags: 'SuiteIntegrations, SuiteMagento'
+subject: 'SuiteIntegrations, SuiteMagento'
 old_url: 'http://emarsys.dev/suite/magento/'
 ---
 

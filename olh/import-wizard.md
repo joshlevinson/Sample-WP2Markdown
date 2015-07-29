@@ -1,6 +1,6 @@
 ---
 title: 'Contacts - Data Import - Import Wizard'
-tags: 'olh, SuiteContacts'
+subject: 'olh, SuiteContacts'
 old_url: 'http://emarsys.dev/suite/online-help/import-wizard/'
 ---
 

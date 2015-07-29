@@ -1,6 +1,6 @@
 ---
 title: 'Predict - FAQ'
-tags: 'WP Stuff'
+subject: 'WP Stuff'
 old_url: 'http://emarsys.dev/predict/faq/'
 ---
 

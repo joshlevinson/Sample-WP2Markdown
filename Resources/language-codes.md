@@ -1,6 +1,6 @@
 ---
 title: 'Language Codes'
-tags: 'DataManagement, Resources'
+subject: 'DataManagement, Resources'
 old_url: 'http://emarsys.dev/resources/language-codes/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Manually Importing Contacts'
-tags: SuiteContacts
+subject: SuiteContacts
 old_url: 'http://emarsys.dev/suite/contacts/manual-import/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Exporting Data from Suite'
-tags: 'DataManagement, Getting Started, GettingStarted_Suite'
+subject: 'DataManagement, Getting Started, GettingStarted_Suite'
 old_url: 'http://emarsys.dev/getstarted/contact-data/export-data/'
 ---
 

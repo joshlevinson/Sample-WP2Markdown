@@ -1,6 +1,6 @@
 ---
 title: 'Data Exchange Resources'
-tags: 'DataManagement, Getting Started, Resources'
+subject: 'DataManagement, Getting Started, Resources'
 old_url: 'http://emarsys.dev/getstarted/contact-data/data-exchange/'
 ---
 

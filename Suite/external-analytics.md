@@ -1,6 +1,6 @@
 ---
 title: 'Suite Link Tracking for External Analytics'
-tags: 'Suite, SuiteReporting'
+subject: 'Suite, SuiteReporting'
 old_url: 'http://emarsys.dev/suite/reporting/external-analytics/'
 ---
 

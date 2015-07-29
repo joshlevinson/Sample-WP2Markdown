@@ -1,6 +1,6 @@
 ---
 title: 'Deliverability Glossary'
-tags: 'Deliverability, Resources'
+subject: 'Deliverability, Resources'
 old_url: 'http://emarsys.dev/resources/deliverability/glossary/'
 ---
 

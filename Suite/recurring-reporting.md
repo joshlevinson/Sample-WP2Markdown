@@ -1,6 +1,6 @@
 ---
 title: 'Recurring Campaign Reporting'
-tags: SuiteReporting
+subject: SuiteReporting
 old_url: 'http://emarsys.dev/suite/reporting/recurring-reporting/'
 ---
 

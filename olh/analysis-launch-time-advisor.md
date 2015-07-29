@@ -1,6 +1,6 @@
 ---
 title: 'Analysis - Launch Time Advisor'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/analysis-launch-time-advisor/'
 ---
 

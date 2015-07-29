@@ -1,6 +1,6 @@
 ---
 title: 'API Use Case 3: Customizing your email with data from external events'
-tags: 'Getting Started, SuiteAPI'
+subject: 'Getting Started, SuiteAPI'
 old_url: 'http://emarsys.dev/suite-api/customize-emails/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Managing Contacts and Contact Data'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/suite/contacts/'
 ---
 

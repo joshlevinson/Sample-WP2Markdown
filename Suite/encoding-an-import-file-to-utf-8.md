@@ -1,6 +1,6 @@
 ---
 title: 'Encoding an Import File to UTF-8'
-tags: SuiteContacts
+subject: SuiteContacts
 old_url: 'http://emarsys.dev/resources/encoding-an-import-file-to-utf-8/'
 ---
 

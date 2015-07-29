@@ -1,6 +1,6 @@
 ---
 title: 'Using Web Extend On Its Own'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/web-extend/stand-alone/'
 ---
 

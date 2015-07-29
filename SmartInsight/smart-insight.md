@@ -1,6 +1,6 @@
 ---
 title: 'Smart Insight Home Page'
-tags: SmartInsight
+subject: SmartInsight
 old_url: 'http://emarsys.dev/smart-insight/'
 ---
 

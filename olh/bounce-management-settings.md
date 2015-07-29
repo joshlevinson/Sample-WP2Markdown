@@ -1,6 +1,6 @@
 ---
 title: 'Admin - Bounce Management - General Settings'
-tags: 'olh, SuiteAdmin'
+subject: 'olh, SuiteAdmin'
 old_url: 'http://emarsys.dev/suite/online-help/bounce-management-settings/'
 ---
 

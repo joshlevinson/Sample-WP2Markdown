@@ -1,6 +1,6 @@
 ---
 title: 'List of Accreditations'
-tags: 'Resources, Security'
+subject: 'Resources, Security'
 old_url: 'http://emarsys.dev/resources/data-security/accreditations/'
 ---
 

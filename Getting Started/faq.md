@@ -1,6 +1,6 @@
 ---
 title: 'Web Extend - FAQ'
-tags: 'Getting Started, WebExtend'
+subject: 'Getting Started, WebExtend'
 old_url: 'http://emarsys.dev/web-extend/faq/'
 ---
 

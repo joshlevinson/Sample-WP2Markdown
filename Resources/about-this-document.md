@@ -1,6 +1,6 @@
 ---
 title: 'About this document'
-tags: Resources
+subject: Resources
 old_url: 'http://emarsys.dev/home/about-this-document/'
 ---
 

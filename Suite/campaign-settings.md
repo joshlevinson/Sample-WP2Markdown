@@ -1,6 +1,6 @@
 ---
 title: 'Campaign Settings'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/campaigns/campaign-settings/'
 ---
 

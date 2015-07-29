@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started with the Suite API'
-tags: 'Getting Started, SuiteAPI'
+subject: 'Getting Started, SuiteAPI'
 old_url: 'http://emarsys.dev/suite-api/'
 ---
 

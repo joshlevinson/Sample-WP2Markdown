@@ -1,6 +1,6 @@
 ---
 title: 'Data Import FAQ'
-tags: SuiteContacts
+subject: SuiteContacts
 old_url: 'http://emarsys.dev/suite/contacts/import-faq/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Example 1: Using the Personal Widget'
-tags: 'Getting Started, GettingStarted_Predict, Predict'
+subject: 'Getting Started, GettingStarted_Predict, Predict'
 old_url: 'http://emarsys.dev/predict/use-cases/web-personal/'
 ---
 

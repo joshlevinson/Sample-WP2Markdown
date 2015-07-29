@@ -1,6 +1,6 @@
 ---
 title: 'Your Email Marketing Strategy '
-tags: 'Getting Started'
+subject: 'Getting Started'
 old_url: 'http://emarsys.dev/getstarted/email-strategy/'
 ---
 

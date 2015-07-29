@@ -1,6 +1,6 @@
 ---
 title: 'About SMS Campaigns'
-tags: SuiteSMS
+subject: SuiteSMS
 old_url: 'http://emarsys.dev/suite/sms/about-sms-campaigns/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Using HTTPS Requests to Import Data'
-tags: 'Getting Started'
+subject: 'Getting Started'
 old_url: 'http://emarsys.dev/getstarted/contact-data/http-requests/'
 ---
 

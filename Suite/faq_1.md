@@ -1,6 +1,6 @@
 ---
 title: 'Suite API FAQ'
-tags: SuiteAPI
+subject: SuiteAPI
 old_url: 'http://emarsys.dev/suite-api/faq/'
 ---
 

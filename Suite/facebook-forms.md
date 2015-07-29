@@ -1,6 +1,6 @@
 ---
 title: 'Integrating Suite Forms into Facebook'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/contacts/facebook-forms/'
 ---
 

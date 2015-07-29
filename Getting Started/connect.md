@@ -1,6 +1,6 @@
 ---
 title: 'Integrating with External Applications'
-tags: 'Getting Started'
+subject: 'Getting Started'
 old_url: 'http://emarsys.dev/getstarted/contact-data/connect/'
 ---
 

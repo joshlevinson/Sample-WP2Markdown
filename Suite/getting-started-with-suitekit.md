@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started with SuiteKit'
-tags: SuiteKit
+subject: SuiteKit
 old_url: 'http://emarsys.dev/suite/suitekit/getting-started-with-suitekit/'
 ---
 

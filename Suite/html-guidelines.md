@@ -1,6 +1,6 @@
 ---
 title: 'Guidelines for HTML Email'
-tags: 'Suite, SuiteContent'
+subject: 'Suite, SuiteContent'
 old_url: 'http://emarsys.dev/suite/content/cms/html-guidelines/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Analysis - Recurring Campaign Results Summary'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/analysis-recurring-campaigns/'
 ---
 

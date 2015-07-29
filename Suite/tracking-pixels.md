@@ -1,6 +1,6 @@
 ---
 title: 'Social Ads - Tracking Pixels'
-tags: SuiteSocial
+subject: SuiteSocial
 old_url: 'http://emarsys.dev/suite/social-ads/tracking-pixels/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Sending Transactional Emails'
-tags: 'SuiteIntegrations, SuiteMagento'
+subject: 'SuiteIntegrations, SuiteMagento'
 old_url: 'http://emarsys.dev/suite/magento/transactional-emails/'
 ---
 

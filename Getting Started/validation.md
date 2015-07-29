@@ -1,6 +1,6 @@
 ---
 title: 'Validating the Integration'
-tags: 'Getting Started, Predict, WebExtend'
+subject: 'Getting Started, Predict, WebExtend'
 old_url: 'http://emarsys.dev/web-extend/validation/'
 ---
 

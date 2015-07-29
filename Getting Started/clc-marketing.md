@@ -1,6 +1,6 @@
 ---
 title: 'Customer Lifecycle Marketing'
-tags: 'Getting Started'
+subject: 'Getting Started'
 old_url: 'http://emarsys.dev/getstarted/clc-marketing/'
 ---
 

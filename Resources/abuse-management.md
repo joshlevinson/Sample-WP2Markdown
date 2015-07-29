@@ -1,6 +1,6 @@
 ---
 title: 'Abuse Management'
-tags: Deliverability
+subject: Deliverability
 old_url: 'http://emarsys.dev/resources/deliverability/abuse-management/'
 ---
 

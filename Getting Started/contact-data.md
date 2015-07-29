@@ -1,6 +1,6 @@
 ---
 title: 'Managing Your Contact Data'
-tags: 'Getting Started, SuiteContacts'
+subject: 'Getting Started, SuiteContacts'
 old_url: 'http://emarsys.dev/getstarted/contact-data/'
 ---
 

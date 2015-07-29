@@ -1,6 +1,6 @@
 ---
 title: 'Dashboard - Notification Center'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/notification-center/'
 ---
 

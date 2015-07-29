@@ -1,6 +1,6 @@
 ---
 title: 'Introducing the CMS'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/content/cms/'
 ---
 

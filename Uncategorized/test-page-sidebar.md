@@ -1,6 +1,6 @@
 ---
 title: 'Internal Pages'
-tags: 'Uncategorized, WP Stuff'
+subject: 'Uncategorized, WP Stuff'
 old_url: 'http://emarsys.dev/ebene2-2/test-page-sidebar/'
 ---
 

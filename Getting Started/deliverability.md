@@ -1,6 +1,6 @@
 ---
 title: 'Deliverability - Overview'
-tags: 'Deliverability, Getting Started'
+subject: 'Deliverability, Getting Started'
 old_url: 'http://emarsys.dev/resources/deliverability/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Magento and Smart Insight'
-tags: 'SuiteIntegrations, SuiteMagento'
+subject: 'SuiteIntegrations, SuiteMagento'
 old_url: 'http://emarsys.dev/suite/magento/smart-insight/'
 ---
 

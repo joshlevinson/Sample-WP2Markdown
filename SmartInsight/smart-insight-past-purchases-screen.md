@@ -1,6 +1,6 @@
 ---
 title: 'Smart Insight - Past Purchases Screen'
-tags: SmartInsight
+subject: SmartInsight
 old_url: 'http://emarsys.dev/smart-insight/the-smart-insight-interface/smart-insight-past-purchases-screen/'
 ---
 

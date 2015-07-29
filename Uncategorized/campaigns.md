@@ -1,6 +1,6 @@
 ---
 title: 'Creating and Launching Campaigns'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/suite/campaigns/'
 ---
 

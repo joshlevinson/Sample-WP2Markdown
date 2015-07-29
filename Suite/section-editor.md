@@ -1,6 +1,6 @@
 ---
 title: 'CMS Templates: The section editor'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/content/cms/section-editor/'
 ---
 

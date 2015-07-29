@@ -1,6 +1,6 @@
 ---
 title: 'Salesforce Integration'
-tags: ''
+subject: ''
 old_url: 'http://emarsys.dev/suite/connect/salesforce-introduction/'
 ---
 

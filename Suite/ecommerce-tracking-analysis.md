@@ -1,6 +1,6 @@
 ---
 title: 'Ecommerce Tracking Analysis'
-tags: Suite
+subject: Suite
 old_url: 'http://emarsys.dev/suite/reporting/ecommerce-tracking-analysis/'
 ---
 

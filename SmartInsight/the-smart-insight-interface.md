@@ -1,6 +1,6 @@
 ---
 title: 'The Smart Insight Interface'
-tags: SmartInsight
+subject: SmartInsight
 old_url: 'http://emarsys.dev/smart-insight/the-smart-insight-interface/'
 ---
 

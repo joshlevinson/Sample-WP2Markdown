@@ -1,6 +1,6 @@
 ---
 title: 'SuiteKit - Tracking Pixels'
-tags: SuiteKit
+subject: SuiteKit
 old_url: 'http://emarsys.dev/suite/suitekit/suitekit-tracking-pixels/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Example 3: Using the Also-Bought Widget'
-tags: 'Getting Started, GettingStarted_Predict, Predict'
+subject: 'Getting Started, GettingStarted_Predict, Predict'
 old_url: 'http://emarsys.dev/predict/use-cases/web-also/'
 ---
 

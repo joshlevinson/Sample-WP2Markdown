@@ -1,6 +1,6 @@
 ---
 title: 'Anti-Spam Policy'
-tags: 'Deliverability, Resources'
+subject: 'Deliverability, Resources'
 old_url: 'http://emarsys.dev/resources/deliverability/anti-spam-policy/'
 ---
 

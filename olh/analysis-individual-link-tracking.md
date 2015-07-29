@@ -1,6 +1,6 @@
 ---
 title: 'Analysis - Individual Link Tracking'
-tags: 'olh, SuiteFeatures'
+subject: 'olh, SuiteFeatures'
 old_url: 'http://emarsys.dev/suite/online-help/analysis-individual-link-tracking/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'The Product Catalogs page'
-tags: 'Predict, WebExtend'
+subject: 'Predict, WebExtend'
 old_url: 'http://emarsys.dev/predict/user-guide/product-catalogs/'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Contacts - Data Import - Overview'
-tags: 'olh, SuiteContacts'
+subject: 'olh, SuiteContacts'
 old_url: 'http://emarsys.dev/suite/online-help/data-import/'
 ---
 

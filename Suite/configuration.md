@@ -1,6 +1,6 @@
 ---
 title: 'Social Ads - the Configuration page'
-tags: SuiteSocial
+subject: SuiteSocial
 old_url: 'http://emarsys.dev/suite/social-ads/configuration/'
 ---
 

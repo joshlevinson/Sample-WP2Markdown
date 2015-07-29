@@ -1,6 +1,6 @@
 ---
 title: 'Emarsys Deliverability Policy Requirements'
-tags: Deliverability
+subject: Deliverability
 old_url: 'http://emarsys.dev/resources/deliverability/policy-requirements/'
 ---
 

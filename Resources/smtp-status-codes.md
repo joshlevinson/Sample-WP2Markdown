@@ -1,6 +1,6 @@
 ---
 title: 'SMTP Status Codes'
-tags: 'DataManagement, Resources'
+subject: 'DataManagement, Resources'
 old_url: 'http://emarsys.dev/resources/deliverability/smtp-status-codes/'
 ---
 
