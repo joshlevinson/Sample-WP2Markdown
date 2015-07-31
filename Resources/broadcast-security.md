@@ -1,7 +1,7 @@
 ---
 title: 'Data Security in Emarsys Broadcast'
 subject: 'Resources, Security'
-old_url: 'http://emarsys.dev/resources/data-security/broadcast-security/'
+old_url: 'http://emarsys.dev/old/resources/data-security/broadcast-security/'
 ---
 
 Emarsys Broadcast (referred to as Broadcast or Broadcast system) handles data related to the email recipients which is generated and sent by the platform, and is referred to as Personally Identifiable Information (PII). This appendix describes the flow of recipient related data within Emarsys Broadcast, with focus on information security.
@@ -33,9 +33,9 @@ Data Flow
 
  The image below shows the architecture of the Broadcast application.  
 
-<div class="center"><div class="floatnone">[![Broadcast System Architecture - Layer Diagram](/assets/images/Infosec-011-018.jpg)](/assets/images/Infosec-011-018.jpg)</div></div>  
+<div class="center"><div class="floatnone">[![Broadcast System Architecture - Layer Diagram](/assets/images/2014/04/Infosec-011-018.jpg)](/assets/images/2014/04/Infosec-011-018.jpg)</div></div>  
 
-<div class="center"><div class="floatnone">[![Broadcast System Architecture - Block Diagram](/assets/images/Infosec-012-020.jpg)](/assets/images/Infosec-012-020.jpg)</div></div>### Data Upload
+<div class="center"><div class="floatnone">[![Broadcast System Architecture - Block Diagram](/assets/images/2014/04/Infosec-012-020.jpg)](/assets/images/2014/04/Infosec-012-020.jpg)</div></div>### Data Upload
 
  In order for Recipient data to be used in Broadcast it needs to be uploaded to Emarsys Broadcast's File Exchange area, which is made up of several folders, such as Incoming, Invalids, etc.. Upload Recipient Data in CSV format (Comma Separated Values) to the folder called Incoming. The file exchange is handled by an OpenSSH daemon and supports the SFTP and SCP file transfer protocols.
 

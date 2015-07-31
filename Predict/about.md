@@ -1,7 +1,7 @@
 ---
 title: 'About Predict'
 subject: Predict
-old_url: 'http://emarsys.dev/predict/about/'
+old_url: 'http://emarsys.dev/old/predict/about/'
 ---
 
 #### What is Emarsys Predict?

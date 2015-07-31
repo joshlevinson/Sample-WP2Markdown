@@ -1,7 +1,7 @@
 ---
 title: 'Implementing Ecommerce Tracking using an ImagePixel'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/reporting/ecommerce-tracking-using-an-imagepixel/'
+old_url: 'http://emarsys.dev/old/suite/reporting/ecommerce-tracking-using-an-imagepixel/'
 ---
 
 Image pixel tracking works by using a small pixel buried in the page with associated code that enables the tracking. As opposed to the JavaScript method this only requires code to be embedded, and no additional script to be hosted on the website.

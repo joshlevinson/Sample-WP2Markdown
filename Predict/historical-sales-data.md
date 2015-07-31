@@ -1,7 +1,7 @@
 ---
 title: 'Historical Sales Data'
 subject: Predict
-old_url: 'http://emarsys.dev/predict/user-guide/historical-sales-data/'
+old_url: 'http://emarsys.dev/old/predict/user-guide/historical-sales-data/'
 ---
 
 ### Importing Historical Sales Data
@@ -10,4 +10,4 @@ old_url: 'http://emarsys.dev/predict/user-guide/historical-sales-data/'
 
 <table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th>order</th> <th>item</th> <th>customer</th> <th>date</th> </tr></thead><tbody><tr><td>876</td> <td>123456</td> <td>875453</td> <td>2010-03-21T13:21:45Z</td> </tr><tr><td>876</td> <td>43231</td> <td>875453</td> <td>2010-03-21T13:21:45Z</td></tr></tbody></table>### Validating and Uploading New Data
 
- Once you have uploaded your data file, you can validate it in Emarsys to check for errors. You can also upload new data at any time. [![historical-sales-data](/assets/images/historical-sales-data.png)](/assets/images/historical-sales-data.png)
+ Once you have uploaded your data file, you can validate it in Emarsys to check for errors. You can also upload new data at any time. [![historical-sales-data](/assets/images/2015/07/historical-sales-data.png)](/assets/images/2015/07/historical-sales-data.png)

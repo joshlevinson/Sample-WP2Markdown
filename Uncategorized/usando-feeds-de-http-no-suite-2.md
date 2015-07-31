@@ -1,0 +1,119 @@
+---
+title: 'Usando feeds de HTTP no Suite'
+subject: ''
+old_url: 'http://emarsys.dev/old/usando-feeds-de-http-no-suite-2/'
+---
+
+<span class="mw-headline" id="Introdu.C3.A7.C3.A3o">Introdução<a name="bs-ue-jumpmark-570fc1d3ce9c39f7852b1897f1d3faa0"></a></span>
+-----------------------------------------------------------------------------------------------------------------------------------
+
+ O Suite suporta o uso de feeds de HTTP para desempenhar tarefas de registro de dados em segundo plano, que podem variar desde adicionar novos dados de contato, atualizar dados existentes até o acionamento de e-mails transacionais específicos. Feeds de HTTP usam links de registro .php que são executados em segundo plano para transferir conteúdo e acionar as referidas campanhas de e-mail. Como um método para transferência de dados, ele fornece uma solução poderosa e fácil de configurar, que é instalada rapidamente e sem necessidade de conhecimentos de programação. Contudo, é importante ressaltar que ele é menos seguro que o uso da API do Suite (já que usa URLs visíveis) e também é mais lento e capaz de tratar volumes menores de tráfego de dados. Casos típicos de uso desse recurso são os formulários incorporados usados para registro de contatos ou atualizações, acionamento de e-mails transacionais a partir de uma página da web, e um modo fácil de criar soluções de aceitação dupla.
+
+<span class="mw-headline" id="Tipos_de_feed_de_HTTP_dispon.C3.ADveis">Tipos de feed de HTTP disponíveis<a name="bs-ue-jumpmark-4f3a731d150bc480fcccbb0a014468c8"></a></span>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ O Suite usa dois tipos de feed de HTTP chamados register.php e register_bg.php, ambos desempenhando funções semelhantes, com variações ligeiramente diferentes. Eles podem ser diferenciados pelo tipo de transação e acionamento, mas do ponto de vista do cliente, as diferenças principais são a velocidade com que as solicitações são processadas e como isto afetará o volume de tráfego. Ambos são igualmente simples de configurar e podem ser integrados a um software externo (por ex. uma loja da web). Determinar qual tipo usar deve ser feito com base nas necessidades do cliente, usando a seguinte tabela:
+
+<table border="1" cellpadding="1" class="wikitable" style="width: 100%;"><thead><tr><th>Tipo de feed de HTTP</th> <td>register.php</td> <td>register_bg.php</td> </tr><tr><th>Imediaticidade</th> <td>Solicitação entra na fila</td> <td>Solicitação é imediata</td> </tr><tr><th>Limite de volume</th> <td>10.000 solicitações por hora, taxa fixa</td> <td>em torno de 10.000 por hora, variável</td> </tr><tr><th>Rastreia user_ID</th> <td>não</td> <td>sim</td> </tr><tr><th>Acionado por</th> <td>link</td> <td>link</td> </tr><tr><th>Uso em formulário</th> <td>O formulário deve conter todos os campos necessários</td> <td>Somente ID do formulário é necessária</td> </tr><tr><th>Método de importação de dados</th> <td>formulário</td> <td>importação</td> </tr><tr><th>Tratamento de duplicações</th> <td>sim (somente campos padrão)</td> <td>sim (qualquer campo pode ser escolhido)</td></tr></thead></table>### <span class="mw-headline" id="register.php">register.php<a name="bs-ue-jumpmark-8f311b0eb186c9eadf91cb2dc5736d39"></a></span>
+
+ Este tipo de feed usa um formulário do Suite para adicionar ou atualizar contatos e pode ser usado diretamente do Suite ou de uma página da web integrada. Todos os campos usados na transação e feeds devem existir no formulário para que este feed possa funcionar. Transações recebidas deste tipo de feed entram numa fila e são processadas a uma taxa fixa de 10.000 solicitações por hora. Isto resulta em um desempenho previsível e muito estável, e os altos volumes de transações recebidas não afetarão (ou serão afetadas por) nenhum outro aspecto de desempenho do sistema. A desvantagem de usar este tipo de feed é que as transações entram numa fila, as atualizações de contatos não são imediatas - e a user_ID do contato não é retornada. Isto significa que você não pode rastrear as atualizações do contato, e-mails ou respostas sem efetuar o login na sua conta do Suite. O register.php usa o tratamento de duplicação padrão (nome, sobrenome, endereço de e-mail), exceto em uma chave externa específica que foi definida para esta conta. Seu gerente de conta lhe informará se uma chave externa específica foi definida. Os parâmetros a seguir são usados pelo register.php. Os parâmetros <span style="background: #F08080;">realçados em vermelho</span> são obrigatórios e devem ser incluídos para que o feed de HTTP funcione.  
+
+<table border="1" cellpadding="1" class="wikitable" style="width: 100%; background-color: #f08080;"><thead><tr><th>Parâmetro</th> <th>Descrição</th> </tr></thead><tbody><tr><td>CID</td> <td>Esta é a sua ID (identidade) da conta e será fornecida pelo seu gerente de conta</td> </tr><tr><td>inp_*xx*</td> <td>Estes são campos usados na transação, com *xx* sendo a ID do campo.</td> </tr><tr><td>f</td> <td>Esta é a ID do formulário usado pela transação e é necessária para acionar o e-mail.</td> </tr><tr><td style="background: white;">optin*</td> <td style="background: white;">Este é o status de aceitação do contato. São usados valores de texto, por ex. *y*=TRUE, *n*=FALSE.</td> </tr><tr><td style="background: white;">nl_optin</td> <td style="background: white;">Esta é a aceitação usada para newsletters. Ela deve conter a ID do formulário do newsletter para o qual o contato tem uma assinatura.</td> </tr></tbody></table><sup>*</sup> A informação de aceitação não é obrigatória, mas deve ser incluída para todos os feeds de HTTP, exceto para aqueles que fazem parte do registro de dupla aceitação.
+
+#### <span class="mw-headline" id="Exemplo_de_registro">Exemplo de registro<a name="bs-ue-jumpmark-30ade834d565ebab74080e325ba866ba"></a></span>
+
+ Abaixo está um exemplo do tipo de informação que você pode querer coletar em uma página da web e depois enviar para o Suite, usando o register.php:
+
+<table border="1" cellpadding="1" class="wikitable" style="width: 100%;"><thead><tr><th>Informação</th> <th>Parâmetro</th> <th>Valor</th> </tr></thead><tbody><tr><td>ID da conta</td> <td>CID</td> <td>987654321</td> </tr><tr><td>ID do formulário de registro do Suite</td> <td>f</td> <td>1234</td> </tr><tr><td>Nome</td> <td>inp_1</td> <td>Joe</td> </tr><tr><td>Sobrenome</td> <td>inp_2</td> <td>Bloggs</td> </tr><tr><td>Endereço de e-mail</td> <td>inp_3</td> <td>joe.bloggs@example.com</td> </tr><tr><td>Status de aceitação do contato</td> <td>optin</td> <td>TRUE (VERDADEIRO)</td></tr></tbody></table> A criação do feed de HTTP usando o exemplo acima resultaria na seguinte URL: `<a class="external free" href="http://www1.emarsys.net/u/register.php?CID=987654321&f=1234&p=2&a=r&SID=&el=&llid=&counted=&c=&optin=TRUE&inp_1=Joe&inp_2=Bloggs&inp_3=joe.bloggs@example.com" rel="nofollow" target="_blank">http://www1.emarsys.net/u/register.php?CID=987654321&f=1234&p=2&a=r&SID=&el=&llid=&counted=&c=&optin=TRUE&inp_1=Joe&inp_2=Bloggs&inp_3=joe.bloggs@example.com</a>`
+
+### <span class="mw-headline" id="register_bg.php">register_bg.php<a name="bs-ue-jumpmark-0bfead14ea17381c93b5a83b13ecd791"></a></span>
+
+ Este tipo de feed usa um link que inclui a ID do formulário do Suite e as IDs dos campos solicitados (e no caso de campos de múltipla escolha ou escolha simples, as IDs de seus valores), e pode ser acionado ao vincular o link a uma ação especificada na página da web. Diferentemente do register.php, este tipo de feed não requer que o formulário tenha conteúdo ou contenha nenhum dos campos. Para acionar o formulário com sucesso, somente a ID é necessária. Todas as transações são processadas imediatamente e a ID do usuário é retornada. Visto que os formulários são processados imediatamente sem fila, a velocidade das transações individuais irá variar de acordo com o volume recebido e quaisquer outras ações que estejam usando o banco de dados no mesmo momento. Um grande número de registros ou uma importação ou exportação muito grande irá retardar consideravelmente a velocidade das solicitações. Dependendo de sua implantação, isto pode retornar um erro falso se suas configurações de tempo limite forem muito restritas. Se você prevê um pico de registros em determinados horários, pode usar até cinco encadeamentos e deve definir suas configurações de tempo limite de acordo com isso. O register_bg.php usa um tratamento de duplicação mais flexível e qualquer campo pode ser selecionado usando-se a variável key_id (ver abaixo). Os parâmetros a seguir são usados pelo register_bg.php. Aqueles <span style="background: #F08080;">realçados em vermelho</span> são obrigatórios e devem ser incluídos para que o feed de HTTP funcione.
+
+<table border="1" cellpadding="1" class="wikitable" style="width: 100%; background-color: #f08080;"><thead><tr><th>Parâmetro</th> <th>Descrição</th> </tr></thead><tbody><tr><td>owner_id</td> <td>Esta é a sua ID da conta e pode ser fornecida pelo seu gerente de conta</td> </tr><tr><td>key_id</td> <td>Esta é a ID do campo usado como chave externa para o tratamento de duplicações. Qualquer que seja o campo usado, por ex. uma ID de banco de dados externo ou endereço de e-mail de contato, este campo também deve ser incluído nos parâmetros do campo do feed. **Observação:** Você pode desabilitar o tratamento de duplicações ao fornecer um valor de *n* aqui (*key_id=n*). Isto significa que todas as solicitações serão inseridas como um novo contato no banco de dados, independente de já existirem ou não.</td> </tr><tr><td>inp_*xx*</td> <td>Estes são campos usados na transação, com *xx* sendo substituído pela ID do campo.</td> </tr><tr><td>f</td> <td>Esta é a ID do formulário usado pela transação e é necessária para acionar o e-mail. **Observação:** Se você estiver usando register_bg.php e deixar este parâmetro de fora, a solicitação de HTTP irá simplesmente gravar os valores correspondentes no banco de dados sem acionar um e-mail.</td> </tr><tr><td style="background: white;">optin*</td> <td style="background: white;">Este é o status de aceitação do contato. São usados valores de texto, por ex. *s*=TRUE, *n*=FALSE.</td> </tr><tr><td style="background: white;">del</td> <td style="background: white;">Este é um parâmetro booleano, ou seja, pode ter somente um de dois valores: *1* (=VERDADEIRO) ou *0* (=FALSO). Se o valor for fornecido como 1, quando um contato for retornado pelo feed, todas as entradas no banco de dados serão excluídas e somente aquelas contidas no próprio feed permanecerão. Isto pode ser usado para assegurar que somente valores inseridos através deste feed permaneçam no banco de dados.</td> </tr><tr><td style="background: white;">newsletter</td> <td style="background: white;">Esta é a aceitação usada para newsletters. Ela deve conter a ID do formulário do newsletter para o qual o contato tem uma assinatura.</td> </tr><tr><td style="background: white;">landing</td> <td style="background: white;">Aqui você pode inserir a URL de uma página de destino, por exemplo, uma mensagem de confirmação de registro.</td> </tr></tbody></table><sup>*</sup> A informação de aceitação não é obrigatória, mas deve ser incluída para todos os feeds de HTTP, exceto para aqueles que fazem parte do registro de dupla aceitação.
+
+#### <span class="mw-headline" id="Exemplo_de_register_bg">Exemplo de register_bg<a name="bs-ue-jumpmark-62a9b0841673cc9147cd805b52dd803a"></a></span>
+
+ Abaixo está um exemplo do tipo de informação que você pode querer coletar em uma página da web e depois enviar para o Suite, usando o register_bg.php:
+
+<table border="1" cellpadding="1" class="wikitable" style="width: 100%;"><thead><tr><th>Informação</th> <th>Parâmetro</th> <th>Valor</th> </tr></thead><tbody><tr><td>ID da conta</td> <td>owner_id</td> <td>987654321</td> </tr><tr><td>ID do formulário de registro do Suite</td> <td>f</td> <td>1234</td> </tr><tr><td>Saudação</td> <td>inp_46</td> <td>Sr.</td> </tr><tr><td>Nome</td> <td>inp_1</td> <td>Joe</td> </tr><tr><td>Sobrenome</td> <td>inp_2</td> <td>Bloggs</td> </tr><tr><td>Endereço de e-mail</td> <td>inp_3</td> <td>joe.bloggs@example.com</td> </tr><tr><td>Chave externa</td> <td>key_id</td> <td>Endereço de e-mail é usado</td> </tr><tr><td>Status de aceitação do contato</td> <td>optin</td> <td>TRUE (VERDADEIRO)</td></tr></tbody></table> A criação do feed de HTTP usando o exemplo acima resultaria na seguinte URL: `<a class="external free" href="https://www.emarsys.net/u/register_bg.php?owner_id=123456789&key_id=3&optin=y&f=1234&inp_46=1&inp_1=Joe&inp_2=Bloggs&inp_3=joe.bloggs@example.com" rel="nofollow" target="_blank">https://www.emarsys.net/u/register_bg.php?owner_id=123456789&key_id=3&optin=y&f=1234&inp_46=1&inp_1=Joe&inp_2=Bloggs&inp_3=joe.bloggs@example.com</a>`
+
+<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Observação:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Se você estiver usando um campo de múltipla escolha para capturar informações e deseja incluir mais de um valor, então cada valor deve ser inserido separadamente e o parâmetro deve ser seguido por colchetes [ ], do contrário, somente o último valor será tomado.</td></tr></tbody></table>  
+
+- Uso correto: inp_100[]=1&inp_100[]=4&inp_100[]=7
+- Uso incorreto: inp_100=1&4&7
+
+ Onde *100* é a ID do campo e *1*, *4* e *7* são as IDs dos valores que você deseja capturar.
+
+<span class="mw-headline" id="As_restri.C3.A7.C3.B5es_do_uso_de_solicita.C3.A7.C3.B5es_HTTP">As restrições do uso de solicitações HTTP<a name="bs-ue-jumpmark-816fd7df43ef70596abd4056431bbcae"></a></span>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Embora seja rápido e fácil de configurar, as implementações descritas têm algumas limitações que devem ser consideradas:
+
+- Solicitações são limitadas a uma a cada 15 segundos, por motivos de segurança.
+- Se o contato fizer envios repetidos, solicitações repetidas são enviadas.
+- Editar campanhas de eventos ativas é uma tarefa pesada.
+- Campanhas de evento padrão não têm análise de resposta ao longo do tempo.
+- Campos personalizados e suas variáveis associadas devem ser criados para cada solicitação, antecipadamente. Isto pode criar grandes quantidades de dados no banco de dados, que são raramente utilizados. Por exemplo, um e-mail para uma confirmação de pedido precisa de campos como product_name_1, product_price_1, product_vat_1, product_name_2, … etc.
+- Se você deseja exibir conteúdo repetido nas suas próprias seções (por ex. exibir vários produtos com suas imagens e descrições), terá de criar todas as seções antecipadamente e usar a segmentação de seção para exibi-las. Uma grande quantidade de seções na campanha de e-mail também tem um impacto negativo na velocidade de inicialização do e-mail.
+
+ Por estas razões, é sempre recomendável usar a API do Suite se você tiver recursos de desenvolvimento próprios.
+
+### <span class="mw-headline" id="Tratamento_de_erros">Tratamento de erros<a name="bs-ue-jumpmark-af43fd118288c1daebd1cdbcc8446eec"></a></span>
+
+ Os registros serão enviados como uma mensagem comum de HTTP, com os códigos de erro correspondentes.
+
+<table border="1" cellpadding="1" class="wikitable" style="width: 100%;"><thead><tr><th>Exemplos de respostas bem-sucedidas podem ser:</th> </tr></thead><tbody><tr><td>HTTP/1.0 200 OK insert user_id=11223344 (para o registro de um novo usuário)</td> </tr><tr><td>HTTP/1.0 200 OK update user_id=11223344 (para a atualização de perfil do contato)</td> </tr></tbody><thead><tr><th>Exemplos de respostas malsucedidas podem ser:</th> </tr></thead><tbody><tr><td>HTTP/1.0 400 Bad Request (Solicitação inválida)</td> </tr><tr><td>HTTP/1.0 405 Method Not Allowed (Método não permitido)</td> </tr><tr><td>HTTP/1.0 503 Service Unavailable (Serviço indisponível)</td></tr></tbody></table> Para obter uma lista completa de códigos de erro de HTTP, consulte: <http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html>.
+
+<span class="mw-headline" id="Configurando_os_feeds_de_HTTP">Configurando os feeds de HTTP<a name="bs-ue-jumpmark-b09e45357cab41a884b34fc86379c218"></a></span>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Feeds de HTTP podem ser configurados através de um processo simples com cinco etapas:
+
+1. Preparar os campos do banco de dados
+2. Criar o formulário
+3. Criar o feed de HTTP personalizado
+4. Criar o e-mail transacional (se necessário)
+5. Implementar o feed de HTTP na sua loja da web ou aplicativo de terceiro
+
+ Estas etapas são descritas em detalhes abaixo.
+
+### <span class="mw-headline" id="Etapa_1:_Preparando_os_campos_do_banco_de_dados">Etapa 1: Preparando os campos do banco de dados<a name="bs-ue-jumpmark-a7a9014470c198fcc07e63b368884a12"></a></span>
+
+ Os campos do banco de dados são usados para capturar conteúdo na transação e exibi-lo no e-mail, por exemplo, nome, referência de reserva, etc. Este conteúdo é enviado ao banco de dados via feed de HTTP e a partir deste é adicionado ao e-mail através das variáveis de personalização. Para incluir um campo no feed de HTTP, a ID do campo é necessária. Para campos do sistema, as IDs são listadas no documento *IDs e valores de campo do Suite*. Para campos personalizados, você deve abrir o campo na caixa de diálogo **Gerador de campos** no Suite. Para fazer isto, vá ao menu **Administração**, **Editor de campos**, selecione o campo e clique em **Editar**. Esta ID de campo pode ser encontrada na barra de endereços do navegador do **Gerador de campos** e é listada como *field_id=xxxx* onde *x* é um valor numérico (ex. *field_id=1234*). [![Localizando a ID do campo e a ID do valor para um campo de múltipla escolha](/assets/images/2014/04/Using_HTTP_Feeds_1.png)](/assets/images/2014/04/Using_HTTP_Feeds_1.png "Localizando a ID do campo e a ID do valor para um campo de múltipla escolha") Para campos de escolha simples e múltipla escolha, você precisará também saber as IDs dos valores de codificação (para todos os outros campos, basta digitar os valores manualmente). Você pode localizar as IDs da seguinte forma:
+
+- Campos do sistema - Documento *IDs e valores de campo do Suite*.
+- Campos personalizados - Em **Gerador de campos**, passe o mouse sobre o ícone de exclusão (**X**) de cada valor e você verá a ID na parte inferior esquerda da caixa de diálogo, exibida como *javascript:this.disabled=true;DeleteAtt('3')* onde *3* é a ID do valor.
+
+ Uma vez que você tiver selecionado e preparado os campos para usar, anote seus nomes e IDs para usar nas etapas 3 e 4.
+
+### <span class="mw-headline" id="Etapa_2:_Criando_um_formul.C3.A1rio">Etapa 2: Criando um formulário<a name="bs-ue-jumpmark-fcee22ad1d4251ab2ddb7da7f6fbb00d"></a></span>
+
+ Cada feed de HTTP precisa ter seu próprio formulário de registro. Para criar o formulário, abra o **Gerenciador de formulários**, escolha **Registro geral** na lista suspensa **Criar novo** e clique em **Criar**. Dependendo do tipo de feed de HTTP usado, você deve agora preencher o formulário e adicionar seus campos selecionados a ele (se usar o register.php), ou deixar como está e usar somente a ID para acionar e-mails (se usar o register_bg.php). Para localizar a ID do formulário, passe o cursor sobre os ícones à direita da lista **Formulários** (Visualizar, Editar, Excluir). A ID do formulário é exibida na parte inferior esquerda da janela do seu navegador como: *javascript:Preview('2955');* onde *2955* é a ID do formulário. Alternativamente, abra a pré-visualização do formulário e a ID será exibida na barra de endereços do navegador como: *f=2955*. [![Localizando a ID de um formulário](/assets/images/2014/04/Using_HTTP_Feeds_2.png)](/assets/images/2014/04/Using_HTTP_Feeds_2.png "Localizando a ID de um formulário")
+
+### <span class="mw-headline" id="Etapa_3:_Criado_o_feed_de_HTTP_personalizado">Etapa 3: Criado o feed de HTTP personalizado<a name="bs-ue-jumpmark-cc93c0802de47d2c492d9fba1f6635a7"></a></span>
+
+ A próxima etapa é definir o feed de HTTP que envia os dados que acionam a atualização do banco de dados e/ou o e-mail transacional. Este feed é uma URL e é construído como a seguir: 1. URL - Esta é a URL contendo o domínio do ambiente da sua conta do Suite, e será uma dentre estas:
+
+- https://www.emarsys.net/u
+- https://www1.emarsys.net/u
+- https://login.emarsys.net/u
+- https://suite.emarsys.net/u
+- https://suite5.emarsys.net/u
+- https://suite6.emarsys.net/u
+- https://suite7.emarsys.net/u
+
+ 2. Tipo de feed de HTTP - Se refere ao arquivo usado pelo feed e pode ser um dentre estes:
+
+- register_bg.php?
+- register.php?
+
+ 3. Parâmetros - Estes contêm todos os dados necessários para identificar o e-mail, adicionar conteúdo e inicializá-lo. Parâmetros múltiplos podem ser separados por '&'. Uma URL de exemplo teria a seguinte aparência: `<a class="external free" href="https://www.emarsys.net/u/register_bg.php?parameter=value&parameter=value&parameter=value(%E2%80%A6)" rel="nofollow" target="_blank">https://www.emarsys.net/u/register_bg.php?parameter=value&parameter=value&parameter=value(…)</a>`
+
+### <span class="mw-headline" id="Etapa_4:_Criando_um_e-mail_transacional_no_Suite">Etapa 4: Criando um e-mail transacional no Suite<a name="bs-ue-jumpmark-93491be1e49d73c15dcc8019eae5b796"></a></span>
+
+ Se você deseja acionar um e-mail transacional com o feed de HTTP, crie uma campanha de e-mail após concluir as etapas acima. Esta campanha deve ser uma campanha de evento, baseada em um formulário de registro, com o formulário de registro de feed transacional selecionado. Por exemplo: [![Criando uma campanha de e-mail de evento transacional](/assets/images/2014/04/Using_HTTP_Feeds_3.png)](/assets/images/2014/04/Using_HTTP_Feeds_3.png "Criando uma campanha de e-mail de evento transacional") Na página **Criação de conteúdo**, adicione os campos que devem ser exibidos ao usar as variáveis de personalização. O exemplo abaixo exibe a aparência de um e-mail de confirmação de reserva no Suite: [![Usando as variáveis de personalização no e-mail](/assets/images/2014/04/Using_HTTP_Feeds_4.png)](/assets/images/2014/04/Using_HTTP_Feeds_4.png "Usando as variáveis de personalização no e-mail") E esta é a aparência do e-mail: [![Preenchendo as variáveis de personalização através do feed de HTTP](/assets/images/2014/04/Using_HTTP_Feeds_5.png)](/assets/images/2014/04/Using_HTTP_Feeds_5.png "Preenchendo as variáveis de personalização através do feed de HTTP") Ao concluir a criação da sua campanha, vá para a página **Agendamento** e selecione se o e-mail será enviado imediatamente depois que o envio for recebido ou com um retardo (em horas ou dias). Depois de verificar a personalização, você pode ativar a campanha de e-mail, e o e-mail transacional está pronto para ser inicializado.
+
+### <span class="mw-headline" id="Etapa_5:_Implementando_o_feed_de_HTTP">Etapa 5: Implementando o feed de HTTP<a name="bs-ue-jumpmark-aaf21280183e8529ea6899f44f276c89"></a></span>
+
+ Uma vez que todas as etapas acima forem concluídas, basta passar sua URL para o administrador da sua loja na web (ou outro aplicativo de software) e instruí-lo a enviar esta solicitação de acordo com as suas necessidades. Esta é a única parte do processo que requer algum grau de conhecimento técnico. Uma vez que esta etapa tenha sido concluída, o feed de HTTP estará ativo e funcionando.

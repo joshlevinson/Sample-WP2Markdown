@@ -1,7 +1,7 @@
 ---
 title: 'Live Event View'
 subject: Predict
-old_url: 'http://emarsys.dev/predict/user-guide/live-event-view/'
+old_url: 'http://emarsys.dev/old/predict/user-guide/live-event-view/'
 ---
 
 Once you have implemented the Web Extend scripts that you want to use, you can easily check to see if the scripts are working correctly by opening the **Live Event View** page in the **Predict** menu in Suite. The **Live Event View** shows the last 10 events on your web shop that have been identified by the scripts. This is refreshed every time you open the page or click the **Refresh** button. To validate your data collection scripts, you just need to go to the web shop and perform the kind of actions that you want to capture from visitors. Then go back to Suite and check that these have been correctly picked up by Web Extend. If not, please contact Emarsys Support so that Emarsys can check your implementation for errors.

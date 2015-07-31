@@ -1,7 +1,7 @@
 ---
 title: 'Guidelines for HTML Email'
 subject: 'Suite, SuiteContent'
-old_url: 'http://emarsys.dev/suite/content/cms/html-guidelines/'
+old_url: 'http://emarsys.dev/old/suite/content/cms/html-guidelines/'
 ---
 
 Introduction
@@ -149,13 +149,13 @@ Introduction
 -------------
 
  Some browsers and email programs can have problems with content that exists outside of `<td>` tags. Make sure that all content for the email sits within the table cell tags (`<td>`s). Make sure all `<td>`s have a width assigned and that the width is not "0". <table class="wikitable"><thead><tr><th>Good ✔</th> <th>Bad ×</th> </tr></thead><tbody><tr><td> 
-    <table bgcolor="#ffffff" width="250"> 
+    <table bgcolor="#ffffff" width="250">
       <tr>
         <td width="200">
           Here is some text.<br />
-          <img src="images/spacer.gif" 
-          width="200" height="12" vspace=”0“ 
-          hspace=”0” border="0" 
+          <img src="images/spacer.gif"
+          width="200" height="12" vspace=”0“
+          hspace=”0” border="0"
           style="display:block;"><br />
           Here is some more text.
         </td>
@@ -428,7 +428,7 @@ Introduction
  </td></tr></tbody></table>### Font Face and Size
 
  Not all users have every font in their system; specifying multiple fonts allows you to choose the fonts you'd prefer the user to see. If the specified fonts or font types are not found, text will render in the user's default font. Standard Fonts sizes (1, 2, 3…) will look quite different between different browsers and email platforms. emarsys suggests a workaround using an inline style tag as well, with a size defined in pixels for a more consistent look. `style="font-size:12px;"` <table class="wikitable"><thead><tr><th>Good ✔</th> <th>Bad ×</th> </tr></thead><tbody><tr><td> 
-    <font face="arial, helvetica, 
+    <font face="arial, helvetica,
     sans-serif" style="font-size:12px;"
     size="2">email</font>
 
@@ -506,7 +506,7 @@ Introduction
  </td> <td> 
     <td>
       <img src=xxx/>
-      <font>To receive email to your inbox, 
+      <font>To receive email to your inbox,
       add xxx to your address book.</font>
     </td>
 
@@ -545,13 +545,13 @@ Introduction
  </td></tr></tbody></table>### Style Use in Image Tags
 
  When using image tags it is important to use styles correctly and include user friendly alternative descriptions of the image in case it is not displayed correctly by using `alt=` for the text. In addition when using non-floating images you should always include the display:block style in images to ensure that there are no gaps after the image, or other alignment issues. Finally when linking to your images you should always make sure that you use absolute paths, and not relative paths. <table class="wikitable"><thead><tr><th>Good ✔</th> <th>Bad ×</th> </tr></thead><tbody><tr><td> 
-    <img 
-    src="http:/www.site.com/headline1.gif" 
-    width="100" height="50" vspace="0" 
-    hspace="0" alt="Save today on Airline 
-    tickets!" border="0" 
-    style="display:block; font-family: 
-    arial, sans-serif; font-size:20px; 
+    <img
+    src="http:/www.site.com/headline1.gif"
+    width="100" height="50" vspace="0"
+    hspace="0" alt="Save today on Airline
+    tickets!" border="0"
+    style="display:block; font-family:
+    arial, sans-serif; font-size:20px;
     font-weight:bold; color:#000000;">
 
  </td> <td> 

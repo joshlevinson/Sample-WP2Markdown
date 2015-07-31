@@ -1,7 +1,7 @@
 ---
 title: 'Salesforce Integration'
 subject: ''
-old_url: 'http://emarsys.dev/suite/connect/salesforce-introduction/'
+old_url: 'http://emarsys.dev/old/suite/connect-2/salesforce-introduction/'
 ---
 
 ### Introduction
@@ -26,4 +26,4 @@ old_url: 'http://emarsys.dev/suite/connect/salesforce-introduction/'
 
  See also:
 
-[Integrating Salesforce with Suite](/Uncategorized/salesforce-integration.md "Integrating Salesforce with Suite") [Examples and use cases](/Uncategorized/salesforce-use-cases.md "Salesforce Integration: Use cases and examples")
+[Integrating Salesforce with Suite](http://emarsys.dev/old/suite/connect/salesforce-integration/ "Integrating Salesforce with Suite") [Examples and use cases](http://emarsys.dev/old/suite/connect/salesforce-use-cases/ "Salesforce Integration: Use cases and examples")

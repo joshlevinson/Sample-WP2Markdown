@@ -1,7 +1,7 @@
 ---
 title: 'Integrating Salesforce with Suite'
 subject: ''
-old_url: 'http://emarsys.dev/suite/connect/salesforce-integration/'
+old_url: 'http://emarsys.dev/old/suite/connect-2/salesforce-integration/'
 ---
 
 Setting up your Suite Salesforce integration is simple and requires no actions in Suite itself.
@@ -75,4 +75,4 @@ Setting up your Suite Salesforce integration is simple and requires no actions i
 
  You are now ready to take advantage of all that eMarketing Suite and Salesforce have to offer. See also:
 
-[Salesforce Integration: Use cases and examples](/Uncategorized/salesforce-use-cases.md "Salesforce Integration: Use cases and examples")
+[Salesforce Integration: Use cases and examples](http://emarsys.dev/old/suite/connect/salesforce-use-cases/ "Salesforce Integration: Use cases and examples")

@@ -1,7 +1,7 @@
 ---
 title: 'Using Web Extend On Its Own'
 subject: ''
-old_url: 'http://emarsys.dev/web-extend/stand-alone/'
+old_url: 'http://emarsys.dev/old/web-extend/stand-alone/'
 ---
 
 Web Extend is a pre-requisite for Predict and Smart Insight, but it can also be used on its own to enhance your customer lifecycle marketing, thanks to the fields it updates in your Emarsys database. Below are some example of simple campaigns you can automate using these fields.

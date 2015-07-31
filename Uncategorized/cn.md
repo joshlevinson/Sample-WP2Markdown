@@ -1,6 +1,6 @@
 ---
 title: cn
 subject: ''
-old_url: 'http://emarsys.dev/cn/'
+old_url: 'http://emarsys.dev/old/cn/'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Data Transfer'
 subject: ''
-old_url: 'http://emarsys.dev/resources/data-transfer/'
+old_url: 'http://emarsys.dev/old/resources/data-transfer/'
 ---
 
 In order to ensure that data transferred in and out of Suite is matched to the right contact and stored in the right format, you will need to ensure that your database fields are correctly set up.
@@ -19,7 +19,7 @@ In addition to this, you can choose from a number of available transfer protocol
  
 **Note:** All contacts fields can also be manually edited in the **Contact Properties** page. For more information, see:
 
-- [Suite system fields](/Resources/system-fields.md "The Suite System Fields")
+- [Suite system fields](/DataManagement/system-fields.md "The Suite System Fields")
 - [Creating custom fields](/Suite/custom-fields.md "Creating Custom Fields")
  
 **Please note:** Whenever data is imported into Suite, the new values will always replace the existing ones. It is important to remember this in case you have more than one method of updating contact data, since automatic updates could result in manual updates being overwritten.

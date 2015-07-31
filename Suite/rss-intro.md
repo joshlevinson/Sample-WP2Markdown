@@ -1,7 +1,7 @@
 ---
 title: 'Automating Content with RSS Feeds'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/content/rss-intro/'
+old_url: 'http://emarsys.dev/old/suite/content/rss-intro/'
 ---
 
 RSS feeds are an automated way of populating recurring, scheduled emails with content from a specified web resource, without having to log in to Emarsys eMarketing Suite. It allows you to send fully automated mailings and then collect and store the responses to these emails in the Suite analysis module. This feature requires a little implementation effort on your side, requiring limited XML experience, to set up and configure the RSS feed itself. After that you simply define the schedule for the recurring campaign in Suite and activate it. Once this has been done the only variables that need updating with regards to content is the RSS web resource; everything else happens automatically.

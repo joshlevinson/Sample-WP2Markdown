@@ -1,7 +1,7 @@
 ---
 title: 'Implementing Ecommerce Tracking using JavaScript'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/reporting/ecommerce-tracking-using-javascript/'
+old_url: 'http://emarsys.dev/old/suite/reporting/ecommerce-tracking-using-javascript/'
 ---
 
 The JavaScript method uses three elements:
@@ -29,12 +29,12 @@ The JavaScript method uses three elements:
 
     <script type="text/javascript" language="JavaScript">
     // <!--
-      emsSetEnv('www1'); 
+      emsSetEnv('www1');
       emsTracking(112734771,'yourdomainhere.com');
-    // --> 
+    // -->
     </script>
 
-<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">- This code snippet must be loaded and executed before any `emsSubmitOrder()` calls.
+<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/2014/04/Icon_BeCareful.png)](/assets/images/2014/04/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">- This code snippet must be loaded and executed before any `emsSubmitOrder()` calls.
 - Replace ***www1*** with your Suite environment variable (Emarsys Support can help you with this).
 - Replace ***112734771*** with your Suite customer ID.
 - Replace ***yourdomainhere.com*** with the address of your website.
@@ -64,7 +64,7 @@ The JavaScript method uses three elements:
 - Add the following code to your **Thank You** page:
  
 
-    <form style="display:none;" name="emsform">  
+    <form style="display:none;" name="emsform">
       <input type="hidden" name="tax" value="[totaltax]">
       <input type="hidden" name="shipping" value="[shippingcosts]">
       <input type="hidden" name="city" value="[customer_city]">
@@ -77,7 +77,7 @@ The JavaScript method uses three elements:
     <script type="text/javascript" language="JavaScript">
     // <!--
       emsSubmitOrder();
-    // --> 
+    // -->
     </script>
 
 

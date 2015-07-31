@@ -1,7 +1,7 @@
 ---
 title: 'Failed Login - FAQ'
 subject: 'Resources, Security, SuiteAdmin'
-old_url: 'http://emarsys.dev/suite/users/login-faq/'
+old_url: 'http://emarsys.dev/old/suite/users/login-faq/'
 ---
 
 Failed Login - FAQ

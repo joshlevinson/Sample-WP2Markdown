@@ -1,14 +1,14 @@
 ---
 title: 'Data Security and Infrastructure Redundancy'
 subject: 'Resources, Security'
-old_url: 'http://emarsys.dev/resources/data-security/'
+old_url: 'http://emarsys.dev/old/resources/data-security/'
 ---
 
 OverviewISO 27001 Information Security Accreditation
 --------------------------------------------
 
-[![Infosec-004-004.jpg](/assets/images/Infosec-004-004.jpg)](/assets/images/Infosec-004-004.jpg)
-=================================================================================================================================================================================================================================================
+[![Infosec-004-004.jpg](/assets/images/2014/04/Infosec-004-004.jpg)](/assets/images/2014/04/Infosec-004-004.jpg)
+=========================================================================================================================================================================================================================================================================================
 
  Emarsys has undergone a comprehensive third-party assessment of its data security risks including all the processes for managing information security. Emarsys has met the requirements for ISO 27001 (the international standard for Information Security Management) and is now certified as ISO 27001 compliant. This certification should inspire confidence in our customers as it demonstrates our commitment to protecting their valuable information assets, and that their data is safe in our hands. As part of this certification, Emarsys is regularly audited to ensure that these international standards are continuously met and adhered to, ensuring peace of mind for our customers.
 
@@ -31,7 +31,7 @@ Emarsys Security Overview
 
  Our software development process follows a strict and secure coding principle. Application security at Emarsys is dealt with by a Secure Coding Committee (which consists of the heads of software development, testing, and software security officers) which defines and implements principles and procedures that adhere to industry-standard secure development.
 
-<div class="center"><div class="floatnone">[![Internal software development process](/assets/images/Infosec-004-0042.jpg)](/assets/images/Infosec-004-0042.jpg)</div></div> The development team has a thorough understanding of existing infrastructure components, which is necessary to ensure that the deployment of the software is, firstly, operationally functional and, secondly, will not weaken the security of any existing environment. Development teams also participate in regular security trainings. All of our software development goes through internal security testing by Emarsys before undergoing independent assessment by external IT security firms that specialize in software and system security.
+<div class="center"><div class="floatnone">[![Internal software development process](/assets/images/2014/06/Infosec-004-0042.jpg)](/assets/images/2014/06/Infosec-004-0042.jpg)</div></div> The development team has a thorough understanding of existing infrastructure components, which is necessary to ensure that the deployment of the software is, firstly, operationally functional and, secondly, will not weaken the security of any existing environment. Development teams also participate in regular security trainings. All of our software development goes through internal security testing by Emarsys before undergoing independent assessment by external IT security firms that specialize in software and system security.
 
 ### Infrastructure security
 
@@ -49,7 +49,7 @@ Emarsys Security Overview
 
  Emarsys operates high-performance redundant firewall clusters which are kept up to date with automated security updates, and have regular performance tuning performed on them.
 
-<div class="center"><div class="floatnone">[![Firewall stack: Crossbeam Checkpoint Firewall with redundancy](/assets/images/Infosec-006-008.jpg)](/assets/images/Infosec-006-008.jpg)</div></div>##### Operating system security
+<div class="center"><div class="floatnone">[![Firewall stack: Crossbeam Checkpoint Firewall with redundancy](/assets/images/2014/04/Infosec-006-008.jpg)](/assets/images/2014/04/Infosec-006-008.jpg)</div></div>##### Operating system security
 
  Emarsys exclusively uses a managed environment built of UNIX operating systems which offer the highest levels of performance and stability. System updates are implemented regularly to ensure that all our systems always have the latest security patches, and all accounts are secured using strong passwords. As an additional security measure direct root access has been disabled, and is not possible.
 
@@ -57,7 +57,7 @@ Emarsys Security Overview
 
  Each database server cluster is located in its own local subnet, all of which have access severely restricted so that only personnel with the correct authorization can access them.
 
-<div class="center"><div class="floatnone">[![Database Cluster: Veritas Cluster Servers with redundancy](/assets/images/Infosec-007-010.jpg)](/assets/images/Infosec-007-010.jpg)</div></div>##### Maintenance and monitoring
+<div class="center"><div class="floatnone">[![Database Cluster: Veritas Cluster Servers with redundancy](/assets/images/2014/04/Infosec-007-010.jpg)](/assets/images/2014/04/Infosec-007-010.jpg)</div></div>##### Maintenance and monitoring
 
  All systems are maintained and monitored in accordance with manufacturers’ recommendations on a 24/7/365 basis. Monitoring includes:
 
@@ -104,15 +104,15 @@ Emarsys Security Overview
 - Load balancers
 - Firewalls
 
-<div class="center"><div class="floatnone">[![Storage Clusters with Synch Mirror and Redundancy](/assets/images/Infosec-008-012.jpg)](/assets/images/Infosec-008-012.jpg)</div></div> Provider-independent dedicated IP addresses with PGP routers allow Emarsys to switch traffic to an alternative data centre on the fly if the need arises without any significant impact on performance.
+<div class="center"><div class="floatnone">[![Storage Clusters with Synch Mirror and Redundancy](/assets/images/2014/04/Infosec-008-012.jpg)](/assets/images/2014/04/Infosec-008-012.jpg)</div></div> Provider-independent dedicated IP addresses with PGP routers allow Emarsys to switch traffic to an alternative data centre on the fly if the need arises without any significant impact on performance.
 
 ##### Backup
 
  All user data in our databases is backed up daily and archived using a dedicated file storage system where all backups are encrypted and then transferred to a fire-proof offsite storage location. These backups are also mirrored at an alternative data centre to ensure business continuity is maximized.
 
-<div class="center"><div class="floatnone">[![Backup with Replication](/assets/images/Infosec-009-014.jpg)](/assets/images/Infosec-009-014.jpg)</div></div><div style="page-break-after: always;"></div>Emarsys Network Overview
+<div class="center"><div class="floatnone">[![Backup with Replication](/assets/images/2014/04/Infosec-009-014.jpg)](/assets/images/2014/04/Infosec-009-014.jpg)</div></div><div style="page-break-after: always;"></div>Emarsys Network Overview
 ------------------------
 
  The image below gives an overview of the Emarsys network.
 
-<div class="center"><div class="floatnone">[![Emarsys Network Overview](/assets/images/Infosec-010-016.jpg)](/assets/images/Infosec-010-016.jpg)</div></div>
+<div class="center"><div class="floatnone">[![Emarsys Network Overview](/assets/images/2014/04/Infosec-010-016.jpg)](/assets/images/2014/04/Infosec-010-016.jpg)</div></div>

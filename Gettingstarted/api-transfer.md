@@ -1,0 +1,7 @@
+---
+title: 'Using the Suite API to Transfer Data'
+subject: Gettingstarted
+old_url: 'http://emarsys.dev/old/getstarted/contact-data/api-transfer/'
+---
+
+For optimum performance and high-volume data transfer, we recommend using the Suite API – although it does require you to have some technical resources to integrate it with your application(s). New contacts can be created and the properties of existing contacts updated, either singly or in batches of up to 10,000 (a typical batch call to create 10,000 new contacts via the API will take around one minute). Contact lists can also be managed through the API, and transactional or batch emails triggered following the data import. No files are involved and no external storage is required for API imports as the contact data is stored in the API call in JSON ([JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON)). The API can also export new registrations from Suite, as well as entire contact lists or changes to contact properties which occurred over a given time range. These are delivered in CSV format to the specified external storage (e.g. SFTP, WebDAV). For email responses, the entire response summary of an email campaign can be called (and, for example, inserted into a table in another application). Alternatively, a file can be exported containing all the contacts (and any properties defined) who responded to emails within a given time range. For more information, see the [Suite API documentation](http://dev.emarsys.com "Suite API Technical Reference").

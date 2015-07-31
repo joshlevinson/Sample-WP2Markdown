@@ -1,7 +1,7 @@
 ---
 title: 'Working With Predict'
 subject: Predict
-old_url: 'http://emarsys.dev/predict/user-guide/'
+old_url: 'http://emarsys.dev/old/predict/user-guide/'
 ---
 
 Once you have successfully completed your Predict integration, a new menu will be enabled in your Emarsys account. This has the following entries:

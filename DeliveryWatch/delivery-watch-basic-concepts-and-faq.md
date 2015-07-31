@@ -1,7 +1,7 @@
 ---
 title: 'Delivery Watch Basic Concepts and FAQ'
 subject: DeliveryWatch
-old_url: 'http://emarsys.dev/ebene2-2/delivery-watch-basic-concepts-and-faq/'
+old_url: 'http://emarsys.dev/old/ebene2-2/delivery-watch-basic-concepts-and-faq/'
 ---
 
 Introduction
@@ -87,7 +87,7 @@ The Delivery Watch Toolkit
 
  The Analytics Module is comprised of 19 reports that are designed to provide detailed statistical information on the inbox delivery rate for the campaign, based on the characteristics such as email size, content type, sending frequency, etc.
 
-<div class="center"><div class="floatnone">[![Sample Analytics Module report](/assets/images/DeliveryWatch_Concepts_and_FAQ_-_Page_07_Image_0002.png)](/assets/images/DeliveryWatch_Concepts_and_FAQ_-_Page_07_Image_0002.png)</div></div> The Analytics Module always displays the campaign information in two columns: the account campaign average vs. the global average. The parameters of the report can be adjusted to display results including what time frame to cover, industry sector, etc. Analytics Module URL: [[6]](https://www.deliverywatch.net/analytics/selectReport.do)
+<div class="center"><div class="floatnone">[![Sample Analytics Module report](/assets/images/2014/07/DeliveryWatch_Concepts_and_FAQ_-_Page_07_Image_0002.png)](/assets/images/2014/07/DeliveryWatch_Concepts_and_FAQ_-_Page_07_Image_0002.png)</div></div> The Analytics Module always displays the campaign information in two columns: the account campaign average vs. the global average. The parameters of the report can be adjusted to display results including what time frame to cover, industry sector, etc. Analytics Module URL: [[6]](https://www.deliverywatch.net/analytics/selectReport.do)
 
 Working with Delivery Watch
 ---------------------------

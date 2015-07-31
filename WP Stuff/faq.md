@@ -1,7 +1,7 @@
 ---
 title: 'Predict - FAQ'
 subject: 'WP Stuff'
-old_url: 'http://emarsys.dev/predict/faq/'
+old_url: 'http://emarsys.dev/old/predict/faq/'
 ---
 
 #### Contents:- [Can Predict combine online and offline data to improve recommendations?](#offline)
@@ -25,7 +25,7 @@ old_url: 'http://emarsys.dev/predict/faq/'
  
 
 
-<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left;">Can Predict combine online and offline data to improve recommendations?</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Yes. On the [Historical Sales Data](/Getting%20Started/historical-data.md) page you can jumpstart the recommender by importing historical data, but also regularly import sales data from offline sources.<a name="google"></a>
+<table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left;">Can Predict combine online and offline data to improve recommendations?</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Yes. On the [Historical Sales Data](/Gettingstarted/historical-data.md) page you can jumpstart the recommender by importing historical data, but also regularly import sales data from offline sources.<a name="google"></a>
 
  </td> </tr></tbody><thead><tr><th style="text-align: left;">**Can Predict data collection scripts be implemented via Google Tag Manager?**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Yes. If you are comfortable using Google Tag Manager, you can do the integration this way. Having said that, you will still need to review the Predict documentation to make sure you are sending all the required information. You will also have to check that all the correct scripts have been added in relation to various events and the required input variables included.<a name="mobile"></a>
 
@@ -67,6 +67,6 @@ If you do want to use whitelists, please contact the Emarsys Predict team to dis
 
  </td> </tr></tbody><thead><tr><th style="text-align: left;">**What is the level of Predict uptime?**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Our uptime on the current AWS infrastructure was 99.998% over the past year (12 mins. downtime).<a name="language"></a>
 
- </td> </tr></tbody><thead><tr><th style="text-align: left;">What degree of language support do you offer?</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Recommender widgets display information from the Product Catalogue CSV - whatever is passed on from your database is displayed in the widget. Therefore there are no language issues here. Even if your online business is international, and offered to users in different countries and under different domains (e.g. international mystore.com site, and localized mystore.co.uk), this is not a problem. [Multi-domain integration](/Getting%20Started/about.md) uses a single, aggregated product catalog that contains all the localized variants of the catalog data for each item ID. Localized data (product names, prices, etc.) need to be added to your main store catalog export. The Emarsys Predict Dashboard and supporting documentation are currently only available in English but will be translated into all Emarsys languages soon.
+ </td> </tr></tbody><thead><tr><th style="text-align: left;">What degree of language support do you offer?</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">Recommender widgets display information from the Product Catalogue CSV - whatever is passed on from your database is displayed in the widget. Therefore there are no language issues here. Even if your online business is international, and offered to users in different countries and under different domains (e.g. international mystore.com site, and localized mystore.co.uk), this is not a problem. [Multi-domain integration](/Gettingstarted/about.md) uses a single, aggregated product catalog that contains all the localized variants of the catalog data for each item ID. Localized data (product names, prices, etc.) need to be added to your main store catalog export. The Emarsys Predict Dashboard and supporting documentation are currently only available in English but will be translated into all Emarsys languages soon.
 
  </td></tr></tbody></table>

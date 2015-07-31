@@ -1,7 +1,7 @@
 ---
 title: 'Adding New Contacts in Suite'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/contacts/contacts/'
+old_url: 'http://emarsys.dev/old/suite/contacts/contacts/'
 ---
 
 There are a number of ways you can add new registrations to Suite.
@@ -21,7 +21,7 @@ There are a number of ways you can add new registrations to Suite.
 
 #### 3. Using the Suite API to integration with existing forms
 
- If you have development resources available, the Suite API is the fastest and most efficient way to use your existing registration forms to import contacts directly into the Suite database. Please direct your technical support staff to the [Suite API Documentation](http://dev.emarsys.com) and the use case on [Updating Contacts](/Getting%20Started/update-contacts.md "API Use Case 5: Keeping contacts up to date").
+ If you have development resources available, the Suite API is the fastest and most efficient way to use your existing registration forms to import contacts directly into the Suite database. Please direct your technical support staff to the [Suite API Documentation](http://dev.emarsys.com) and the use case on [Updating Contacts](/Gettingstarted/update-contacts.md "API Use Case 5: Keeping contacts up to date").
 
 #### 4. Using HTTP feeds
 

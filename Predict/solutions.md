@@ -1,7 +1,7 @@
 ---
 title: 'Predict Solutions'
 subject: Predict
-old_url: 'http://emarsys.dev/predict/solutions/'
+old_url: 'http://emarsys.dev/old/predict/solutions/'
 ---
 
 Emarsys Predict offers four solutions:
@@ -22,7 +22,7 @@ Emarsys Predict offers four solutions:
 - **Cart** - for complementary product recommendations on the cart page.
 - **Also_Bought** - for complementary product recommendations on product pages.
 
- For examples on how to use these widgets, please see the [Web Recommender Use Cases and Examples](/Predict/webrec.md).
+ For examples on how to use these widgets, please see the [Web Recommender Use Cases and Examples](/GettingStarted_Predict/webrec.md).
 
 ##### **Predictive Home Page **
 
@@ -51,7 +51,7 @@ Emarsys Predict offers four solutions:
 - Birthday congratulations
 - Transactional messages
 
- For examples on how to use these widgets, please see the [Email Recommender Use Cases and Examples](/Getting%20Started/email-rec.md)<a name="cart"></a>.
+ For examples on how to use these widgets, please see the [Email Recommender Use Cases and Examples](/Gettingstarted/email-rec.md)<a name="cart"></a>.
 
 ### Cart Recovery
 

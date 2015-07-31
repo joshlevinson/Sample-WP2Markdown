@@ -1,7 +1,7 @@
 ---
 title: 'Single-choice Fields and their Values'
 subject: ''
-old_url: 'http://emarsys.dev/resources/data-transfer/single-choice-fields/'
+old_url: 'http://emarsys.dev/old/resources/data-transfer/single-choice-fields/'
 ---
 
 Below you can find a list of all the available values for the single-choice system fields in Suite, along with their IDs.

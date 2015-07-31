@@ -1,7 +1,7 @@
 ---
 title: 'Data Security in Predict'
 subject: 'Resources, Security'
-old_url: 'http://emarsys.dev/resources/data-security/predict-security/'
+old_url: 'http://emarsys.dev/old/resources/data-security/predict-security/'
 ---
 
 Emarsys Predict uses the Amazon Cloud to host its technology. For any additional queries regarding compliance and security beyond what is included here - please refer to their resources here: <https://aws.amazon.com/compliance/> <https://aws.amazon.com/security/>

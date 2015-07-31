@@ -1,7 +1,7 @@
 ---
 title: 'The Suite Email Campaign Manager'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/content/campaign-manager/'
+old_url: 'http://emarsys.dev/old/suite/content/campaign-manager/'
 ---
 
 Email campaigns are created in Suite using the Email Campaign Manager, which is accessed via the **Campaigns** menu. The **Overview** page lists all the email campaigns created in your account. The filter options above the list enable you to sort the list according to your specifications. You can also search for individual email campaigns using the **Search** function on the left of the screen. For more information on the information and controls on this page, please refer to the *Suite Online Help*.
@@ -15,7 +15,7 @@ Email campaigns are created in Suite using the Email Campaign Manager, which is 
 
  After creating the email, you enter the Suite content management system, which is comprised of the Toolbar, Section Editor and Live Preview pane.
 
-<div class="center">[![Suite_CMS_EUG_Page_04_Image_0002](/assets/images/Suite_CMS_EUG_Page_04_Image_0002-300x134.png)](/assets/images/Suite_CMS_EUG_Page_04_Image_0002.png)</div>#### <span class="mw-headline" id="0c63ebfbbfe4f189fb423002baf880a1">Toolbar (1)<a name="bs-ue-jumpmark-5dc858e89fa6aaa9caacd47985b625dd"></a></span>
+<div class="center">[![Suite_CMS_EUG_Page_04_Image_0002](/assets/images/2014/04/Suite_CMS_EUG_Page_04_Image_0002-300x134.png)](/assets/images/2014/04/Suite_CMS_EUG_Page_04_Image_0002.png)</div>#### <span class="mw-headline" id="0c63ebfbbfe4f189fb423002baf880a1">Toolbar (1)<a name="bs-ue-jumpmark-5dc858e89fa6aaa9caacd47985b625dd"></a></span>
 
  Here you save your work, and can find all the controls you need to configure the high-level settings of your email campaign, including testing utilities and scheduling.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Data Security in Smart Insight'
 subject: 'Resources, Security, SmartInsight'
-old_url: 'http://emarsys.dev/resources/data-security/smart-insight-security/'
+old_url: 'http://emarsys.dev/old/resources/data-security/smart-insight-security/'
 ---
 
 Emarsys Smart Insight handles data related to the ecommerce activities of our customers. This appendix describes the flow and handling of data within Smart Insight, with the focus on information security. By default, Smart Insight does *not* store any Personally Identifiable Information (PII). The product uses an anonymous external key (= a number) to associate ecommerce data with Suite contacts. Exceptions to this setup can be made upon specific customer request.

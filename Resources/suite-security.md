@@ -1,7 +1,7 @@
 ---
 title: 'Data Security in eMarketing Suite'
 subject: 'Resources, Security'
-old_url: 'http://emarsys.dev/resources/data-security/suite-security/'
+old_url: 'http://emarsys.dev/old/resources/data-security/suite-security/'
 ---
 
 The eMarketing Suite handles data related to the email recipients which is generated and sent by the platform, and is referred to as Personally Identifiable Information (PII). This page describes the flow of recipient-related data within Suite, with the focus on information security.
@@ -15,7 +15,7 @@ Data Flow
 
  The image below shows the architecture of the Suite application.
 
-<div class="center"><div class="floatnone">[![Suite System Architecture - Layer Diagram](/assets/images/Infosec-016-025.jpg)](/assets/images/Infosec-016-025.jpg)</div></div><div class="center"><div class="floatnone">[![Suite System Architecture - Block Diagram](/assets/images/Infosec-017-027.jpg)](/assets/images/Infosec-017-027.jpg)</div></div>### Data Exchange
+<div class="center"><div class="floatnone">[![Suite System Architecture - Layer Diagram](/assets/images/2014/04/Infosec-016-025.jpg)](/assets/images/2014/04/Infosec-016-025.jpg)</div></div><div class="center"><div class="floatnone">[![Suite System Architecture - Block Diagram](/assets/images/2014/04/Infosec-017-027.jpg)](/assets/images/2014/04/Infosec-017-027.jpg)</div></div>### Data Exchange
 
  Suite, as a database product, allows synchronization of recipient data with customer systems. Demographic information can be synchronized into standard fields while custom fields allow any information to be stored along recipients. The following sub-chapters describe methods to import recipient information into the system.
 

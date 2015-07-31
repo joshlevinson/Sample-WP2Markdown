@@ -1,0 +1,13 @@
+---
+title: 'Verwendung des erweiterten eCommerce-Trackings'
+subject: ''
+old_url: 'http://emarsys.dev/old/verwendung-des-erweiterten-ecommerce-trackings/'
+---
+
+### Verwendung des erweiterten eCommerce-Trackings in Suite
+
+ Aufgrund der Funktionsweise des erweiterten Trackings unterscheiden sich die Suite-Bildschirme nicht von denen des Standard-Trackings. Der Hauptzweck ist die Erweiterung der Kontaktdatenbank sowie eine Segmentierung auf Aktivitätsbasis. Die vom erweiterten Tracking abgeleiteten Segmente stehen für die Nutzung in Automation Center Programmen zur Verfügung, wie z. B. die Arbeit mit den Einkaufsverhalten Ihrer Kontakte und die Auslösung von Programmen auf Basis dieser Verhalten. Die Nutzung des erweiterten eCommerce-Trackings ermöglicht Ihnen die Erweiterung Ihrer Kontaktdaten basierend auf dem Benutzerverhalten in Ihrem Webshop, was in einer präzisen Segmentierung für zukünftige Kampagnen resultiert. Sie können nicht nur anhand der Standardberichterstattung Trends isolieren, sondern haben auch die Möglichkeit, diese Informationen für die Segmentierung von Kontakten für zukünftige Kampagnenplanungen zu verwenden. Das erweiterte eCommerce-Tracking ist die natürliche Weiterentwicklung des Standard-eCommerce-Trackings, da neben der Erfassung der Daten von den Benutzern, die über eine E-Mail-Kampagne zum Webshop gelangt sind, auch die Daten anderer Benutzer, die einen Kauf abgeschlossen haben, erfasst und der Kontaktdatenbank hinzugefügt werden. Durch benutzerdefinierte Logik und Regeln kann das erweiterte eCommerce-Tracking für die Aktualisierung und Erweiterung von Kontaktprofilen auf Basis des Benutzerverhaltens im Webshop verwendet werden. Serverseitige Integrationen resultieren in einfachen HTTPS-Tracking-Anforderungen und ermöglichen die Berücksichtigung und das Tracking neuer Kontakte, denen noch keine vorherigen Kampagnen zugesendet wurden.
+
+#### Beispiele für Programme, die das erweiterte eCommerce-Tracking nutzen
+
+ Nachfolgend finden Sie einige Beispiele für die Art von Programmen, die Sie mithilfe der mit dem erweiterten eCommerce-Tracking erfassten Daten erstellen können. [![Treueprogramm](/assets/images/2014/04/Ecommerce_tracking-016-058.jpg)](/assets/images/2014/04/Ecommerce_tracking-016-058.jpg) [![Reaktivierung](/assets/images/2014/04/Ecommerce_tracking-016-059.jpg)](/assets/images/2014/04/Ecommerce_tracking-016-059.jpg) [![Umfrage zur Kundenzufriedenheit](/assets/images/2014/04/Ecommerce_tracking-017-107.jpg)](/assets/images/2014/04/Ecommerce_tracking-017-107.jpg)

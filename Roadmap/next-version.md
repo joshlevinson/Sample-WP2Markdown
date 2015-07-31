@@ -1,7 +1,7 @@
 ---
 title: 'What''s next for Suite?'
 subject: Roadmap
-old_url: 'http://emarsys.dev/development/next-version/'
+old_url: 'http://emarsys.dev/old/development/next-version/'
 ---
 
 Suite version 8.3

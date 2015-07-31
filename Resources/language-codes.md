@@ -1,9 +1,0 @@
----
-title: 'Language Codes'
-subject: 'DataManagement, Resources'
-old_url: 'http://emarsys.dev/resources/language-codes/'
----
-
-The following languages are supported by eMarketing Suite for email campaigns.
-
-<table border="1" class="wikitable" style="width: 100%;"><thead><tr><th>Language Code</th> <th>Description</th> </tr></thead><tbody><tr><td>AR</td> <td>Arabic</td> </tr><tr><td>BG</td> <td>Bulgarian</td> </tr><tr><td>BP</td> <td>Brazilian Portuguese</td> </tr><tr><td>CN</td> <td>Chinese Simplified</td> </tr><tr><td>CZ</td> <td>Czech</td> </tr><tr><td>DE</td> <td>German</td> </tr><tr><td>DK</td> <td>Danish</td> </tr><tr><td>EL</td> <td>Greek</td> </tr><tr><td>EN</td> <td>English</td> </tr><tr><td>ES</td> <td>Spanish</td> </tr><tr><td>ET</td> <td>Estonian</td> </tr><tr><td>FI</td> <td>Finnish</td> </tr><tr><td>FR</td> <td>French</td> </tr><tr><td>HE</td> <td>Hebrew</td> </tr><tr><td>HI</td> <td>Hindi</td> </tr><tr><td>HR</td> <td>Croatian</td> </tr><tr><td>HU</td> <td>Hungarian</td> </tr><tr><td>IT</td> <td>Italian</td> </tr><tr><td>JP</td> <td>Japanese</td> </tr><tr><td>KO</td> <td>Korean</td> </tr><tr><td>LT</td> <td>Lithuanian</td> </tr><tr><td>LV</td> <td>Latvian</td> </tr><tr><td>MK</td> <td>Macedonian</td> </tr><tr><td>MO</td> <td>Moldavian</td> </tr><tr><td>MX</td> <td>Mexican</td> </tr><tr><td>NL</td> <td>Dutch</td> </tr><tr><td>NO</td> <td>Norwegian</td> </tr><tr><td>PL</td> <td>Polish</td> </tr><tr><td>PR</td> <td>Portuguese</td> </tr><tr><td>RO</td> <td>Romanian</td> </tr><tr><td>RU</td> <td>Russian</td> </tr><tr><td>SC</td> <td>Serbian</td> </tr><tr><td>SK</td> <td>Slovakian</td> </tr><tr><td>SL</td> <td>Slovenian</td> </tr><tr><td>SR</td> <td>Serbocroatian</td> </tr><tr><td>SV</td> <td>Swedish</td> </tr><tr><td>TH</td> <td>Thai</td> </tr><tr><td>TR</td> <td>Turkish</td> </tr><tr><td>UK</td> <td>Ukrainian</td> </tr><tr><td>VI</td> <td>Vietnamese</td></tr></tbody></table>

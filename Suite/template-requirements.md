@@ -1,7 +1,7 @@
 ---
 title: 'CMS Template Requirements'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/content/cms/template-requirements/'
+old_url: 'http://emarsys.dev/old/suite/content/cms/template-requirements/'
 ---
 
 Introduction
@@ -36,7 +36,7 @@ Preview Pane Elements
 
  If you have any additional requirements such as hard-coded groups, URLs for fixed links in the navigation, etc. then please include in them as well.
 
-<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Due to the way the images work, there can be no overlap in the CMS Template, so please make sure that images in your PSD are carefully placed side by side.</td></tr></tbody></table>### Images
+<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/2014/04/Icon_BeCareful.png)](/assets/images/2014/04/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Due to the way the images work, there can be no overlap in the CMS Template, so please make sure that images in your PSD are carefully placed side by side.</td></tr></tbody></table>### Images
 
 - Since the Emarsys template framework does not use layers, images can not overlap. Be careful to place images side-by-side.
 
@@ -44,7 +44,7 @@ Preview Pane Elements
 
  Background images should be avoided, since some email clients do not (or at least not fully) display them (e.g. Outlook 2007, 2010). However, exceptions can be made if you need to display text over an image (e.g. for a banner).
 
-<div class="center"><div class="floatnone">[![CMS tmpl Page 06 Image 0002.png](/assets/images/CMS_tmpl_Page_06_Image_0002.png)](/assets/images/CMS_tmpl_Page_06_Image_0002.png)</div></div>### Text
+<div class="center"><div class="floatnone">[![CMS tmpl Page 06 Image 0002.png](/assets/images/2014/04/CMS_tmpl_Page_06_Image_0002.png)](/assets/images/2014/04/CMS_tmpl_Page_06_Image_0002.png)</div></div>### Text
 
 - Define the pre-header element to use (text group with or without link)
 
@@ -52,11 +52,11 @@ Preview Pane Elements
 
  In the case that no heading is required, the whole heading (or even parts of it) can be hidden. Also, headings or parts of them can be linked.
 
-<div class="center"><div class="floatnone">[![CMS tmpl Page 06 Image 0003.png](/assets/images/CMS_tmpl_Page_06_Image_0003.png)](/assets/images/CMS_tmpl_Page_06_Image_0003.png)</div></div>#### Line Height
+<div class="center"><div class="floatnone">[![CMS tmpl Page 06 Image 0003.png](/assets/images/2014/04/CMS_tmpl_Page_06_Image_0003.png)](/assets/images/2014/04/CMS_tmpl_Page_06_Image_0003.png)</div></div>#### Line Height
 
  Try to avoid the use of defined line heights. These are not (or only partly) displayed in some email clients (e.g. Hotmail, Outlook). These clients will display the line height too large, breaking your layout. If you need to use defined line heights, leave some extra space in the design to ensure that sections are displayed correctly.
 
-<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">This mostly applies to sections that have a border and to multi-column groups that should have balanced lengths (see Multi-Column Groups below).</td></tr></tbody></table><div class="center"><div class="floatnone">[![CMS tmpl Page 07 Image 0002.png](/assets/images/CMS_tmpl_Page_07_Image_0002.png)](/assets/images/CMS_tmpl_Page_07_Image_0002.png)</div></div>#### Bullet Lists
+<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon AdditionalInfo.png](/assets/images/2014/04/Icon_AdditionalInfo.png)](/assets/images/2014/04/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">This mostly applies to sections that have a border and to multi-column groups that should have balanced lengths (see Multi-Column Groups below).</td></tr></tbody></table><div class="center"><div class="floatnone">[![CMS tmpl Page 07 Image 0002.png](/assets/images/2014/04/CMS_tmpl_Page_07_Image_0002.png)](/assets/images/2014/04/CMS_tmpl_Page_07_Image_0002.png)</div></div>#### Bullet Lists
 
  If you want to use bullet lists, these are only available in Advanced Mode, and no special icons or list styles can be used (i.e. only black discs are possible), since special list styles do not work with all email clients.
 
@@ -69,13 +69,13 @@ Preview Pane Elements
 - Image
 - Link
 
-<div class="center"><div class="floatnone">[![CMS tmpl Page 07 Image 0003.png](/assets/images/CMS_tmpl_Page_07_Image_0003.png)](/assets/images/CMS_tmpl_Page_07_Image_0003.png)</div></div>#### Multi-Column Groups
+<div class="center"><div class="floatnone">[![CMS tmpl Page 07 Image 0003.png](/assets/images/2014/04/CMS_tmpl_Page_07_Image_0003.png)](/assets/images/2014/04/CMS_tmpl_Page_07_Image_0003.png)</div></div>#### Multi-Column Groups
 
  If you need two or more columns in your template, bear in mind that the width has to be the same for all sections. A section cannot have 200 px, and then later 202 px. Also, spaces between sections must be identical.
 
-<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon AdditionalInfo.png](/assets/images/Icon_AdditionalInfo.png)](/assets/images/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Example: 2-col group with overall template width of 600 px.600 px-20 px = 580 px/2 columns = 290 px per column.If you want all columns to be of equal height (i.e. to be balanced), you can use a minimal height for this section. If more content is entered, the section will still increase its height.</td></tr></tbody></table> Use symmetric columns whenever possible:
+<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px solid #999;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon AdditionalInfo.png](/assets/images/2014/04/Icon_AdditionalInfo.png)](/assets/images/2014/04/Icon_AdditionalInfo.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Example: 2-col group with overall template width of 600 px.600 px-20 px = 580 px/2 columns = 290 px per column.If you want all columns to be of equal height (i.e. to be balanced), you can use a minimal height for this section. If more content is entered, the section will still increase its height.</td></tr></tbody></table> Use symmetric columns whenever possible:
 
-<div class="center"><div class="floatnone">[![CMS tmpl Page 08 Image 0002.png](/assets/images/CMS_tmpl_Page_08_Image_0002.png)](/assets/images/CMS_tmpl_Page_08_Image_0002.png)</div> </div><table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">When using mobile templates, the spacing between the individual elements needs to be > 2px, since floating tables are used.When using borders in multi-column groups:The groups are independent of each other, so minimal heights have to be used. Consider the line spacing and spacing between the elements.</td></tr></tbody></table>#### 1/3 and 2/3 Groups
+<div class="center"><div class="floatnone">[![CMS tmpl Page 08 Image 0002.png](/assets/images/2014/04/CMS_tmpl_Page_08_Image_0002.png)](/assets/images/2014/04/CMS_tmpl_Page_08_Image_0002.png)</div> </div><table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/2014/04/Icon_BeCareful.png)](/assets/images/2014/04/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">When using mobile templates, the spacing between the individual elements needs to be > 2px, since floating tables are used.When using borders in multi-column groups:The groups are independent of each other, so minimal heights have to be used. Consider the line spacing and spacing between the elements.</td></tr></tbody></table>#### 1/3 and 2/3 Groups
 
  We recommend avoiding combinations of ⅓ and ⅔ content layouts, instead group content with a symmetric width, e.g. 50% each in a two-column layout. ⅔ groups are not flexible and need to be hard-coded into the template and have their position defined, e.g. at the top or bottom of a template. Sections with varying width cannot be used as flexibly as those with an equal width, and also cannot be defined on a group basis. The same applies to the Main Content and Side Section, or groups where the framework has to be hard-coded into the template.
 
@@ -130,9 +130,9 @@ Addons, Forms & User-Generated Content
 
  In Standard Mode, only one link is permitted. Further links can be added in Advanced Mode. You can specify different designs for each mode. Your link designs should match the overall design.
 
-<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">In Advanced Mode we recommend not to use images in the link design, as this limits the possibilities for linking text (the image will disrupt the text block). Be careful with link formatting, since they might not appear as intended with some email clients (e.g., Outlook).</td></tr></tbody></table> The link to the right shows how Outlook would format it:
+<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/2014/04/Icon_BeCareful.png)](/assets/images/2014/04/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">In Advanced Mode we recommend not to use images in the link design, as this limits the possibilities for linking text (the image will disrupt the text block). Be careful with link formatting, since they might not appear as intended with some email clients (e.g., Outlook).</td></tr></tbody></table> The link to the right shows how Outlook would format it:
 
-<div class="center"><div class="floatnone">[![CMS tmpl Page 10 Image 0002.png](/assets/images/CMS_tmpl_Page_10_Image_0002.png)](/assets/images/CMS_tmpl_Page_10_Image_0002.png)</div></div> "View online version" links: If the default link and default text is used for the online version, changing the email language will change the language of the links. If the online link is hardcoded into the template, this cannot be changed. Also keep in mind that links which are hardcoded into the template cannot always be tracked. Contact Emarsys Support if you have any questions in this regard.
+<div class="center"><div class="floatnone">[![CMS tmpl Page 10 Image 0002.png](/assets/images/2014/04/CMS_tmpl_Page_10_Image_0002.png)](/assets/images/2014/04/CMS_tmpl_Page_10_Image_0002.png)</div></div> "View online version" links: If the default link and default text is used for the online version, changing the email language will change the language of the links. If the online link is hardcoded into the template, this cannot be changed. Also keep in mind that links which are hardcoded into the template cannot always be tracked. Contact Emarsys Support if you have any questions in this regard.
 
 Ecommerce (if applicable)
 -------------------------
@@ -162,11 +162,11 @@ Suite-Specific Template Requirements
 - Links
 - Form Links
 
-<div class="center"><div class="floatnone">[![CMS tmpl Page 11 Image 0002.png](/assets/images/CMS_tmpl_Page_11_Image_0002.png)](/assets/images/CMS_tmpl_Page_11_Image_0002.png)</div></div>### Advanced Mode
+<div class="center"><div class="floatnone">[![CMS tmpl Page 11 Image 0002.png](/assets/images/2014/04/CMS_tmpl_Page_11_Image_0002.png)](/assets/images/2014/04/CMS_tmpl_Page_11_Image_0002.png)</div></div>### Advanced Mode
 
-<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/Icon_BeCareful.png)](/assets/images/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Emarsys cannot guarantee that changes made in the Advanced Mode are displayed correctly in all email clients, even if "Browse Preview" looks fine.Since the Advanced Mode splits the source code into two versions (HTML/Text), you need to make all changes *twice*, once in HTML, and once more in the Text tab.</td></tr></tbody></table>- Click **Advanced Mode** in Standard Mode to switch editing modes:
+<table cellpadding="1" class="wikitable" style="width: 100%; border: 0px;"><tbody><tr><td scope="col" style="text-align: left; border: 0px solid #999; vertical-align: top;" width="60px">[![Icon BeCareful.png](/assets/images/2014/04/Icon_BeCareful.png)](/assets/images/2014/04/Icon_BeCareful.png)</td> <td scope="col" style="border: 0px solid #999; vertical-align: top; color: #555555;">Emarsys cannot guarantee that changes made in the Advanced Mode are displayed correctly in all email clients, even if "Browse Preview" looks fine.Since the Advanced Mode splits the source code into two versions (HTML/Text), you need to make all changes *twice*, once in HTML, and once more in the Text tab.</td></tr></tbody></table>- Click **Advanced Mode** in Standard Mode to switch editing modes:
 
-<div class="center"><div class="floatnone" style="padding-top: 20px;">[![CMS tmpl Page 12 Image 0002.png](/assets/images/CMS_tmpl_Page_12_Image_0002.png)](/assets/images/CMS_tmpl_Page_12_Image_0002.png)</div></div> Use the Advanced Mode to specify…
+<div class="center"><div class="floatnone" style="padding-top: 20px;">[![CMS tmpl Page 12 Image 0002.png](/assets/images/2014/04/CMS_tmpl_Page_12_Image_0002.png)](/assets/images/2014/04/CMS_tmpl_Page_12_Image_0002.png)</div></div> Use the Advanced Mode to specify…
 
 - Section Heading
 - Body text
@@ -174,4 +174,4 @@ Suite-Specific Template Requirements
 - Multiple links
 - Form Links
 
-<div class="center"><div class="floatnone">[![CMS tmpl Page 12 Image 0003.png](/assets/images/CMS_tmpl_Page_12_Image_0003.png)](/assets/images/CMS_tmpl_Page_12_Image_0003.png)</div></div> Please be aware that line breaks entered in Advanced Mode are encoded via "Shift+Enter". If you start new *paragraphs* (pressing Enter), your layout will break. Different headings must be separated by "ǀ" (pipe character), e.g. Heading1ǀHeading2ǀHeading3ǀ… . Ensure that you do not use more than one URL per section.
+<div class="center"><div class="floatnone">[![CMS tmpl Page 12 Image 0003.png](/assets/images/2014/04/CMS_tmpl_Page_12_Image_0003.png)](/assets/images/2014/04/CMS_tmpl_Page_12_Image_0003.png)</div></div> Please be aware that line breaks entered in Advanced Mode are encoded via "Shift+Enter". If you start new *paragraphs* (pressing Enter), your layout will break. Different headings must be separated by "ǀ" (pipe character), e.g. Heading1ǀHeading2ǀHeading3ǀ… . Ensure that you do not use more than one URL per section.

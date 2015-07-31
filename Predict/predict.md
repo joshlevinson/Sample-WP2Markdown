@@ -1,7 +1,7 @@
 ---
 title: 'Emarsys Predict'
 subject: Predict
-old_url: 'http://emarsys.dev/predict/'
+old_url: 'http://emarsys.dev/old/predict/'
 ---
 
 Emarsys Predict is a predictive recommendation engine which uses machine learning algorithms to offer your customers the best products wherever they interact with your business. Web Extend is a data collection script that provides the raw data from which predictive recommendations (Emarsys Predict) and customer lifecycle segmentation (Smart Insight) can be made. On these pages you will find: [column width="six" place="first" ]
@@ -18,34 +18,34 @@ Emarsys Predict is a predictive recommendation engine which uses machine learnin
 
  [/column] [column width="six" place="second" ]
 
-#### [Implementing Predict](/Predict/getstarted.md)
+#### [Implementing Predict](/GettingStarted_Predict/getstarted.md)
 
  Predict uses Web Extend to collect the data on which it bases its recommendations.
 
-- [<ins class="jstree-icon"></ins>Implementing Web Extend](/Getting%20Started/implementation.md)
+- [<ins class="jstree-icon"></ins>Implementing Web Extend](/Gettingstarted/implementation.md)
 
  There are also some additional actions needed, depending on your requirements:
 
-- [Delivering Website Recommendations](/Getting%20Started/web-rec.md)
-- [Delivering Mobile Recommendations ](/Getting%20Started/mobile.md)
-- [Delivering Email Recommendation ](/Getting%20Started/email-rec.md)
+- [Delivering Website Recommendations](/Gettingstarted/web-rec.md)
+- [Delivering Mobile Recommendations ](/Gettingstarted/mobile.md)
+- [Delivering Email Recommendation ](/Gettingstarted/email-rec.md)
 
  [/column] [column width="six" place="first" ]
 
-#### [Use Cases and Examples](/Predict/use-cases.md)
+#### [Use Cases and Examples](/GettingStarted_Predict/use-cases.md)
 
- Some simple examples of how Predict can make a difference to your business. [Web recommendations](/Predict/webrec.md):
+ Some simple examples of how Predict can make a difference to your business. [Web recommendations](/GettingStarted_Predict/webrec.md):
 
-- [Using the Personal Widget](/Getting%20Started/web-personal.md)
+- [Using the Personal Widget](/Gettingstarted/web-personal.md)
 - [Using the Related Widget](/Predict/web-related.md)
-- [Using the Also-Bought Widget](/Getting%20Started/web-also.md)
-- [Using the Cart Widget](/Getting%20Started/web-cart.md)
+- [Using the Also-Bought Widget](/Gettingstarted/web-also.md)
+- [Using the Cart Widget](/Gettingstarted/web-cart.md)
  
-[Email recommendations](/Getting%20Started/email-rec.md):
+[Email recommendations](/Gettingstarted/email-rec.md):
 
--  [Abandoned Cart campaigns](/Getting%20Started/email-abandoned.md)
-- [Post-Purchase campaigns](/Getting%20Started/email-purchase.md)
-- [Abandoned Browse campaigns](/Getting%20Started/email-personal.md)
+-  [Abandoned Cart campaigns](/Gettingstarted/email-abandoned.md)
+- [Post-Purchase campaigns](/Gettingstarted/email-purchase.md)
+- [Abandoned Browse campaigns](/Gettingstarted/email-personal.md)
 
  [/column] [column width="six" place="second" ]
 
@@ -61,7 +61,7 @@ Emarsys Predict is a predictive recommendation engine which uses machine learnin
 - [The Live Validator page](/Predict/live-validator.md)
 - [The Email Widget Designer](/Uncategorized/widget-designer.md)
 - [Email Recommendations in the Visual CMS](/Predict/email-recomendations-video.md)
-- [A/B Testing Recommendations](/Getting%20Started/ab-testing.md)
+- [A/B Testing Recommendations](/Gettingstarted/ab-testing.md)
 
  [/column] [column width="six" place="first" ]
 

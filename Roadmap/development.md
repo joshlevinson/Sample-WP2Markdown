@@ -1,7 +1,7 @@
 ---
 title: 'Product Development at Emarsys'
 subject: Roadmap
-old_url: 'http://emarsys.dev/development/'
+old_url: 'http://emarsys.dev/old/development/'
 ---
 
 Product Development at Emarsys
@@ -34,4 +34,4 @@ Product Development at Emarsys
 
  To stay agile during this process we test and adjust continuously, and are also able to handle important new feature requests. For added flexibility, we also always work on two release cycles simultaneously, which means while actually developing for one release we are already planning, researching and setting specifications for the next.
 
-<div class="row">[![development-cycles](/assets/images/development-cycles.png)](/assets/images/development-cycles.png)</div> If you have any special feature requests, or would like to take part in one of our pilot projects, just contact Emarsys Support!  
+<div class="row">[![development-cycles](/assets/images/2015/03/development-cycles.png)](/assets/images/2015/03/development-cycles.png)</div> If you have any special feature requests, or would like to take part in one of our pilot projects, just contact Emarsys Support!  

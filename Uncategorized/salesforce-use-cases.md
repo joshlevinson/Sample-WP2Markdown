@@ -1,7 +1,7 @@
 ---
 title: 'Salesforce Integration: Use cases and examples'
 subject: ''
-old_url: 'http://emarsys.dev/suite/connect/salesforce-use-cases/'
+old_url: 'http://emarsys.dev/old/suite/connect-2/salesforce-use-cases/'
 ---
 
 Now that your integration is set up, you can begin to work with it. Here are a few use cases and examples:
@@ -34,9 +34,9 @@ Now that your integration is set up, you can begin to work with it. Here are a f
 
  Once you have your Campaign in Salesforce set up (with Type = *emarsys Email*) and added some Leads and/or Contacts, you can proceed by exporting campaign members to Suite. Click the **Create & Add** button in the **Add Campaign Members to Suite** List box:
 
-<div class="row">[![sf-create-add-members](/assets/images/sf-create-add-members.png)](/assets/images/sf-create-add-members.png)</div> A new window will open (make sure you do not have pop-ups blocked):
+<div class="row">[![sf-create-add-members](/assets/images/2015/03/sf-create-add-members.png)](/assets/images/2015/03/sf-create-add-members.png)</div> A new window will open (make sure you do not have pop-ups blocked):
 
-<div class="row">[![sf-provide-contactlist-name](/assets/images/sf-provide-contactlist-name.png)](/assets/images/sf-provide-contactlist-name.png)</div> Add a name for the Suite contact list and click **Create & Add**. You will receive a confirmation that the contact list has been created and can already log in to Suite to work with it.
+<div class="row">[![sf-provide-contactlist-name](/assets/images/2015/03/sf-provide-contactlist-name.png)](/assets/images/2015/03/sf-provide-contactlist-name.png)</div> Add a name for the Suite contact list and click **Create & Add**. You will receive a confirmation that the contact list has been created and can already log in to Suite to work with it.
 
 <table style="width: 100%;"><tbody><tr><td style="text-align: left; width: 80px; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</td> <td>For very large campaigns (> 10,000 members) it can take a few minutes until the contact list is fully complete.</td></tr></tbody></table><div class="row"></div>#### Use case 3: Map fields between Salesforce and Suite
 

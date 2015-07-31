@@ -1,7 +1,7 @@
 ---
 title: 'Predict Technology'
 subject: Predict
-old_url: 'http://emarsys.dev/predict/technology/'
+old_url: 'http://emarsys.dev/old/predict/technology/'
 ---
 
 The Technology Behind Emarsys Predict
@@ -9,7 +9,7 @@ The Technology Behind Emarsys Predict
 
  Emarsys Predict is a recommendation engine that helps you improve your marketing ROI by presenting the right content to the right people, at the right time and in the right place. It is flexible, measurable and reliable, and sits on top of an exceptionally lightweight client-side integration. This diagram gives an easy overview of what Predict does and how this benefits your business model:
 
-<div class="center"><div class="floatnone">[![Predict Technology 1.jpg](/assets/images/Predict_Technology_1.jpg)](/assets/images/Predict_Technology_1.jpg)</div></div> But among so many recommendation engines, what is it that makes Predict so much better? Here are just a few of the reasons why Predict really is one step ahead of the rest.
+<div class="center"><div class="floatnone">[![Predict Technology 1.jpg](/assets/images/2014/05/Predict_Technology_1.jpg)](/assets/images/2014/05/Predict_Technology_1.jpg)</div></div> But among so many recommendation engines, what is it that makes Predict so much better? Here are just a few of the reasons why Predict really is one step ahead of the rest.
 
 #### Behind the Scenes
 
@@ -33,11 +33,11 @@ The Technology Behind Emarsys Predict
 
 #### Technical Pre-requisites
 
- The only pre-requisites are an Emarsys account and a web shop whose [design is suitable](/Getting%20Started/about.md) for this kind of data capture and one-to-one targeting.
+ The only pre-requisites are an Emarsys account and a web shop whose [design is suitable](/Gettingstarted/about.md) for this kind of data capture and one-to-one targeting.
 
 #### Integration
 
- Predict setup requires only the integration of the Web Extend Scripts, which can be done by your web master in a matter of hours by following our [comprehensive documentation](http://emarsys.dev/getstarted/first-steps/web-extend/). Following that it is simply a case of placing your recommendations where they will have the best effect.
+ Predict setup requires only the integration of the Web Extend Scripts, which can be done by your web master in a matter of hours by following our [comprehensive documentation](http://emarsys.dev/old/getstarted/first-steps/web-extend/). Following that it is simply a case of placing your recommendations where they will have the best effect.
 
 #### Health check tools
 

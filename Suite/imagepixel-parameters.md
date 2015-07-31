@@ -1,7 +1,7 @@
 ---
 title: 'Image Pixel - Parameters Explained'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/reporting/imagepixel-parameters/'
+old_url: 'http://emarsys.dev/old/suite/reporting/imagepixel-parameters/'
 ---
 
 ##### <span class="mw-headline" id="Image_pixel_parameters_explained">Image pixel parameters explained<a name="bs-ue-jumpmark-9a1befba41483124cfc0a0299d459586"></a></span>

@@ -1,7 +1,7 @@
 ---
 title: 'Setting up RSS Feeds'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/content/rss-intro/rss-setup/'
+old_url: 'http://emarsys.dev/old/suite/content/rss-intro/rss-setup/'
 ---
 
 Below you can find all the information you need to set up and activate RSS feeds to populate recurring emails campaigns with content. This section is aimed at technical support staff rather than Suite end users.
@@ -10,7 +10,7 @@ Below you can find all the information you need to set up and activate RSS feeds
 
  The RSS feature uses a Suite template-based recurring email and works by populating sections of that campaign with selected content. This is initially set up for you in conjunction with Emarsys Support. After deciding on the template which provides the framework for the look and feel of the content, you then specify how often and at what time the campaign should run. The RSS scheduler is configured to run the process automatically, pulling the content from the external source and sending it out at the intervals specified without the need for any further action.
 
-<div class="center"><div class="floatnone">[![Visualization of RSS in Suite.png](/assets/images/Visualization_of_RSS_in_Suite.png)](/assets/images/Visualization_of_RSS_in_Suite.png)</div></div><div style="text-align: center;">**Visualization of RSS functionality in Suite**</div> This feature uses a parent/child email campaign relationship. The parent email is a template which defines how the content will be displayed and stores the email properties (language, reply mail address, etc.). It uses XSL to interpret the XML content of the RSS feed to create the output. The child email is created once the XML content has arrived via the RSS feed, and together with the launch list and schedule this becomes the actual email that is sent. A new child email campaign is created for every scheduled launch.
+<div class="center"><div class="floatnone">[![Visualization of RSS in Suite.png](/assets/images/2014/04/Visualization_of_RSS_in_Suite.png)](/assets/images/2014/04/Visualization_of_RSS_in_Suite.png)</div></div><div style="text-align: center;">**Visualization of RSS functionality in Suite**</div> This feature uses a parent/child email campaign relationship. The parent email is a template which defines how the content will be displayed and stores the email properties (language, reply mail address, etc.). It uses XSL to interpret the XML content of the RSS feed to create the output. The child email is created once the XML content has arrived via the RSS feed, and together with the launch list and schedule this becomes the actual email that is sent. A new child email campaign is created for every scheduled launch.
 
 ### Setting up RSS in Suite
 
@@ -29,9 +29,9 @@ Below you can find all the information you need to set up and activate RSS feeds
 <table border="0" cellpadding="1" class="wikitable" style="width: 100%; border-width: 0px; border-style: solid;"><thead><tr><th style="text-align: left; border-color: #fff; background-color: #fff; color: #eb5a19;">**Please Note:**</th> </tr></thead><tbody><tr><td style="text-align: left; border-color: #fff; background-color: #fff; color: #555555;">- The delay time enables you to review your content before sending using a defined pre-fetch time limit. For example, you can create the child email one hour before the scheduled launch time, giving you the chance to review and edit the content if needed. This lead time can be particularly useful for customers who have websites with content that changes rapidly (e.g. a news website) and want to review the message before sending. The minimum delay is 5 minutes, our recommendation is at least 30 minutes.
 - Should any changes be required to the parent email template after the RSS has been set up then you would need to contact Emarsys Support, who can advise further.
  
-</td> </tr></tbody></table>[![Components_of_an_RSS_Campaign.png](/assets/images/Components_of_an_RSS_Campaign.png)](/assets/images/Components_of_an_RSS_Campaign.png "Components_of_an_RSS_Campaign.png")<div style="text-align: center;">**Illustrated components of a configured RSS campaign**</div>### RSS Code Example
+</td> </tr></tbody></table>[![Components_of_an_RSS_Campaign.png](/assets/images/2014/04/Components_of_an_RSS_Campaign.png)](/assets/images/2014/04/Components_of_an_RSS_Campaign.png "Components_of_an_RSS_Campaign.png")<div style="text-align: center;">**Illustrated components of a configured RSS campaign**</div>### RSS Code Example
 
- When an RSS-based email is created the underlying code of the message generated looks like the following example, once it has drawn on all the elements of the configured email campaign. [![RSS Code Example.png](/assets/images/RSS_Code_Example.png)](/assets/images/RSS_Code_Example.png)
+ When an RSS-based email is created the underlying code of the message generated looks like the following example, once it has drawn on all the elements of the configured email campaign. [![RSS Code Example.png](/assets/images/2014/04/RSS_Code_Example.png)](/assets/images/2014/04/RSS_Code_Example.png)
 
 <div style="text-align: center;">**Example of RSS code**</div>### Including Link Categories in the Content
 

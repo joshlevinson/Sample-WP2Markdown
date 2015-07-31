@@ -1,7 +1,7 @@
 ---
 title: 'Suite Version 8.1.1'
 subject: Roadmap
-old_url: 'http://emarsys.dev/development/suite-version-8-1-1/'
+old_url: 'http://emarsys.dev/old/development/suite-version-8-1-1/'
 ---
 
 Suite version 8.1.1##### December, 2014
@@ -15,4 +15,4 @@ Suite version 8.1.1##### December, 2014
 - More metrics including mobile responses
 - Export of  the analysis
 
- For full details, read the user guide [here](/Roadmap/suite-version-8-1-1.md "Suite Version 8.1.1"). [![trend_reporting_8.1.1](/assets/images/trend_reporting_8.1.1-1024x531.png)](/assets/images/trend_reporting_8.1.1.png)
+ For full details, read the user guide [here](/Roadmap/suite-version-8-1-1.md "Suite Version 8.1.1"). [![trend_reporting_8.1.1](/assets/images/2014/12/trend_reporting_8.1.1-1024x531.png)](/assets/images/2014/12/trend_reporting_8.1.1.png)

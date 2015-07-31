@@ -1,7 +1,7 @@
 ---
 title: 'Ecommerce Tracking'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/reporting/ecommerce-tracking/'
+old_url: 'http://emarsys.dev/old/suite/reporting/ecommerce-tracking/'
 ---
 
 The Emarsys **Ecommerce Tracking** feature gives you the ability to track end-user activity in your web shop and then analyse the data using Emarsys eMarketing Suite. This allows you to monitor the success of your campaigns in terms of online orders, and end-user behavior with regards to actual and abandoned purchase trends.

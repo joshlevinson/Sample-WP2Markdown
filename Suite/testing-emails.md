@@ -1,7 +1,7 @@
 ---
 title: 'Testing the Email'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/campaigns/testing-emails/'
+old_url: 'http://emarsys.dev/old/suite/campaigns/testing-emails/'
 ---
 
 Before you launch your email campaign, you should test it to ensure that all the content is being displayed correctly. There are three testing utilities available:

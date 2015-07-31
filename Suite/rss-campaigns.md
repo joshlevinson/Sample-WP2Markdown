@@ -1,13 +1,13 @@
 ---
 title: 'RSS Email Campaigns'
 subject: Suite
-old_url: 'http://emarsys.dev/suite/content/rss-intro/rss-campaigns/'
+old_url: 'http://emarsys.dev/old/suite/content/rss-intro/rss-campaigns/'
 ---
 
 Once the RSS feeds and recurring email campaigns have been set up, there is very little for the end user to do. RSS emails are listed as **recurring** emails in the **Email Campaigns** list, and each child email is named using the following convention: **Date_Time_Parent-Campaign-Title**
 
 
-    <a href="/assets/images/RSS_Campaign_Overview_in_Suite.png"><img alt="RSS_Campaign_Overview_in_Suite.png" class=" maxwidth alignnone" height="552" src="/assets/images/RSS_Campaign_Overview_in_Suite.png" width="552"></img></a>
+    <a href="/assets/images/2014/04/RSS_Campaign_Overview_in_Suite.png"><img alt="RSS_Campaign_Overview_in_Suite.png" class=" maxwidth alignnone" height="552" src="/assets/images/2014/04/RSS_Campaign_Overview_in_Suite.png" width="552"></img></a>
 
 <div style="text-align: center;">***Examples of RSS Child Campaigns as seen in Suite***</div> Using this naming convention ensures that each child campaign has its own entry in the email list and in the **Reports & Analysis** page, which allows you easily to identify and analyze each RSS instance once it has been sent.
 
